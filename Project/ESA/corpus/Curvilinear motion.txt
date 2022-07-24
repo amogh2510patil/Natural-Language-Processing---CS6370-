@@ -1,0 +1,14 @@
+The motion of an object moving in a curved path is called curvilinear motion.
+Example: A stone thrown into the air at an angle. 
+Curvilinear motion describes the motion of a moving particle that conforms to a known or fixed curve. The study of such motion involves the use of two co-ordinate systems, the first being planar motion and the latter being cylindrical motion.
+
+
+== Planar motion ==
+In planar motion, the velocity and acceleration components of the particle are always tangential and normal to the fixed curve. The velocity is always tangential to the curve and the acceleration can be broken up into both a tangential and normal component.
+
+
+== Cylindrical components ==
+With cylindrical co-ordinates which are described as î and j, the motion is best described in polar form with components that resemble polar vectors. As with planar motion, the velocity is always tangential to the curve, but in this form acceleration consist of different intermediate components that can now run along the radius and its normal vector. This type of co-ordinate system is best used when the motion is restricted to the plane upon which it travels.
+
+
+== References ==

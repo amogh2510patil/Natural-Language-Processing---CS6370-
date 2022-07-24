@@ -1,0 +1,41 @@
+In thermodynamics, an adiabatic wall between two thermodynamic systems does not allow heat or chemical substances to pass across it, in other words there is no heat transfer nor mass transfer.
+In theoretical investigations, it is sometimes assumed that one of the two systems is the surroundings of the other. Then it is assumed that the work transferred is reversible within the surroundings, but in thermodynamics it is not assumed that the work transferred is reversible within the system. The assumption of reversibility in the surroundings has the consequence that the quantity of work transferred is well defined by macroscopic variables in the surroundings. Accordingly, the surroundings are sometimes said to have a reversible work reservoir.
+Along with the idea of an adiabatic wall is that of an adiabatic enclosure. It is easily possible that a system has some boundary walls that are adiabatic and others that are not. When some are not adiabatic, then the system is not adiabatically enclosed, though adiabatic transfer of energy as work can occur across the adiabatic walls.
+The adiabatic enclosure is important because, according to one widely cited author, Herbert Callen, "An essential prerequisite for the measurability of energy is the existence of walls that do not permit the transfer of energy in the form of heat." In thermodynamics, it is customary to assume a priori the physical existence of adiabatic enclosures, though it is not customary to label this assumption separately as an axiom or numbered law.
+
+
+== Construction of the concept of an adiabatic enclosure ==
+
+
+=== Definitions of transfer of heat ===
+In theoretical thermodynamics, respected authors vary in their approaches to the definition of quantity of heat transferred. There are two main streams of thinking. One is from a primarily empirical viewpoint (which will here be referred to as the thermodynamic stream), to define heat transfer as occurring only by specified macroscopic mechanisms; loosely speaking, this approach is historically older. The other (which will here be referred to as the mechanical stream) is from a primarily theoretical viewpoint, to define it as a residual quantity after transfers of energy as macroscopic work, between two bodies or closed systems, have been determined for a process, so as to conform with the principle of conservation of energy or the first law of thermodynamics for closed systems; this approach grew in the twentieth century, though was partly manifest in the nineteenth.
+
+
+==== Thermodynamic stream of thinking ====
+In the thermodynamic stream of thinking, the specified mechanisms of heat transfer are conduction and radiation. These mechanisms presuppose recognition of temperature; empirical temperature is enough for this purpose, though absolute temperature can also serve. In this stream of thinking, quantity of heat is defined primarily through calorimetry.Though its definition of them differs from that of the mechanical stream of thinking, the empirical stream of thinking nevertheless presupposes the existence of adiabatic enclosures. It defines them through the concepts of heat and temperature. These two concepts are coordinately coherent in the sense that they arise jointly in the description of experiments of transfer of energy as heat.
+
+
+==== Mechanical stream of thinking ====
+In the mechanical stream of thinking about a process of transfer of energy between two bodies or closed systems, heat transferred is defined as a residual amount of energy transferred after the energy transferred as work has been determined, assuming for the calculation the law of conservation of energy, without reference to the concept of temperature. There are five main elements of the underlying theory.
+
+The existence of states of thermodynamic equilibrium, determinable by precisely one (called the non-deformation variable) more variable of state than the number of independent work (deformation) variables.
+That a state of internal thermodynamic equilibrium of a body have a well defined internal energy, that is postulated by the first law of thermodynamics.
+The universality of the law of conservation of energy.
+The recognition of work as a form of energy transfer.
+The universal irreversibility of natural processes.
+The existence of adiabatic enclosures.
+The existence of walls permeable only to heat.Axiomatic presentations of this stream of thinking vary slightly, but they intend to avoid the notions of heat and of temperature in their axioms. It is essential to this stream of thinking that heat is not presupposed as being measurable by calorimetry. It is essential to this stream of thinking that, for the specification of the thermodynamic state of a body or closed system, in addition to the variables of state called deformation variables, there be precisely one extra real-number-valued variable of state, called the non-deformation variable, though it should not be axiomatically recognized as an empirical temperature, even though it satisfies the criteria for one.
+
+
+=== Accounts of the adiabatic wall ===
+The authors Buchdahl, Callen, and Haase make no mention of the passage of radiation, thermal or coherent, across their adiabatic walls. Carathéodory explicitly discusses problems with respect to thermal radiation, which is incoherent, and he was probably unaware of the practical possibility of laser light, which is coherent. Carathéodory in 1909 says that he leaves such questions unanswered.
+For the thermodynamic stream of thinking, the notion of empirical temperature is coordinately presupposed in the notion of heat transfer for the definition of an adiabatic wall.For the mechanical stream of thinking, the exact way in which the adiabatic wall is defined is important.
+In the presentation of Carathéodory, it is essential that the definition of the adiabatic wall should in no way depend upon the notions of heat or temperature. This is achieved by careful wording and reference to transfer of energy only as work. Buchdahl is careful in the same way. Nevertheless, Carathéodory explicitly postulates the existence of walls that are permeable only to heat, that is to say impermeable to work and to matter, but still permeable to energy in some unspecified way. One might be forgiven for inferring from this that heat is energy in transfer across walls permeable only to heat, and that such exist as undefined postulated primitives.
+In the widely cited presentation of Callen, the notion of an adiabatic wall is introduced as a limit of a wall that is poorly conductive of heat. Although Callen does not here explicitly mention temperature, he considers the case of an experiment with melting ice, done on a summer's day, when, the reader may speculate, the temperature of the surrounds would be higher. Nevertheless, when it comes to a hard core definition, Callen does not use this introductory account. He eventually defines an adiabatic enclosure as does Carathéodory, that it passes energy only as work, and does not pass matter. Accordingly, he defines heat, therefore, as energy that is transferred across the boundary of a closed system other than by work.
+As suggested for example by Carathéodory and used for example by Callen, the favoured instance of an adiabatic wall is that of a Dewar flask. A Dewar flask has rigid walls. Nevertheless, Carathéodory requires that his adiabatic walls shall be imagined to be flexible, and that the pressures on these flexible walls be adjusted and controlled externally so that the walls are not deformed, unless a process is undertaken in which work is transferred across the walls. The work considered by Carathéodory is pressure-volume work. Another text considers asbestos and fiberglass as good examples of materials that constitute a practicable adiabatic wall.The mechanical stream of thinking thus regards the adiabatic enclosure's property of not allowing the transfer of heat across itself as a deduction from the Carathéodory axioms of thermodynamics.
+
+
+== References ==
+
+
+=== Bibliography ===

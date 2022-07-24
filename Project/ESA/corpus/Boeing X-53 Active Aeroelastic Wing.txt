@@ -1,0 +1,50 @@
+The X-53 Active Aeroelastic Wing (AAW) development program is a completed  American research project that was undertaken jointly by the Air Force Research Laboratory (AFRL), Boeing Phantom Works and NASA's Dryden Flight Research Center, where the technology was flight tested on a modified McDonnell Douglas F/A-18 Hornet. Active Aeroelastic Wing Technology is a technology that integrates wing aerodynamics, controls, and structure to harness and control wing aeroelastic twist at high speeds and dynamic pressures. By using multiple leading and trailing edge controls like "aerodynamic tabs", subtle amounts of aeroelastic twist can be controlled to provide large amounts of wing control power, while minimizing maneuver air loads at high wing strain conditions or aerodynamic drag at low wing strain conditions. This program was the first full-scale proof of AAW technology.
+
+
+== Development ==
+Development of the initial concept was done with wind-tunnel testing in the mid 1980s under Air Force contract. The designation "X-52" was skipped in sequence to avoid confusion with Boeing's B-52 Stratofortress bomber.
+The pre-production version of the F/A-18 was an ideal aircraft for proving AAW technology, a relatively high wing aspect ratio for a fighter, with adequate strength, but no additional stiffness needed to be added to change its twisting behaviour. The X-53 F/A-18 was modified to allow two leading edge control surfaces to work together with its two trailing edge surfaces to control wing aeroelastic twist and provide excellent high speed rolling performance.
+
+AAW was developed from the knowledge that the aeroelasticity of the wing, caused by deflecting one control surface, can be offset by deflecting other control surfaces. In particular, almost all modern aircraft use some form of slat along the wing leading edge to provide more lift during certain portions of flight. By deploying the slats at the same time as the ailerons their twisting effect on the main structural parts of the wing, oppose one another which eliminates the twisting. This improves the ability of the ailerons to produce large rolling moments on the aircraft. This means that less aileron deflection is needed to produce a required motion, which, in turn, will reduce aileron drag and its associated unwanted tendency to cause the aircraft to yaw.
+If the controls can be used to eliminate the twisting and its negative effects on control input, the next step is to deliberately introduce some twisting which adds to the effect of the control deflection. When applied correctly, the wing will twist less and in an opposite direction to a conventional wing during maneuvering. So this change, which can be accomplished in software, benefits overall performance.
+
+
+== Flight testing ==
+
+To test the AAW theory, NASA and the USAF agreed to fund development of a single demonstrator, based on the F/A-18. Work started by taking an existing F/A-18 airframe modified with a preproduction wing, and added an outboard leading edge flap drive system and an updated flight control computer. Active aeroelastic wing control laws were developed to flex the wing, and flight instrumentation was used to accurately measure the aeroelastic performance of the wing planform. Flight software was then modified for flight testing, and the aircraft first flew in modified form on November 15, 2002. The aircraft successfully proved the viability of the concept in full scale during roll maneuver testing in 2004–2005. The test aircraft was re-designated X-53 on August 16, 2006, per memo by USAF Deputy Chief of Staff, Strategic Plans and Programs.
+
+
+== Specifications ==
+General characteristics
+
+Crew: 1
+Wingspan: 38 ft 5 in (11.71 m)
+Height: 15 ft 3 in (4.65 m)
+Max takeoff weight: 39,000 lb (17,690 kg)
+Powerplant: 2 × General Electric F404-GE-400 low-bypass turbofan engines, 16,000 lbf (71 kN) thrust eachPerformance
+
+Maximum speed: 1,188 mph (1,912 km/h, 1,032 kn)
+Service ceiling: 50,000 ft (15,000 m)Avionics
+The leading edge flap drive system was modified at McDonnell Douglas (now Boeing Phantom works) using an outboard actuation unit developed by Moog Inc. AAW flight control laws were programmed into a research flight control computer modified to include independently actuated outboard leading edge control surfaces.
+
+
+== See also ==
+
+Adaptive compliant wing
+Aeroelasticity
+Aeroelastic wing on the Grumman X-29
+Parker variable wing
+
+
+== References ==
+Footnotes
+
+
+== Further reading ==
+
+
+== External links ==
+Technology that enables wing 'warping' rolled out at Dryden, Boeing
+Boeing Active Aeroelastic Wing page
+AAW NASA gallery
+Boeing X-53 (2006): Active Aeroelastic Wing  Aviation Week & Space Technology

@@ -1,0 +1,101 @@
+A turbine blade is the individual component which makes up the turbine section of a gas turbine or steam turbine. The blades are responsible for extracting energy from the high temperature, high pressure gas produced by the combustor. The turbine blades are often the limiting component of gas turbines. To survive in this difficult environment, turbine blades often use exotic materials like superalloys and many different methods of cooling that can be categorized as internal and external cooling, and thermal barrier coatings. Blade fatigue is a major source of failure in steam turbines and gas turbines. Fatigue is caused by the stress induced by vibration and resonance within the operating range of machinery. To protect blades from these high dynamic stresses, friction dampers are used.Blades of wind turbines and water turbines are designed to operate in different conditions, which typically involve lower rotational speeds and temperatures.
+
+
+== Introduction ==
+
+In a gas turbine engine, a single turbine section is made up of a disk or hub that holds many turbine blades. That turbine section is connected to a compressor section via a shaft (or "spool"), and that compressor section can either be axial or centrifugal. Air is compressed, raising the pressure and temperature, through the compressor stages of the engine. The temperature is then greatly increased by combustion of fuel inside the combustor, which sits between the compressor stages and the turbine stages. The high-temperature and high-pressure exhaust gases then pass through the turbine stages. The turbine stages extract energy from this flow, lowering the pressure and temperature of the air and transfer the kinetic energy to the compressor stages along the spool. This process is very similar to how an axial compressor works, only in reverse.The number of turbine stages varies in different types of engines, with high-bypass-ratio engines tending to have the most turbine stages. The number of turbine stages can have a great effect on how the turbine blades are designed for each stage. Many gas turbine engines are twin-spool designs, meaning that there is a high-pressure spool and a low-pressure spool. Other gas turbines use three spools, adding an intermediate-pressure spool between the high- and low-pressure spool. The high-pressure turbine is exposed to the hottest, highest-pressure air, and the low-pressure turbine is subjected to cooler, lower-pressure air. The difference in conditions leads to the design of high-pressure and low-pressure turbine blades that are significantly different in material and cooling choices even though the aerodynamic and thermodynamic principles are the same.
+Under these severe operating conditions inside the gas and steam turbines, the blades face high temperature, high stresses, and potentially high vibrations. Steam turbine blades are critical components in power plants which convert the linear motion of high-temperature and high-pressure steam flowing down a pressure gradient into a rotary motion of the turbine shaft.
+
+
+== Environment and failure modes ==
+Turbine blades are subjected to very strenuous environments inside a gas turbine. They face high temperatures, high stresses, and a potential environment of high vibration. All three of these factors can lead to blade failures, potentially destroying the engine, therefore turbine blades are carefully designed to resist these conditions.Turbine blades are subjected to stress from centrifugal force (turbine stages can rotate at tens of thousands of revolutions per minute (RPM)) and fluid forces that can cause fracture, yielding, or creep failures. Additionally, the first stage (the stage directly following the combustor) of a modern gas turbine faces temperatures around 2,500 °F (1,370 °C), up from temperatures around 1,500 °F (820 °C) in early gas turbines. Modern military jet engines, like the Snecma M88, can see turbine temperatures of 2,900 °F (1,590 °C).  Those high temperatures can weaken the blades and make them more susceptible to creep failures. The high temperatures can also make the blades susceptible to corrosion failures. Finally, vibrations from the engine and the turbine itself can cause fatigue failures.
+
+
+== Materials ==
+A  limiting factor in early jet engines was the performance of the materials available for the hot section (combustor and turbine) of the engine. The need for better materials spurred much research in the field of alloys and manufacturing techniques, and that research resulted in a long list of new materials and methods that make modern gas turbines possible. One of the earliest of these was Nimonic, used in the British Whittle engines.
+The development of superalloys in the 1940s and new processing methods such as vacuum induction melting in the 1950s greatly increased the temperature capability of turbine blades. Further processing methods like hot isostatic pressing improved the alloys used for turbine blades and increased turbine blade performance. Modern turbine blades often use nickel-based superalloys that incorporate chromium, cobalt, and rhenium.Aside from alloy improvements, a major breakthrough was the development of directional solidification (DS) and single crystal (SC) production methods. These methods help greatly increase strength against fatigue and creep by aligning grain boundaries in one direction (DS) or by eliminating grain boundaries altogether (SC). SC research began in the 1960s with Pratt and Whitney and took about 10 years to be implemented. One of the first implementations of DS was with the J58 engines of the SR-71.
+
+Another major improvement to turbine blade material technology was the development of thermal barrier coatings (TBC). Where DS and SC developments improved creep and fatigue resistance, TBCs improved corrosion and oxidation resistance, both of which became greater concerns as temperatures increased. The first TBCs, applied in the 1970s, were aluminide coatings. Improved ceramic coatings became available in the 1980s. These coatings increased turbine blade temperature capability by about 200 °F (90 °C). The coatings also improve blade life, almost doubling the life of turbine blades in some cases.Most turbine blades are manufactured by investment casting (or lost-wax processing). This process involves making a precise negative die of the blade shape that is filled with wax to form the blade shape. If the blade is hollow (i.e., it has internal cooling passages), a ceramic core in the shape of the passage is inserted into the middle. The wax blade is coated with a heat-resistant material to make a shell, and then that shell is filled with the blade alloy. This step can be more complicated for DS or SC materials, but the process is similar. If there is a ceramic core in the middle of the blade, it is dissolved in a solution that leaves the blade hollow. The blades are coated with a TBC, and then any cooling holes are machined.Ceramic matrix composites (CMC), where fibers are embedded in a matrix of polymer derived ceramics, are being developed for use in turbine blades. The main advantage of CMCs over conventional superalloys is their light weight and high temperature capability. SiC/SiC composites consisting of a silicon carbide matrix reinforced by silicon carbide fibers have been shown to withstand operating temperatures 200°-300 °F higher than nickel superalloys. GE Aviation successfully demonstrated the use of such SiC/SiC composite blades for the low-pressure turbine of its F414 jet engine.
+
+
+=== List of turbine blade materials ===
+Note: This list is not inclusive of all alloys used in turbine blades.
+U-500 This material was used as a first stage (the most demanding stage) material in the 1960s, and is now used in later, less demanding, stages.
+Rene 77
+Rene N5
+Rene N6
+PWA1484
+CMSX-4 
+CMSX-10
+Inconel
+IN-738 – GE used IN-738 as a first stage blade material from 1971 until 1984, when it was replaced by GTD-111. It is now used as a second stage material. It was specifically designed for land-based turbines rather than aircraft gas turbines.
+GTD-111 Blades made from directionally solidified GTD-111 are being used in many GE Energy gas turbines in the first stage. Blades made from equiaxed GTD-111 are being used in later stages.
+EPM-102 (MX4 (GE), PWA 1497 (P&W)) is a single crystal superalloy jointly developed by NASA, GE Aviation, and Pratt & Whitney for the High Speed Civil Transport (HSCT). While the HSCT program was cancelled, the alloy is still being considered for use by GE and P&W.
+Nimonic 80a was used for the turbine blades on the Rolls-Royce Nene and de Havilland Ghost
+Nimonic 90 was used on the Bristol Proteus.
+Nimonic 105 was used on the Rolls-Royce Spey.
+Nimonic 263 was used in the combustion chambers of the Bristol Olympus used on the Concorde supersonic airliner.
+3D printed thermoplastic resin to create wind turbine blades is in development in a partnership between ORNL, NREL, and GE Renewable Energy.
+
+
+== Cooling ==
+At a constant pressure ratio, thermal efficiency of the engine increases as the turbine entry temperature (TET) increases. However, high temperatures can damage the turbine, as the blades are under large centrifugal stresses and materials are weaker at high temperature. So, turbine blade cooling is essential. Current modern turbine designs are operating with inlet temperatures higher than 1900 kelvins which is achieved by actively cooling the turbine components.
+
+
+=== Methods of cooling ===
+
+Cooling of components can be achieved by air or liquid cooling. Liquid cooling seems to be more attractive because of high specific heat capacity and chances of evaporative cooling but there can be leakage, corrosion, choking and other problems. which works against this method.  On the other hand, air cooling allows the discharged air into main flow without any problem. Quantity of air required for this purpose is 1–3% of main flow and blade temperature can be reduced by 200–300 °C. 
+There are many techniques of cooling used in gas turbine blades; convection, film, transpiration cooling, cooling effusion, pin fin cooling etc. which fall under the categories of internal and external cooling. While all methods have their differences, they all work by using cooler air (often bled from the compressor) to remove heat from the turbine blades.
+
+
+=== Internal cooling ===
+
+
+==== Convection cooling ====
+
+It works by passing cooling air through passages internal to the blade. Heat is transferred by conduction through the blade, and then by convection into the air flowing inside of the blade. A large internal surface area is desirable for this method, so the cooling paths tend to be serpentine and full of small fins. The internal passages in the blade may be circular or elliptical in shape. Cooling is achieved by passing the air through these passages from hub towards the blade tip. This cooling air comes from an air compressor. In case of gas turbine the fluid outside is relatively hot which passes through the cooling passage and mixes with the main stream at the blade tip.
+
+
+==== Impingement cooling ====
+
+A variation of convection cooling, impingement cooling, works by hitting the inner surface of the blade with high velocity air. This allows more heat to be transferred by convection than regular convection cooling does. Impingement cooling is used in the regions of greatest heat loads. In case of turbine blades, the leading edge has maximum temperature and thus heat load. Impingement cooling is also used in mid chord of the vane. Blades are hollow with a core.  There are internal cooling passages. Cooling air enters from the leading edge region and turns towards the trailing edge.
+
+
+=== External cooling ===
+
+
+==== Film cooling ====
+
+Film cooling (also called thin film cooling), a widely used type, allows for higher cooling effectiveness than either convection and impingement cooling. This technique consists of pumping the cooling air out of the blade through multiple small holes or slots in the structure.  A thin layer (the film) of cooling air is then created on the external surface of the blade, reducing the heat transfer from main flow, whose temperature (1300–1800 kelvins) can exceed the melting point of the blade material (1300–1400 kelvins). The ability of the film cooling system to cool the surface is typically evaluated using a parameter called cooling effectiveness. Higher cooling effectiveness (with maximum value of one) indicates that the blade material temperature is closer to the coolant temperature. In locations where the blade temperature approaches the hot gas temperature, the cooling effectiveness approaches to zero. The cooling effectiveness is mainly affected by the coolant flow parameters and the injection geometry. Coolant flow parameters include the velocity, density, blowing and momentum ratios which are calculated using the coolant and mainstream flow characteristics. Injection geometry parameters consist of hole or slot geometry (i.e. cylindrical, shaped holes or slots) and injections angle. A United States Air Force program in the early 1970s funded the development of a turbine blade that was both film and convection cooled, and that method has become common in modern turbine blades.
+Injecting the cooler bleed into the flow reduces turbine isentropic efficiency; the compression of the cooling air (which does not contribute power to the engine) incurs an energetic penalty; and the cooling circuit adds considerable complexity to the engine. All of these factors have to be compensated by the increase in overall performance (power and efficiency) allowed by the increase in turbine temperature.
+In recent years, researchers have suggested using plasma actuator for film cooling. The film cooling of turbine blades by using a dielectric barrier discharge plasma actuator was first proposed by Roy and Wang. A horseshoe-shaped plasma actuator, which is set in the vicinity of holes for gas flow, has been shown to improve the film cooling effectiveness significantly. Following the previous research,
+recent reports using both experimental and numerical methods demonstrated the effect of cooling enhancement by 15% using a plasma actuator.
+
+
+==== Cooling effusion ====
+
+The blade surface is made of porous material which means having a large number of small orifices on the surface. Cooling air is forced through these porous holes which forms a film or cooler boundary layer. Besides this uniform cooling is caused by effusion of the coolant over the entire blade surface.
+
+
+==== Pin fin cooling ====
+In the narrow trailing edge film cooling is used to enhance heat transfer from the blade. There is an array of pin fins on the blade surface. Heat transfer takes place from this array and through the side walls. As the coolant flows across the fins with high velocity, the flow separates and wakes are formed. Many factors contribute towards heat transfer rate among which the type of pin fin and the spacing between fins are the most significant.
+
+
+==== Transpiration cooling ====
+This is similar to film cooling in that it creates a thin film of cooling air on the blade, but it is different in that air is "leaked" through a porous shell rather than injected through holes. This type of cooling is effective at high temperatures as it uniformly covers the entire blade with cool air. Transpiration-cooled blades generally consist of a rigid strut with a porous shell. Air flows through internal channels of the strut and then passes through the porous shell to cool the blade. As with film cooling, increased cooling air decreases turbine efficiency, therefore that decrease has to be balanced with improved temperature performance.
+
+
+== See also ==
+Combustor
+High temperature corrosion
+Gas turbine
+Superalloys
+
+
+== Notes ==
+
+
+== References ==
+
+BibliographyYAHYA, SM (2011). "Chapter 10: High temperature(cooled) turbine stages". turbines, compressor and fans (4th ed.). New delhi: Tata McGraw Hill Education private limited. ISBN 978-0-07-070702-3.Flack, Ronald D. (2005). "Chapter 8: Axial Flow Turbines". Fundamentals of Jet Propulsion with Applications. Cambridge Aerospace Series. New York, NY: Cambridge University Press. ISBN 978-0-521-81983-1.
+Boyce, Meherwan P. (2006). "Chapter 9: Axial Flow Turbines and Chapter 11: Materials". Gas Turbine Engineering Handbook (3rd ed.). Oxford: Elsevier. ISBN 978-0-7506-7846-9.

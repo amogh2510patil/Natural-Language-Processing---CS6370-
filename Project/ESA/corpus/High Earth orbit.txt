@@ -1,0 +1,11 @@
+A high Earth orbit is a geocentric orbit with an altitude entirely above that of a geosynchronous orbit (35,786 kilometres, 22,236 mi). The orbital periods of such orbits are greater than 24 hours, therefore satellites in such orbits have an apparent retrograde motion – that is, even if they are in a prograde orbit (0° ≤ inclination < 90°), their orbital velocity is lower than Earth's rotational speed, causing their ground track to move westward on Earth's surface.
+
+
+== Examples of satellites in high Earth orbit ==
+
+
+== See also ==
+Ukrainian Optical Facilities for Near-Earth Space Surveillance Network
+
+
+== References ==

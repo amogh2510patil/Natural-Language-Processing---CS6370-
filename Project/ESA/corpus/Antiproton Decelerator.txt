@@ -1,0 +1,170 @@
+The Antiproton Decelerator (AD) is a storage ring at the CERN laboratory near Geneva. It was built from the Antiproton Collector (AC) to be a successor to the Low Energy Antiproton Ring (LEAR) and started operation in the year 2000. Antiprotons are created by impinging a proton beam from the Proton Synchrotron on a metal target. The AD decelerates the resultant antiprotons to an energy of 5.3 MeV, which are then ejected to one of several connected experiments.
+The major goals of experiments at AD are to spectroscopically observe the antihydrogen and to study the effects of gravity on antimatter. Though each experiment at AD has varied aims ranging from testing antimatter for cancer therapy to CPT symmetry and antigravity research.
+
+
+== History ==
+From 1982 to 1996, CERN operated the Low Energy Antiproton Ring (LEAR), through which several experiments with slow-moving antiprotons were carried out. During the end stages of LEAR, the physics community involved in those antimatter experiments wanted to continue their studies with the slow antiprotons. The motivation to build the AD grew out of the Antihydrogen Workshop held in Munich in 1992. This idea was carried forward quickly and AD's feasibility study was completed by 1995.In 1996, the CERN Council asked the Proton Synchrotron (PS) division to look into the possibility of generating slow antiproton beams. The PS division prepared a design study in 1996 with the solution to use the antiproton collector (AC), and transform it into a single Antiproton Decelerator Machine. The AD was approved in February 1997.AC modification, AD installation, and commissioning process were carried out in the next three years. By the end of 1999, the AC ring was modified into a decelerator and cooling system- forming the Antiproton Decelerator.
+
+
+== Decelerator ==
+AD's oval-shaped perimeter has four straight sections where the deceleration and cooling systems are placed. There are several dipole and quadrupole magnets in these sections to avoid beam dispersion. Antiprotons are cooled and decelerated in a single 100-second cycle in the AD synchrotron.
+
+
+=== Production of antiprotons ===
+AD requires about 
+  
+    
+      
+        
+          
+            10
+            
+              13
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {10^{13}} }
+   protons of momentum 
+  
+    
+      
+        
+          26
+          G
+          e
+          V
+          
+            /
+          
+          c
+        
+      
+    
+    {\displaystyle \mathrm {26GeV/c} }
+   to produce 
+  
+    
+      
+        
+          5
+          ×
+          
+            10
+            
+              7
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {5\times 10^{7}} }
+   antiprotons per minute. The high-energy protons coming from the proton synchrotron are made to collide with a thin, highly dense rod of iridium metal of 3mm diameter and 55 cm in length. The iridium rod embedded in graphite and enclosed by a sealed water-cooled titanium case remains intact. But the collisions create a lot of energetic particles, including the antiprotons. A magnetic bi-conical aluminum horn-type lens collects the antiprotons emerging from the target. This collector takes in the 
+  
+    
+      
+        
+          3.5
+          G
+          e
+          V
+          
+            /
+          
+          c
+        
+      
+    
+    {\displaystyle \mathrm {3.5GeV/c} }
+   antiprotons, and they are separated from other particles using deflection through electromagnetic forces.
+
+
+=== Deceleration, accumulation and cooling down ===
+The radio frequency (RF) systems carry out the tasks of deceleration and bunching of cooled antiprotons at 3.5GeV/c. There are numerous magnets inside, which focus and bend the randomly moving antiproton into a collimated beam. Simultaneously the electric fields decelerate them.Stochastic cooling and electron cooling stages designed inside the AD decrease the energy of beams as well as limit the antiproton beam from any significant distortions. Stochastic cooling is applied for antiprotons at 3.5GeV/c and then at 2 GeV/c, followed by electron cooling at 0.3 GeV/c and at 0.1 GeV/c. The final output beam has a momentum of 0.1GeV/C (kinetic energy equal to 5.3MeV). These antiprotons move with the speed of about one-tenth that of light.But the experiments need much lower energy beams (3 to 5 KeV). So the antiprotons are again decelerated to ~5 KeV, using the degrader foils. This step accounts for the loss of 99.9% of antiprotons. The collected antiprotons are then temporarily stored in the Penning traps; before being fed into the several AD experiments. The Penning traps can also form antihydrogen by combining antiprotons with the positrons.
+
+
+== ELENA ==
+
+ELENA (Extra Low ENergy Antiproton) is a 30 m hexagonal storage ring situated inside the AD complex. It is designed to further decelerate the antiproton beam to an energy of 0.1 MeV for more precise measurements. The first beam circulated ELENA on 18 November 2016. The ring is expected to be fully operational by the end of the Long Shutdown 2 (LS2) in 2021. GBAR was the first experiment to use a beam from ELENA, with the rest of the AD experiments following suit after LS2 when  beam transfer lines from ELENA will have been laid to all the experiments using the facility.
+
+
+== AD experiments ==
+
+
+=== ATHENA ===
+
+ATHENA,  AD-1 experiment, was an antimatter research project that took place at the Antiproton Decelerator. In August 2002, it was the first experiment to produce 50,000 low-energy antihydrogen atoms, as reported in Nature. In 2005, ATHENA was disbanded and many of the former members worked on the subsequent ALPHA experiment.
+
+
+=== ATRAP ===
+
+The Antihydrogen Trap (ATRAP) collaboration, responsible for the AD-2 experiment, is a continuation of the TRAP collaboration, which started taking data for the PS196 experiment in 1985. The TRAP experiment (PS196) pioneered cold antiprotons, cold positrons, and first made the ingredients of cold antihydrogen to interact. Later ATRAP members pioneered accurate hydrogen spectroscopy and observed the first hot antihydrogen atoms.
+
+
+=== ASACUSA ===
+
+Atomic Spectroscopy and Collisions Using Slow Antiprotons (ASACUSA), AD-3, is an experiment testing for CPT-symmetry by laser spectroscopy of antiprotonic helium and microwave spectroscopy of the hyperfine structure of antihydrogen. It compares the matter and antimatter using antihydrogen and antiprotonic helium and looks into the matter-antimatter collisions. It also measures atomic and nuclear cross-sections of antiprotons on various targets at extremely low energies.
+
+
+=== ACE ===
+
+The Antiproton Cell Experiment (ACE), AD-4, started in 2003. It aims to assess fully the effectiveness and suitability of antiprotons for cancer therapy. The results showed that antiprotons required to break down the tumor cells were four times less than the number of protons required. The effect on healthy tissues due to antiprotons was significantly less. Although the experiment ended in 2013, further research and validation still continue, owing to the long procedures of bringing in novel medical treatments.
+
+
+=== ALPHA ===
+
+The Antihydrogen Laser Physics Apparatus (ALPHA), the AD-5 experiment, is designed to trap neutral antihydrogen in a magnetic trap, and conduct experiments on them. The ultimate goal of this endeavour is to test CPT symmetry through comparison of the atomic spectra of hydrogen and antihydrogen (see hydrogen spectral series). The ALPHA collaboration consists of some former members of the ATHENA collaboration (the first group to produce cold antihydrogen, in 2002), as well as a number of new members.
+
+
+=== AEgIS ===
+
+AEgIS, Antimatter Experiment: gravity, Interferometry, Spectroscopy, AD-6, is an experiment at the Antiproton Decelerator.
+AEgIS would attempt to determine if gravity affects antimatter in the same way it affects normal matter by testing its effect on an antihydrogen beam. The first phase of the experiment created antihydrogen using the charge exchange reaction between antiprotons from the Antiproton Decelerator (AD) and positronium, producing a pulse of antihydrogen atoms. These atoms are sent through a series of diffraction gratings, ultimately hitting a surface and thus annihilating. The points where the antihydrogen annihilates are measured with a precise detector. Areas behind the gratings are shadowed, while those behind the slits are not. The annihilation points reproduce a periodic pattern of light and shadowed areas. Using this pattern, it can be measured how many atoms of different velocities are vertically displaced due to gravity during n their horizontal flight. Therefore, the Earth's gravitational force on antihydrogen can be determined.
+
+
+=== GBAR ===
+
+GBAR (Gravitational Behaviour of Anti hydrogen at Rest), AD-7 experiment, is a multinational collaboration at the Antiproton Decelerator of CERN.
+The GBAR project aims to measure the free-fall acceleration of ultra-cold neutral anti-hydrogen atoms in the terrestrial gravitational field. By measuring the free fall acceleration of anti-hydrogen and comparing it with acceleration of normal hydrogen, GBAR is testing the equivalence principle proposed by Albert Einstein. The equivalence principle says that the gravitational force on a particle is independent of its internal structure and composition.
+
+
+=== BASE ===
+BASE (Baryon Antibaryon Symmetry Experiment), AD-8, is a multinational collaboration at the Antiproton Decelerator of CERN.
+The goal of the Japanese/German BASE collaboration are high-precision investigations of the fundamental properties of the antiproton, namely the charge-to-mass ratio and the magnetic moment. The single antiprotons are stored in an advanced Penning trap system, which has a double-trap system at its core, for high precision frequency measurements and for single particle spin flip spectroscopy. By measuring the spin flip rate as a function of the frequency of an externally applied magnetic-drive, a resonance curve is obtained. Together with a measurement of the cyclotron frequency, the magnetic moment is extracted.
+
+
+=== PUMA ===
+
+The PUMA (antiProton Unstable Matter Annihilation experiment), AD-9, aims to look into the quantum interactions and annihilation processes between the antiprotons and the exotic slow-moving nuclei. PUMA's experimental goals require about one billion trapped antiprotons made by AD and ELENA to be transported to the ISOLDE-nuclear physics facility at CERN, which will supply the exotic nuclei. Antimatter has never been transported out of the AD facility before. Designing and building a trap for this transportation is the most challenging aspect for the PUMA collaboration.
+
+
+== See also ==
+Antimatter
+Antihydrogen
+Gravitational interaction of antimatter
+
+
+== References ==
+
+
+== External links ==
+GBAR experiment
+Beams at AD
+Alpha experiment results
+AD's Antiproton source
+AD website Archived 2 August 2012 at the Wayback Machine
+ATHENA website
+ATRAP website
+ASACUSA website
+ALPHA website
+AEgIS website
+"What is the AD?". CERN. Archived from the original on 15 February 2006.
+"ATHENA figures and pictures". CERN. Archived from the original on 22 June 2007.
+Record for Antiproton Decelerator  on INSPIRE-HEP
+
+
+== Further reading ==
+G. Gache (12 July 2008). "How would antimatter interact with gravity?". Softpedia.
+G. Drobychev;  et al. (AEGIS collaboration) (8 June 2007). "Proposal for the AEGIS experiment at the CERN Antiproton Decelerator (Antimatter Experiment: Gravity, Interferometry, Spectroscopy)" (PDF). CERN.
+G. Testera;  et al. (2008). "Formation of a cold antihydrogen beam in AEGIS for gravity measurements". AIP Conference Proceedings. 1037: 5–15. arXiv:0805.4727. Bibcode:2008AIPC.1037....5T. doi:10.1063/1.2977857. S2CID 55052697.

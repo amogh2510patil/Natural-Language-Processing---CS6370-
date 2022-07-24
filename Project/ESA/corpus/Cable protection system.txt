@@ -1,0 +1,71 @@
+A cable protection system (CPS) protects subsea power cables against various factors that could reduce the cable's lifetime, when entering an offshore structure. 
+When a subsea power cable is laid, there is an area where the cable can be subjected to increased dynamic forces the cable is not necessarily designed to withstand over its lifetime.
+Cable protection systems allow the specification, and thus cost, of a subsea power cable to be reduced by removing the need for additional armoring. Cables can be produced more cheaply, whilst still providing the 20-plus-year lifetime required.
+Offshore windfarm developers have widely adopted cable protection systems due to the dynamic areas where the cable leaves from the seabed and enters the monopile/J-tube, in part due to the potential for localised scouring to occur near the structure.
+A CPS generally consists of three sections: a Centraliser or Monopile interface, a protection system for the dynamic area, and a protection system for the static area.
+The installation of J-Tubes for offshore renewable monopiles was viewed as a costly approach, and a 'latching' type of cable protection system which penetrates the outer wall of the monopile, via a specifically designed angled aperture enables the simplification of monopile design, and removes the need for additional works post pile driving which usually involved the use of divers. This approach is becoming the industry standard in monopile design, assisting developers to reduce their costs for construction.
+
+
+== History ==
+Articulated half-pipe Cable protections systems have traditionally been used for the protection of cables at shore landings, and other areas where cable damage could be envisaged, and burial was not practical. Patents for variations of articulated pipe cable protections date back to 1929. The system was described as a cable armor shield 
+
+"adapted to protect the cable from damage and wear occasioned by rubbing on rocks, contacting with ships, anchors or other objects, and has for its object to provide a practical flexible armor shield of this class which can be readily applied to the cable at any point along its length."
+From their outset cable protection systems were designed to be simple, effective, and easy to assemble. The systems consisted of a series of half shells which had a convex flange at one end and a larger socket flange at the other allowing the sections to form a flexible universal joint connection between them. Due to the intended use of heavy cast or forged metals they also had the added advantage of increasing the weight of the cable being installed, thus reducing movement on the seabed.
+Over the years innovations have occurred improving the articulation of the joints with modern articulated pipes being more akin to ball-joints, and some manufacturers providing 'boltless' articulated pipes, thus saving assembly time.Changes in the metallurgy have also happened, leading to most half shell articulated pipe now being made from ductile iron, due to its improved strength and elasticity characteristics.Today these articulated pipes are also utilised for their bend restriction properties, allowing them to be utilised as bend restrictors for the protected cable.
+
+
+== Design considerations ==
+Cable protection systems are predominantly designed to protect the system from damage throughout the lifetime of the cable caused by fatigue, overbending of the cable, and to provide protection of the cable until it reaches an area of burial.
+
+
+=== Design life ===
+The cable protection system will be designed to provide protection for a specific lifetime, the 'design life' of the system, which may vary dependent upon the conditions encountered.
+
+
+=== Overbending of cable ===
+Overbending of the cable occurs when the cable is bent in a radius of less than the minimum bending radius defined by the manufacturer. Although the cable may initially survive the overbending, this can lead to subsequent fatigue within the cable ultimately leading to cable failure.  The CPS selected should maintain a radius which is greater than the specified minimum bend radius.
+
+
+=== Fatigue of CPS/cable within ===
+Subsea cable protection systems can encounter wear due to movement, and general changes in composition due to being submerged for a prolonged period of time, such as corrosion or changes in polymer based compounds. Consideration should be given to the induced effects on the CPS resulting from the dynamic elements in the environment.  Simple changes such as changes in temperature, current or salinity can result in changes in the ability of the CPS to offer protection for the life of the cable. It is advisable to carefully assess the potential effects of movement of the CPS, relating to the dynamic abilities of the cable. The CPS may withstand the worst conditions seen over a 100yr period, but would the cable inside the CPS survive these movements.  In some instances, such as shore ends for fibre optic cables where rocky outcrops are present, dynamic influences can be reduced by securing the articulated pipe to the seabed rock, thus reducing the degree of movement remaining.
+Some manufacturers have performed independent empirical testing, utilising the DMZC facility at the university of Exeter in the UK, to provide a simulated 25yr life cycle of the dynamic forces applicable to their product in order to provide customers with improved confidence in the survivability of the system.Another cause for failure of subsea power cables is caused by overheating, which can occur where a cable is contained within a CPS without adequate ability to dissipate the heat produced by the cable. These lead to early fatigue of the cable insulation, necessitating the replacement of the cable.
+Subsea cable incidents account for around 77% of the total global cost of wind farm losses. Since 2007 this percentage, which has varied between 70% and 80%, is statistically reported year after year.
+
+
+=== Seabed stability ===
+Seabed stability is an important factor associated with cable protection systems. Should the cable protection system be too buoyant, it is less likely to remain in contact with the seabed, thus the CPS is more likely to require additional remedial stability measures, such as installation of concrete mattresses, rockbags, or rockdumping.
+
+
+=== Suspension strength ===
+When a CPS is being installed to interface with a monopile structure, there is likely to be seabed scouring to some degree. Should the scouring become excessive, the CPS may be suspended within a scour hole, and needs to be capable of supporting its own weight, and that of the cable within.  Failure to sustain this loading scenario will lead to failure of the CPS, which will in turn allow the forces to act upon the cable within, ultimately leading to cable damage.
+
+
+=== Installation ===
+Within the renewables market in particular, installation of CPS's are preferred to be completely diverless, as this reduces the developers cost, and removes risk to human life through diving in a hazardous area.
+
+
+=== Removal/Reinstallation ===
+A final consideration for CPS is that of removal of the cable should a failure occur.  Some designs require diver intervention to recover the cable with the CPS. Due consideration should also be given to the removal of a CPS should the CPS itself fail.  The costs associated with CPS replacement during the operational lifetime of an offshore wind farm are not insignificant, as the cable will most likely require repair/replacement as part of the process.
+
+
+== Bend restrictors ==
+Various innovative systems have been developed to provide restriction of bending, including ductile iron articulated pipe, and polymer or metal based vertebrae systems. Vertebrae bend restrictors are available in both metal and polymer based forms. Some cable protection systems include a polymer based vertebrae system which restricts the bend radius to a maximum of a few degrees per segment.  These systems are lighter (in water) than their metal equivalents and often more expensive to produce but must be carefully assessed for longevity in the proposed application.  Due to the use of polymers these systems tend to be of a larger diameter than their metal counterparts, which presents a larger surface area for drag induced forces caused by currents.
+
+
+== Bend stiffeners ==
+Bend stiffeners are conically shaped polymer mouldings designed to add local stiffness to the product contained within, limiting bending stresses and curvature to acceptable levels. Bend stiffeners are generally suitable for water depths of 35 metres or less, and their suitability is highly dependent on currents and seabed conditions at site. Extreme care must be taken when selecting a stiffener, especially relating to the lifespan of the system as these themselves can become fatigued/fragile. As the stiffness of these products are dependent upon the nature of the plastic used, careful testing and QA of plastics should be carefully considered as flaws introduced during material manufacture, processing, machining and molding.
+
+
+== Other systems ==
+Various other polymer based systems have been developed which provide a flexible 'tube' which can be attached to the structure in advance of the cable being installed, although these are relatively new to the industry, and considered by some as unproven.
+
+
+== Applicable Standards ==
+Although there are no specific standards for cable protections systems, DNVGL-RP-0360 Subsea power cables in shallow water includes a section on Cable Protection at the interface to a structure (Section 4.7).
+
+
+== Offshore Wind - CPS Issues ==
+The use of CPS systems to protect offshore wind power cables has suffered from various CPS failures, resulting in costly repair of CPS systems and the power cables they were to protect.  The exact extent, cost and frequency of occurrence of these failures is generally not disclosed, however there have been exceptions including announcements from developer/operator companies such as Orsted of the extent and anticipated repair costs of these.
+
+
+== References ==

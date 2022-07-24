@@ -1,0 +1,423 @@
+Choked flow is a compressible flow effect.  The parameter that becomes "choked" or "limited" is the fluid velocity.
+Choked flow is a fluid dynamic condition associated with the venturi effect. When a flowing fluid at a given pressure and temperature passes through a constriction (such as the throat of a convergent-divergent nozzle or a valve in a pipe) into a lower pressure environment the fluid velocity increases. At initially subsonic upstream conditions, the conservation of mass principle requires the fluid velocity to increase as it flows through the smaller cross-sectional area of the constriction.  At the same time, the venturi effect causes the static pressure, and therefore the density, to decrease at the constriction. Choked flow is a limiting condition where the mass flow will not increase with a further decrease in the downstream pressure environment for a fixed upstream pressure and temperature.
+For homogeneous fluids, the physical point at which the choking occurs for adiabatic conditions, is when the exit plane velocity is at sonic conditions; i.e., at a Mach number of 1. At choked flow, the mass flow rate can be increased only by increasing density upstream and at the choke point.
+The choked flow of gases is useful in many engineering applications because the mass flow rate is independent of the downstream pressure, and depends only on the temperature and pressure and hence the density of the gas on the upstream side of the restriction. Under choked conditions, valves and calibrated orifice plates can be used to produce a desired mass flow rate.
+
+
+== Choked flow in liquids ==
+If the fluid is a liquid, a different type of limiting condition (also known as choked flow) occurs when the venturi effect acting on the liquid flow through the restriction causes a decrease of the liquid pressure beyond the restriction to below that of the liquid's vapor pressure at the prevailing liquid temperature. At that point, the liquid will partially flash into bubbles of vapor and the subsequent collapse of the bubbles causes cavitation. Cavitation is quite noisy and can be sufficiently violent to physically damage valves, pipes and associated equipment. In effect, the vapor bubble formation in the restriction prevents the flow from increasing any further.
+
+
+== Mass flow rate of a gas at choked conditions ==
+All gases flow from upstream higher pressure sources to downstream lower pressure sources. There are several situations in which choked flow occurs, such as the change of the cross section in a de Laval nozzle or the flow through an orifice plate. Here the most important part is where to calculate the choked velocity: at upstream or downstream of a nozzle or orifice. The choked velocity is always observed at upstream of an orifice or nozzle and this velocity is usually less than the speed of sound in air. Another important aspect is that this is the actual velocity of the upstream fluid. Hence, the upstream actual volumetric flow rate, when expanded to downstream pressure, will result in a more actual volumetric flow for the downstream condition. Thus, the overall leakage rate when measured at downstream conditions needs to take care of this fact. When this choked velocity has reached the mass flow rate from upstream to downstream, it can still be increased if the upstream pressure is increased. However, this value of the choked velocity will keep the actual volumetric flow rate (Actual Gas Flow rate, and hence velocity) the same irrespective of the downstream pressure, provided that choked flow conditions prevail.
+
+
+=== Choking in change of cross section flow ===
+Assuming ideal gas behaviour, steady-state choked flow occurs when the downstream pressure falls below a critical value 
+  
+    
+      
+        
+          p
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle p^{*}}
+  . That critical value can be calculated from the dimensionless critical pressure ratio equation
+
+  
+    
+      
+        
+          
+            
+              p
+              
+                ∗
+              
+            
+            
+              p
+              
+                0
+              
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                2
+                
+                  γ
+                  +
+                  1
+                
+              
+            
+            )
+          
+          
+            
+              γ
+              
+                γ
+                −
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {p^{*}}{p_{0}}}=\left({\frac {2}{\gamma +1}}\right)^{\frac {\gamma }{\gamma -1}}}
+  ,where 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is the heat capacity ratio 
+  
+    
+      
+        
+          c
+          
+            p
+          
+        
+        
+          /
+        
+        
+          c
+          
+            v
+          
+        
+      
+    
+    {\displaystyle c_{p}/c_{v}}
+   of the gas and where 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+      
+    
+    {\displaystyle p_{0}}
+   is the total (stagnation) upstream pressure.
+For air with a heat capacity ratio 
+  
+    
+      
+        γ
+        =
+        1.4
+      
+    
+    {\displaystyle \gamma =1.4}
+  , then 
+  
+    
+      
+        
+          p
+          
+            ∗
+          
+        
+        =
+        0.528
+        
+          p
+          
+            0
+          
+        
+      
+    
+    {\displaystyle p^{*}=0.528p_{0}}
+  ; other gases have 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   in the range 1.09 (e.g. butane) to 1.67 (monatomic gases), so the critical pressure ratio varies in the range 
+  
+    
+      
+        0.487
+        <
+        
+          p
+          
+            ∗
+          
+        
+        
+          /
+        
+        
+          p
+          
+            0
+          
+        
+        <
+        0.587
+      
+    
+    {\displaystyle 0.487<p^{*}/p_{0}<0.587}
+  , which means that, depending on the gas, choked flow usually occurs when the downstream static pressure drops to below 0.487 to 0.587 times the absolute pressure in stagnant upstream source vessel.
+When the gas velocity is choked, the equation for the mass flow rate is:
+
+  
+    
+      
+        
+          
+            
+              m
+              ˙
+            
+          
+        
+        =
+        
+          C
+          
+            d
+          
+        
+        A
+        
+          
+            γ
+            
+              ρ
+              
+                0
+              
+            
+            
+              P
+              
+                0
+              
+            
+            
+              
+                (
+                
+                  
+                    2
+                    
+                      γ
+                      +
+                      1
+                    
+                  
+                
+                )
+              
+              
+                
+                  
+                    γ
+                    +
+                    1
+                  
+                  
+                    γ
+                    −
+                    1
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {m}}=C_{d}A{\sqrt {\gamma \rho _{0}P_{0}\left({\frac {2}{\gamma +1}}\right)^{\frac {\gamma +1}{\gamma -1}}}}}
+  The mass flow rate is primarily dependent on the cross-sectional area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   of the nozzle throat and the upstream pressure 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , and only weakly dependent on the temperature 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  .  The rate does not depend on the downstream pressure at all.  All other terms are constants that depend only on the composition of the material in the flow. Although the gas velocity reaches a maximum and becomes choked, the mass flow rate is not choked.  The mass flow rate can still be increased if the upstream pressure is increased as this increases the density of the gas entering the orifice.
+
+The value of 
+  
+    
+      
+        
+          C
+          
+            d
+          
+        
+      
+    
+    {\displaystyle C_{d}}
+   can be calculated using the below expression:
+
+  
+    
+      
+        
+          C
+          
+            d
+          
+        
+        =
+        
+          
+            
+              
+                m
+                ˙
+              
+            
+            
+              A
+              
+                
+                  2
+                  ρ
+                  Δ
+                  P
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle C_{d}={\frac {\dot {m}}{A{\sqrt {2\rho \Delta P}}}}}
+  The above equations calculate the steady state mass flow rate for the pressure and temperature existing in the upstream pressure source.
+If the gas is being released from a closed high-pressure vessel, the  above steady state equations may be used to approximate the initial mass flow rate. Subsequently, the mass flow rate will decrease during the discharge as the source vessel empties and the pressure in the vessel decreases. Calculating the flow rate versus time since the initiation of the discharge is much more complicated, but more accurate. Two equivalent methods for performing such calculations are explained and compared online.The technical literature can be very confusing because many authors fail to explain whether they are using the universal gas law constant R which applies to any ideal gas or whether they are using the gas law constant Rs which only applies to a specific individual gas.  The relationship between the two constants is Rs = R / M where M is the molecular weight of the gas.
+
+
+== Real gas effects ==
+If the upstream conditions are such that the gas cannot be treated as ideal, there is no closed form equation for evaluating the choked mass flow.  Instead, the gas expansion should be calculated by reference to real gas property tables, where the expansion takes place at constant enthalpy.
+
+
+== Minimum pressure ratio required for choked flow to occur ==
+The minimum pressure ratios required for choked conditions to occur (when some typical industrial gases are flowing) are presented in Table 1. The ratios were obtained using the criterion that choked flow occurs when the ratio of the absolute upstream pressure to the absolute downstream pressure is equal to or greater than 
+  
+    
+      
+        (
+        [
+        γ
+        +
+        1
+        ]
+        
+          /
+        
+        2
+        
+          )
+          
+            γ
+            
+              /
+            
+            (
+            γ
+            −
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle ([\gamma +1]/2)^{\gamma /(\gamma -1)}}
+  , where 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is the specific heat ratio of the gas. The minimum pressure ratio may be understood as the ratio between the upstream pressure and the pressure at the nozzle throat when the gas is traveling at Mach 1; if the upstream pressure is too low compared to the downstream pressure, sonic flow cannot occur at the throat.
+
+Notes:
+
+Pu, absolute upstream gas pressure
+Pd, absolute downstream gas pressure
+
+
+== Venturi nozzles with pressure recovery ==
+The flow through a venturi nozzle achieves a much lower nozzle pressure than downstream pressure.  Therefore, the pressure ratio is the comparison between the upstream and nozzle pressure.  Therefore, flow through a venturi can reach Mach 1 with a much lower upstream to downstream ratio.
+
+
+== Thin-plate orifices ==
+The flow of real gases through thin-plate orifices never becomes fully choked.  The mass flow rate through the orifice continues to increase as the downstream pressure is lowered to a perfect vacuum, though the mass flow rate increases slowly as the downstream pressure is reduced below the critical pressure. Cunningham (1951) first drew attention to the fact that choked flow will not occur across a standard, thin, square-edged orifice.
+
+
+=== Vacuum conditions ===
+In the case of upstream air pressure at atmospheric pressure and vacuum conditions downstream of an orifice, both the air velocity and the mass flow rate becomes choked or limited when sonic velocity is reached through the orifice.
+
+
+== The flow pattern ==
+
+Figure 1a shows the flow through the nozzle when it is completely subsonic (i.e. the nozzle is not choked). The flow in the chamber accelerates as it converges toward the throat, where it reaches its maximum (subsonic) speed at the throat. The flow then decelerates through the diverging section and exhausts into the ambient as a subsonic jet. Lowering the back pressure, in this state, will increase the flow speed everywhere in the nozzle.When the back pressure, pb, is lowered enough, the flow speed is Mach 1 at the throat, as in figure 1b. The flow pattern is exactly the same as in subsonic flow, except that the flow speed at the throat has just reached Mach 1. Flow through the nozzle is now choked since further reductions in the back pressure can't move the point of M=1 away from the throat. However, the flow pattern in the diverging section does change as you lower the back pressure further.As pb is lowered below that needed to just choke the flow, a region of supersonic flow forms just downstream of the throat. Unlike in subsonic flow, the supersonic flow accelerates as it moves away from the throat. This region of supersonic acceleration is terminated by a normal shock wave. The shock wave produces a near-instantaneous deceleration of the flow to subsonic speed. This subsonic flow then decelerates through the remainder of the diverging section and exhausts as a subsonic jet. In this regime if you lower or raise the back pressure you move the shock wave away from (increase the length of supersonic flow in the diverging section before the shock wave) the throat.If the pb is lowered enough, the shock wave will sit at the nozzle exit (figure 1d). Due to the very long region of acceleration (the entire nozzle length) the flow speed will reach its maximum just before the shock front. However, after the shock the flow in the jet will be subsonic.Lowering the back pressure further causes the shock to bend out into the jet (figure 1e), and a complex pattern of shocks and reflections is set up in the jet which will involve a mixture of subsonic and supersonic flow, or (if the back pressure is low enough) just supersonic flow. Because the shock is no longer perpendicular to the flow near the nozzle walls, it deflects the flow inward as it leaves the exit producing an initially contracting jet. This is referred as overexpanded flow because in this case the pressure at the nozzle exit is lower than that in the ambient (the back pressure)- i.e. the flow has been expanded by the nozzle too much.A further lowering of the back pressure changes and weakens the wave pattern in the jet. Eventually the back pressure will be low enough so that it is now equal to the pressure at the nozzle exit. In this case, the waves in the jet disappear altogether (figure 1f), and the jet will be uniformly supersonic. This situation, since it is often desirable, is referred to as the 'design condition'.Finally, if the back pressure is lowered even further we will create a new imbalance between the exit and back pressures (exit pressure greater than back pressure), figure 1g. In this situation (called 'underexpanded') what we call expansion waves (that produce gradual turning perpendicular to the axial flow and acceleration in the jet) form at the nozzle exit, initially turning the flow at the jet edges outward in a plume and setting up a different type of complex wave pattern.
+
+
+== See also ==
+Accidental release source terms includes mass flow rate equations for non-choked gas flows as well.
+Orifice plate includes derivation of non-choked gas flow equation.
+de Laval nozzles are venturi tubes that produce supersonic gas velocities as the tube and the gas are first constricted and then the tube and gas are expanded beyond the choke plane.
+Rocket engine nozzles discusses how to calculate the exit velocity from nozzles used in rocket engines.
+Hydraulic jump.
+
+
+== References ==
+
+
+== External links ==
+Choked flow of gases
+Development of source emission models
+Restriction orifice sizing control Perform orifice plate, restriction orifice sizing calculation for a single phase flow.

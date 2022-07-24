@@ -1,0 +1,18 @@
+Flex temp is a technique used to produce cost savings through increased engine life and reduced overhaul and fuel costs for airliners by allowing them to take-off at less than rated thrust.
+For Airbus and Fokker aircraft the technique is known as flex temp or just flex. Other manufacturers use the terms Assumed temperature thrust reduction, Reduced take-off thrust or Factored take-off thrust.
+
+
+== Technique ==
+The runway length required for an aircraft to take off depends on a number of things including aircraft weight, flap setting and environmental conditions. The particular take-off distance required may be less than the available runway length. In this case a lower thrust may be used. Lower thrust settings increase engine life and reduce maintenance costs.
+The take-off thrust available from a civil engine is a constant value up to a particular ambient temperature. At this temperature the engine is now running at its turbine temperature limit which is displayed as a corresponding EGT limit. Since the turbine limit cannot be exceeded, any increase in ambient temperature results in less thrust. The flex temp procedure recognizes that an ambient temperature beyond the flat rating produces less thrust. If a lower-than-flat-rated thrust is calculated for a particular take-off that thrust can be specified by where it coincides with the EGT limit. This false ambient temperature is the flex temp.The flex temp is entered into the flight management system (FMS) — effectively telling the computer to assume the specified air temperature instead of the actual temperature. When flex (FLX) thrust is selected during take-off, the engine control produces that thrust. If necessary, the throttles may be advanced to the take off/go around (TOGA) detent which requests rated thrust.
+
+
+== Problems ==
+A number of aircraft incidents and accidents have occurred when the flex temp was incorrectly calculated or entered — for example, those involving Emirates Flight 407, US Airways flight 1702 and Thomas Cook Airlines G-OJMC. Modern procedures are designed to minimize that possibility.
+
+
+== See also ==
+Laker Airways, introduction of reduced thrust take-off technique
+
+
+== References ==

@@ -1,0 +1,880 @@
+In geometry, a frustum (borrowed from the Latin for “morsel”, plural: frusta or frustums) is the portion of a solid (normally a cone or pyramid) that lies between one or two parallel planes cutting it. A right frustum is a parallel truncation of a right pyramid or right cone.In computer graphics, the viewing frustum is the three-dimensional region which is visible on the screen. It is formed by a clipped pyramid; in particular, frustum culling is a method of hidden surface determination.
+In the aerospace industry, a frustum is the fairing between two stages of a multistage rocket (such as the Saturn V), which is shaped like a truncated cone.
+If all the edges are forced to be identical, a frustum becomes a uniform prism.
+
+
+== Elements, special cases, and related concepts ==
+
+A frustum's axis is that of the original cone or pyramid. A frustum is circular if it has circular bases; it is right if the axis is perpendicular to both bases, and oblique otherwise.
+The height of a frustum is the perpendicular distance between the planes of the two bases.
+Cones and pyramids can be viewed as degenerate cases of frusta, where one of the cutting planes passes through the apex (so that the corresponding base reduces to a point). The pyramidal frusta are a subclass of the prismatoids.
+Two frusta joined at their bases make a bifrustum.
+
+
+== Formula ==
+
+
+=== Volume ===
+The volume formula of a frustum of a square pyramid was introduced by the ancient Egyptian mathematics in what is called the Moscow Mathematical Papyrus, written in the 13th dynasty (c. 1850 BC):
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              1
+              3
+            
+          
+        
+        h
+        
+          (
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            a
+            b
+            +
+            
+              b
+              
+                2
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle V={\tfrac {1}{3}}h\left(a^{2}+ab+b^{2}\right).}
+  where a and b are the base and top side lengths of the truncated pyramid, and h is the height.
+The Egyptians knew the correct formula for obtaining the volume of a truncated square pyramid, but no proof of this equation is given in the Moscow papyrus.
+The volume of a conical or pyramidal frustum is the volume of the solid before slicing the apex off, minus the volume of the apex:
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              
+                h
+                
+                  1
+                
+              
+              
+                B
+                
+                  1
+                
+              
+              −
+              
+                h
+                
+                  2
+                
+              
+              
+                B
+                
+                  2
+                
+              
+            
+            3
+          
+        
+      
+    
+    {\displaystyle V={\frac {h_{1}B_{1}-h_{2}B_{2}}{3}}}
+  where B1 is the area of one base, B2 is the area of the other base, and h1, h2 are the perpendicular heights from the apex to the planes of the two bases.
+Considering that
+
+  
+    
+      
+        
+          
+            
+              B
+              
+                1
+              
+            
+            
+              h
+              
+                1
+              
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              B
+              
+                2
+              
+            
+            
+              h
+              
+                2
+              
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                B
+                
+                  1
+                
+              
+              
+                B
+                
+                  2
+                
+              
+            
+            
+              
+                h
+                
+                  1
+                
+              
+              
+                h
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        α
+      
+    
+    {\displaystyle {\frac {B_{1}}{h_{1}^{2}}}={\frac {B_{2}}{h_{2}^{2}}}={\frac {\sqrt {B_{1}B_{2}}}{h_{1}h_{2}}}=\alpha }
+  ,the formula for the volume can be expressed as a product of this proportionality α/3 and a difference of cubes of heights h1 and h2 only.
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              
+                h
+                
+                  1
+                
+              
+              α
+              
+                h
+                
+                  1
+                
+                
+                  2
+                
+              
+              −
+              
+                h
+                
+                  2
+                
+              
+              α
+              
+                h
+                
+                  2
+                
+                
+                  2
+                
+              
+            
+            3
+          
+        
+        =
+        
+          
+            α
+            3
+          
+        
+        (
+        
+          h
+          
+            1
+          
+          
+            3
+          
+        
+        −
+        
+          h
+          
+            2
+          
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle V={\frac {h_{1}\alpha h_{1}^{2}-h_{2}\alpha h_{2}^{2}}{3}}={\frac {\alpha }{3}}(h_{1}^{3}-h_{2}^{3})}
+  By factoring the difference of two cubes, a3 − b3 = (a − b)(a2 + ab + b2), one gets h1 − h2 = h, the height of the frustum, and α * (h12 + h1h2 + h22/3).
+Distributing α and substituting from its definition, the Heronian mean of areas B1 and B2 is obtained. The alternative formula is therefore
+
+  
+    
+      
+        V
+        =
+        
+          
+            h
+            3
+          
+        
+        
+          (
+          
+            
+              B
+              
+                1
+              
+            
+            +
+            
+              
+                
+                  B
+                  
+                    1
+                  
+                
+                
+                  B
+                  
+                    2
+                  
+                
+              
+            
+            +
+            
+              B
+              
+                2
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V={\frac {h}{3}}\left(B_{1}+{\sqrt {B_{1}B_{2}}}+B_{2}\right)}
+  .Heron of Alexandria is noted for deriving this formula and with it encountering the imaginary unit, the square root of negative one.In particular, the volume of a circular cone frustum is 
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              π
+              h
+            
+            3
+          
+        
+        
+          (
+          
+            
+              r
+              
+                1
+              
+              
+                2
+              
+            
+            +
+            
+              r
+              
+                1
+              
+            
+            
+              r
+              
+                2
+              
+            
+            +
+            
+              r
+              
+                2
+              
+              
+                2
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V={\frac {\pi h}{3}}\left(r_{1}^{2}+r_{1}r_{2}+r_{2}^{2}\right)}
+  where r1, r2 are the radii of the two bases.
+
+The volume of a pyramidal frustum whose bases are n-sided regular polygons is
+
+  
+    
+      
+        V
+        =
+        
+          
+            
+              n
+              h
+            
+            12
+          
+        
+        
+          (
+          
+            
+              a
+              
+                1
+              
+              
+                2
+              
+            
+            +
+            
+              a
+              
+                1
+              
+            
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              a
+              
+                2
+              
+              
+                2
+              
+            
+          
+          )
+        
+        cot
+        ⁡
+        
+          
+            π
+            n
+          
+        
+      
+    
+    {\displaystyle V={\frac {nh}{12}}\left(a_{1}^{2}+a_{1}a_{2}+a_{2}^{2}\right)\cot {\frac {\pi }{n}}}
+  where a1 and a2 are the sides of the two bases.
+
+
+=== Surface area ===
+
+For a right circular conical frustum
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  Lateral surface area
+                
+              
+              
+                
+                =
+                π
+                
+                  (
+                  
+                    
+                      r
+                      
+                        1
+                      
+                    
+                    +
+                    
+                      r
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+                s
+              
+            
+            
+              
+              
+                
+                =
+                π
+                
+                  (
+                  
+                    
+                      r
+                      
+                        1
+                      
+                    
+                    +
+                    
+                      r
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      
+                        (
+                        
+                          
+                            r
+                            
+                              1
+                            
+                          
+                          −
+                          
+                            r
+                            
+                              2
+                            
+                          
+                        
+                        )
+                      
+                      
+                        2
+                      
+                    
+                    +
+                    
+                      h
+                      
+                        2
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\text{Lateral surface area}}&=\pi \left(r_{1}+r_{2}\right)s\\&=\pi \left(r_{1}+r_{2}\right){\sqrt {\left(r_{1}-r_{2}\right)^{2}+h^{2}}}\end{aligned}}}
+  and
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  Total surface area
+                
+              
+              
+                
+                =
+                π
+                
+                  (
+                  
+                    
+                      (
+                      
+                        
+                          r
+                          
+                            1
+                          
+                        
+                        +
+                        
+                          r
+                          
+                            2
+                          
+                        
+                      
+                      )
+                    
+                    s
+                    +
+                    
+                      r
+                      
+                        1
+                      
+                      
+                        2
+                      
+                    
+                    +
+                    
+                      r
+                      
+                        2
+                      
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                π
+                
+                  (
+                  
+                    
+                      (
+                      
+                        
+                          r
+                          
+                            1
+                          
+                        
+                        +
+                        
+                          r
+                          
+                            2
+                          
+                        
+                      
+                      )
+                    
+                    
+                      
+                        
+                          
+                            (
+                            
+                              
+                                r
+                                
+                                  1
+                                
+                              
+                              −
+                              
+                                r
+                                
+                                  2
+                                
+                              
+                            
+                            )
+                          
+                          
+                            2
+                          
+                        
+                        +
+                        
+                          h
+                          
+                            2
+                          
+                        
+                      
+                    
+                    +
+                    
+                      r
+                      
+                        1
+                      
+                      
+                        2
+                      
+                    
+                    +
+                    
+                      r
+                      
+                        2
+                      
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\text{Total surface area}}&=\pi \left(\left(r_{1}+r_{2}\right)s+r_{1}^{2}+r_{2}^{2}\right)\\&=\pi \left(\left(r_{1}+r_{2}\right){\sqrt {\left(r_{1}-r_{2}\right)^{2}+h^{2}}}+r_{1}^{2}+r_{2}^{2}\right)\end{aligned}}}
+  where r1 and r2 are the base and top radii respectively, and s is the slant height of the frustum.
+The surface area of a right frustum whose bases are similar regular n-sided polygons is
+
+  
+    
+      
+        A
+        =
+        
+          
+            n
+            4
+          
+        
+        
+          [
+          
+            
+              (
+              
+                
+                  a
+                  
+                    1
+                  
+                  
+                    2
+                  
+                
+                +
+                
+                  a
+                  
+                    2
+                  
+                  
+                    2
+                  
+                
+              
+              )
+            
+            cot
+            ⁡
+            
+              
+                π
+                n
+              
+            
+            +
+            
+              
+                
+                  
+                    (
+                    
+                      
+                        a
+                        
+                          1
+                        
+                        
+                          2
+                        
+                      
+                      −
+                      
+                        a
+                        
+                          2
+                        
+                        
+                          2
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                
+                  sec
+                  
+                    2
+                  
+                
+                ⁡
+                
+                  
+                    π
+                    n
+                  
+                
+                +
+                4
+                
+                  h
+                  
+                    2
+                  
+                
+                
+                  
+                    (
+                    
+                      
+                        a
+                        
+                          1
+                        
+                      
+                      +
+                      
+                        a
+                        
+                          2
+                        
+                      
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle A={\frac {n}{4}}\left[\left(a_{1}^{2}+a_{2}^{2}\right)\cot {\frac {\pi }{n}}+{\sqrt {\left(a_{1}^{2}-a_{2}^{2}\right)^{2}\sec ^{2}{\frac {\pi }{n}}+4h^{2}\left(a_{1}+a_{2}\right)^{2}}}\right]}
+  where a1 and a2 are the sides of the two bases.
+
+
+== Examples ==
+
+On the back (the reverse) of a United States one-dollar bill, a pyramidal frustum appears on the reverse of the Great Seal of the United States, surmounted by the Eye of Providence.
+Ziggurats, step pyramids, and certain ancient Native American mounds also form the frustum of one or more pyramid, with additional features such as stairs added.
+Chinese pyramids.
+The John Hancock Center in Chicago, Illinois is a frustum whose bases are rectangles.
+The Washington Monument is a narrow square-based pyramidal frustum topped by a small pyramid.
+The viewing frustum in 3D computer graphics is a virtual photographic or video camera's usable field of view modeled as a pyramidal frustum.
+In the English translation of Stanislaw Lem's short-story collection The Cyberiad, the poem Love and tensor algebra claims that "every frustum longs to be a cone".
+Buckets and typical lampshades are everyday examples of conical frustums.
+Drinking glasses and some space capsules are also some examples.
+Garsų Gaudyklė wooden structure or statue in Lithuania.
+
+
+== See also ==
+Spherical frustum
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Derivation of formula for the volume of frustums of pyramid and cone (Mathalino.com)
+Weisstein, Eric W. "Pyramidal frustum". MathWorld.
+Weisstein, Eric W. "Conical frustum". MathWorld.
+Paper models of frustums (truncated pyramids)
+Paper model of frustum (truncated cone)
+Design paper models of conical frustum (truncated cones)

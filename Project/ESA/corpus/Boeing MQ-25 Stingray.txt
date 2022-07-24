@@ -1,0 +1,64 @@
+The Boeing MQ-25 Stingray is an aerial refueling drone that resulted from the Carrier-Based Aerial-Refueling System (CBARS) program, which grew out of the earlier Unmanned Carrier-Launched Airborne Surveillance and Strike (UCLASS) program. The MQ-25 first flew on 19 September 2019.
+
+
+== Development ==
+
+
+=== Background ===
+
+The United States Navy began its efforts to develop an aircraft carrier-based UAV in 2006. The original UCLASS concept was for a stealthy strike platform capable of penetrating enemy air defenses. In 2012, lethality and strike requirements were diluted in order to create an intelligence, surveillance and reconnaissance (ISR)-oriented aircraft that could be developed quickly to conduct low-intensity counter-terrorism missions.On 1 February 2016, after delays over whether the UCLASS would specialize in strike or ISR roles, it was reported that significant priority would be given to producing a Super Hornet-sized carrier-based aerial refueling tanker as the Carrier-Based Aerial-Refueling System (CBARS), with "a little ISR" and some capabilities for communications relay, and strike capabilities put off to a future variant. The Pentagon apparently made this program change to address the Navy's expected fighter shortfall by directing funds to buy more F/A-18E/F Super Hornets and accelerate purchases of the F-35C. Having the CBARS as the first carrier-based UAV provides a less complex bridge to the future F/A-XX, should it be an unmanned strike platform. It also addresses the carriers' need for an organic refueling aircraft, proposed for the UCLASS since 2014, freeing up the 20–30 percent of Super Hornets performing the mission in a more capable and cost effective manner than modifying the F-35, V-22 Osprey, and E-2D Hawkeye, or returning the retired S-3 Viking to service.Four development contracts were issued in 2016, with a formal RFP expected in 2017, with operational status in the early to mid-2020s. In July 2016, it was officially named "MQ-25A Stingray" after being named RAQ-25A previously.Rear Adm. Michael Manazir has suggested that three of these UCAVs could fly with an F-35 for refueling and sensor operation. Vice Adm. Mike Shoemaker said that the MQ-25 can extend the Super Hornet's 450 nmi (520 mi; 830 km) unrefueled combat radius to beyond 700 nmi (810 mi; 1,300 km). The Navy's goal for the aircraft is to be able to deliver 15,000 lb (6,800 kg) of fuel total to 4 to 6 airplanes at a range of 500 nmi (580 mi; 930 km). The Navy released the final MQ-25 Stingray request for proposals in October 2017 to Lockheed Martin, Boeing, Northrop Grumman, and General Atomics.
+
+
+=== Selection ===
+Boeing secretly finished building its wing-body-tail in 2014 when the UCLASS program was paused, and revived it for the CBARS mission.
+On 19 December 2017, Boeing unveiled its prototype aircraft entrant that incorporated lessons learned from the Boeing Phantom Ray flying wing and its other unmanned aerial systems. Boeing's MQ-25 design is not new for the tanking mission, but Boeing says that was considered when designing it.General Atomics proposed their Sea Avenger concept which was enlarged from its Predator-C/Avenger for refueling, while Lockheed Martin proposed their Sea Ghost concept based on the RQ-170 Sentinel.Northrop Grumman announced on 25 October 2017 that it was withdrawing its X-47B from the MQ-25 competition, saying the company would have been unable to execute the program under the terms of the service's request for proposals.  The company's departure signaled to some analysts that the Navy's requirements could favor wing-body-tail designs, not the flying wings thought to be proposed by Northrop Grumman and Lockheed Martin.
+
+On 30 August 2018, the U.S. Navy announced Boeing as the winner of the competition and awarded an $805 million development contract for four MQ-25A aircraft to be completed by August 2024. An additional three test MQ-25As were ordered on 2 April 2020 for a current total order of seven. The program may expand to $13 billion overall and consist of 72 aircraft.
+
+
+=== Flight testing ===
+
+In late April 2019, the first MQ-25 test aircraft (T-1 or "Tail 1") was taken by road from Boeing's technical plant at St. Louis's Lambert International Airport across the Mississippi River to MidAmerica St. Louis Airport, which is conjoined to Scott Air Force Base. Following taxi tests, the Federal Aviation Administration certified the aircraft and granted airspace for flight testing. The MQ-25 took its first flight on 19 September 2019.In December 2020, Boeing released video showing the first flight of the MQ-25 with Cobham aerial refueling store externally mounted.
+
+On 4 June 2021, the first refueling test was conducted, with the MQ-25 providing fuel to a F/A-18F Super Hornet. The MQ-25 originated at MidAmerica Airport in Mascoutah, Illinois, with support by Air Test and Evaluation Squadron VX-23. The mission lasted about 4.5 hours with the two aircraft performing numerous dry or wet connects for more than 10 minutes and 325 pounds of fuel transferred in total. Further refueling tests were performed with E-2 and F-35C. The Chinese People’s Liberation Army views MQ-25 as increasing the resiliency of the US aircraft carriers.
+
+
+== Design ==
+Boeing's MQ-25 design is powered by one Rolls-Royce AE 3007N turbofan engine delivering 10,000 lbf (44 kN) of thrust; this is a variant of the engine used to power the Navy's MQ-4C Triton. The aircraft is less stealthy than flying wing UAVs. It does feature a stealthy fuselage shaping, flush inlet to shield engine blades from radar and V-tail.
+
+
+== Operational history ==
+As of 2020 the United States Navy planned to establish Unmanned Carrier Launched Multi-Role Squadron 10 (VUQ-10) in October 2021 with four aircraft. The new unit was to be based at Naval Base Ventura County (which includes Naval Air Station Point Mugu).
+
+
+== Specifications (MQ-25A) ==
+Data from NAVAIR and USN MQ-25A Basing Draft Environmental AssessmentGeneral characteristics
+Length: 51.0 ft (15.5 m)
+Wingspan: 75.0 ft (22.9 m) wings extended, 31.3 ft (9.54 m) folded
+Height: 9.8 ft (3.0 m) wings extended, 15.7 ft (4.79 m) folded
+Powerplant: 1 × Rolls-Royce AE 3007N turbofan, >10,000 lbf (>44 kN) thrustPerformance
+
+Range: 500 nmi (580 mi, 930 km) when delivering ≥16,000 lb (7,250 kg) of fuelArmament
+Hardpoints: 2 × under-wing stationsOthers:
+Cobham Aerial Refueling Store (ARS)
+
+
+== See also ==
+
+Aircraft of comparable role, configuration, and era
+
+General Atomics Sea Avenger
+Lockheed Martin Sea Ghost
+Boeing Airpower Teaming System
+Related lists
+
+Stealth aircraft#List of stealth aircraft
+
+
+== References ==
+
+
+== External links ==
+ Media related to Boeing MQ-25 at Wikimedia Commons
+
+Boeing MQ-25 website

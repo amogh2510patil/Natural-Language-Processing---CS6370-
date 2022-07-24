@@ -1,0 +1,1372 @@
+In mathematics, a dihedral group is the group of symmetries of a regular polygon, which includes rotations and reflections. Dihedral groups are among the simplest examples of finite groups, and they play an important role in group theory, geometry, and chemistry.
+The notation for the dihedral group differs in geometry and abstract algebra. In geometry, Dn or Dihn refers to the symmetries of the n-gon, a group of order 2n. In abstract algebra, D2n refers to this same dihedral group. The geometric convention is used in this article.
+
+
+== Definition ==
+
+
+=== Elements ===
+
+A regular polygon with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   sides has 
+  
+    
+      
+        2
+        n
+      
+    
+    {\displaystyle 2n}
+   different symmetries: 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   rotational symmetries and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   reflection symmetries. Usually, we take 
+  
+    
+      
+        n
+        ≥
+        3
+      
+    
+    {\displaystyle n\geq 3}
+   here. The associated rotations and reflections make up the dihedral group 
+  
+    
+      
+        
+          
+            D
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathrm {D} _{n}}
+  . If 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is odd, each axis of symmetry connects the midpoint of one side to the opposite vertex. If 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   is even, there are 
+  
+    
+      
+        n
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle n/2}
+   axes of symmetry connecting the midpoints of opposite sides and 
+  
+    
+      
+        n
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle n/2}
+   axes of symmetry connecting opposite vertices. In either case, there are 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   axes of symmetry and 
+  
+    
+      
+        2
+        n
+      
+    
+    {\displaystyle 2n}
+   elements in the symmetry group. Reflecting in one axis of symmetry followed by reflecting in another axis of symmetry produces a rotation through twice the angle between the axes.The following picture shows the effect of the sixteen elements of 
+  
+    
+      
+        
+          
+            D
+          
+          
+            8
+          
+        
+      
+    
+    {\displaystyle \mathrm {D} _{8}}
+   on a stop sign:
+
+The first row shows the effect of the eight rotations, and the second row shows the effect of the eight reflections, in each case acting on the stop sign with the orientation as shown at the top left.
+
+
+=== Group structure ===
+As with any geometric object, the composition of two symmetries of a regular polygon is again a symmetry of this object.  With composition of symmetries to produce another as the binary operation, this gives the symmetries of a polygon the algebraic structure of a finite group.
+
+The following Cayley table shows the effect of composition in the group D3 (the symmetries of an equilateral triangle).  r0 denotes the identity; r1 and r2 denote counterclockwise rotations by 120° and 240° respectively, and s0, s1 and s2 denote reflections across the three lines shown in the adjacent picture.
+
+For example, s2s1 = r1, because the reflection s1 followed by the reflection s2 results in a rotation of 120°.  The order of elements denoting the composition is right to left, reflecting the convention that the element acts on the expression to its right.  The composition operation is not commutative.In general, the group Dn has elements r0, ..., rn−1 and s0, ..., sn−1, with composition given by the following formulae:
+
+  
+    
+      
+        
+          
+            r
+          
+          
+            i
+          
+        
+        
+        
+          
+            r
+          
+          
+            j
+          
+        
+        =
+        
+          
+            r
+          
+          
+            i
+            +
+            j
+          
+        
+        ,
+        
+        
+          
+            r
+          
+          
+            i
+          
+        
+        
+        
+          
+            s
+          
+          
+            j
+          
+        
+        =
+        
+          
+            s
+          
+          
+            i
+            +
+            j
+          
+        
+        ,
+        
+        
+          
+            s
+          
+          
+            i
+          
+        
+        
+        
+          
+            r
+          
+          
+            j
+          
+        
+        =
+        
+          
+            s
+          
+          
+            i
+            −
+            j
+          
+        
+        ,
+        
+        
+          
+            s
+          
+          
+            i
+          
+        
+        
+        
+          
+            s
+          
+          
+            j
+          
+        
+        =
+        
+          
+            r
+          
+          
+            i
+            −
+            j
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {r} _{i}\,\mathrm {r} _{j}=\mathrm {r} _{i+j},\quad \mathrm {r} _{i}\,\mathrm {s} _{j}=\mathrm {s} _{i+j},\quad \mathrm {s} _{i}\,\mathrm {r} _{j}=\mathrm {s} _{i-j},\quad \mathrm {s} _{i}\,\mathrm {s} _{j}=\mathrm {r} _{i-j}.}
+  In all cases, addition and subtraction of subscripts are to be performed using modular arithmetic with modulus n.
+
+
+=== Matrix representation ===
+
+If we center the regular polygon at the origin, then elements of the dihedral group act as linear transformations of the plane.  This lets us represent elements of Dn as matrices, with composition being matrix multiplication.
+This is an example of a (2-dimensional) group representation.
+For example, the elements of the group D4 can be represented by the following eight matrices:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    r
+                  
+                  
+                    0
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            1
+                          
+                          
+                            0
+                          
+                        
+                        
+                          
+                            0
+                          
+                          
+                            1
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                
+                  
+                    r
+                  
+                  
+                    1
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            0
+                          
+                          
+                            −
+                            1
+                          
+                        
+                        
+                          
+                            1
+                          
+                          
+                            0
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                
+                  
+                    r
+                  
+                  
+                    2
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            −
+                            1
+                          
+                          
+                            0
+                          
+                        
+                        
+                          
+                            0
+                          
+                          
+                            −
+                            1
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                
+                  
+                    r
+                  
+                  
+                    3
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            0
+                          
+                          
+                            1
+                          
+                        
+                        
+                          
+                            −
+                            1
+                          
+                          
+                            0
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+            
+            
+              
+                
+                  
+                    s
+                  
+                  
+                    0
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            1
+                          
+                          
+                            0
+                          
+                        
+                        
+                          
+                            0
+                          
+                          
+                            −
+                            1
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                
+                  
+                    s
+                  
+                  
+                    1
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            0
+                          
+                          
+                            1
+                          
+                        
+                        
+                          
+                            1
+                          
+                          
+                            0
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                
+                  
+                    s
+                  
+                  
+                    2
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            −
+                            1
+                          
+                          
+                            0
+                          
+                        
+                        
+                          
+                            0
+                          
+                          
+                            1
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+              
+                
+                  
+                    s
+                  
+                  
+                    3
+                  
+                
+                =
+                
+                  (
+                  
+                    
+                      
+                        
+                          
+                            0
+                          
+                          
+                            −
+                            1
+                          
+                        
+                        
+                          
+                            −
+                            1
+                          
+                          
+                            0
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}\mathrm {r} _{0}=\left({\begin{smallmatrix}1&0\\[0.2em]0&1\end{smallmatrix}}\right),&\mathrm {r} _{1}=\left({\begin{smallmatrix}0&-1\\[0.2em]1&0\end{smallmatrix}}\right),&\mathrm {r} _{2}=\left({\begin{smallmatrix}-1&0\\[0.2em]0&-1\end{smallmatrix}}\right),&\mathrm {r} _{3}=\left({\begin{smallmatrix}0&1\\[0.2em]-1&0\end{smallmatrix}}\right),\\[1em]\mathrm {s} _{0}=\left({\begin{smallmatrix}1&0\\[0.2em]0&-1\end{smallmatrix}}\right),&\mathrm {s} _{1}=\left({\begin{smallmatrix}0&1\\[0.2em]1&0\end{smallmatrix}}\right),&\mathrm {s} _{2}=\left({\begin{smallmatrix}-1&0\\[0.2em]0&1\end{smallmatrix}}\right),&\mathrm {s} _{3}=\left({\begin{smallmatrix}0&-1\\[0.2em]-1&0\end{smallmatrix}}\right).\end{matrix}}}
+  In general, the matrices for elements of Dn have the following form:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    r
+                  
+                  
+                    k
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          cos
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                        
+                          −
+                          sin
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                      
+                      
+                        
+                          sin
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                        
+                          cos
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                 
+                 
+                
+                  and
+                
+              
+            
+            
+              
+                
+                  
+                    s
+                  
+                  
+                    k
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    (
+                    
+                      
+                        
+                          cos
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                        
+                          sin
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                      
+                      
+                        
+                          sin
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                        
+                          −
+                          cos
+                          ⁡
+                          
+                            
+                              
+                                2
+                                π
+                                k
+                              
+                              n
+                            
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathrm {r} _{k}&={\begin{pmatrix}\cos {\frac {2\pi k}{n}}&-\sin {\frac {2\pi k}{n}}\\\sin {\frac {2\pi k}{n}}&\cos {\frac {2\pi k}{n}}\end{pmatrix}}\ \ {\text{and}}\\\mathrm {s} _{k}&={\begin{pmatrix}\cos {\frac {2\pi k}{n}}&\sin {\frac {2\pi k}{n}}\\\sin {\frac {2\pi k}{n}}&-\cos {\frac {2\pi k}{n}}\end{pmatrix}}.\end{aligned}}}
+  rk is a rotation matrix, expressing a counterclockwise rotation through an angle of  2πk/n.  sk is a reflection across a line that makes an angle of πk/n with the x-axis.
+
+
+=== Other definitions ===
+Further equivalent definitions of Dn are:
+
+
+== Small dihedral groups ==
+
+D1 is isomorphic to Z2, the cyclic group of order 2.
+D2 is isomorphic to K4, the Klein four-group.
+D1 and D2 are exceptional in that:
+
+D1 and D2 are the only abelian dihedral groups. Otherwise, Dn is non-abelian.
+Dn is a subgroup of the symmetric group Sn for n ≥ 3. Since 2n > n! for  n = 1 or n = 2, for these values, Dn is too large to be a subgroup.
+The inner automorphism group of D2 is trivial, whereas for other even values of n, this is Dn / Z2.The cycle graphs of dihedral groups consist of an n-element cycle and n 2-element cycles. The dark vertex in the cycle graphs below of various dihedral groups represents the identity element, and the other vertices are the other elements of the group. A cycle consists of successive powers of either of the elements connected to the identity element.
+
+
+== The dihedral group as symmetry group in 2D and rotation group in 3D ==
+An example of abstract group Dn, and a common way to visualize it, is the group of Euclidean plane isometries which keep the origin fixed. These groups form one of the two series of discrete point groups in two dimensions. Dn consists of n rotations of multiples of 360°/n about the origin, and reflections across n lines through the origin, making angles of multiples of 180°/n with each other. This is the symmetry group of a regular polygon with n sides (for n ≥ 3; this extends to the cases n = 1 and n = 2 where we have a plane with respectively a point offset from the "center" of the "1-gon" and a "2-gon" or line segment).
+Dn is generated by a rotation r of order n and a reflection s of order 2 such that
+
+  
+    
+      
+        
+          s
+          r
+          s
+        
+        =
+        
+          
+            r
+          
+          
+            −
+            1
+          
+        
+        
+      
+    
+    {\displaystyle \mathrm {srs} =\mathrm {r} ^{-1}\,}
+  In geometric terms: in the mirror a rotation looks like an inverse rotation.
+In terms of complex numbers: multiplication by 
+  
+    
+      
+        
+          e
+          
+            
+              
+                2
+                π
+                i
+              
+              n
+            
+          
+        
+      
+    
+    {\displaystyle e^{2\pi i \over n}}
+   and complex conjugation.
+In matrix form, by setting
+
+  
+    
+      
+        
+          
+            r
+          
+          
+            1
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  cos
+                  ⁡
+                  
+                    
+                      
+                        2
+                        π
+                      
+                      n
+                    
+                  
+                
+                
+                  −
+                  sin
+                  ⁡
+                  
+                    
+                      
+                        2
+                        π
+                      
+                      n
+                    
+                  
+                
+              
+              
+                
+                  sin
+                  ⁡
+                  
+                    
+                      
+                        2
+                        π
+                      
+                      n
+                    
+                  
+                
+                
+                  cos
+                  ⁡
+                  
+                    
+                      
+                        2
+                        π
+                      
+                      n
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+        
+          
+            s
+          
+          
+            0
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  1
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle \mathrm {r} _{1}={\begin{bmatrix}\cos {2\pi  \over n}&-\sin {2\pi  \over n}\\[4pt]\sin {2\pi  \over n}&\cos {2\pi  \over n}\end{bmatrix}}\qquad \mathrm {s} _{0}={\begin{bmatrix}1&0\\0&-1\end{bmatrix}}}
+  and defining 
+  
+    
+      
+        
+          
+            r
+          
+          
+            j
+          
+        
+        =
+        
+          
+            r
+          
+          
+            1
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \mathrm {r} _{j}=\mathrm {r} _{1}^{j}}
+   and 
+  
+    
+      
+        
+          
+            s
+          
+          
+            j
+          
+        
+        =
+        
+          
+            r
+          
+          
+            j
+          
+        
+        
+        
+          
+            s
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathrm {s} _{j}=\mathrm {r} _{j}\,\mathrm {s} _{0}}
+   for 
+  
+    
+      
+        j
+        ∈
+        {
+        1
+        ,
+        …
+        ,
+        n
+        −
+        1
+        }
+      
+    
+    {\displaystyle j\in \{1,\ldots ,n-1\}}
+   we can write the product rules for Dn as
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    r
+                  
+                  
+                    j
+                  
+                
+                
+                
+                  
+                    r
+                  
+                  
+                    k
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    r
+                  
+                  
+                    (
+                    j
+                    +
+                    k
+                    )
+                    
+                       mod 
+                    
+                    n
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    r
+                  
+                  
+                    j
+                  
+                
+                
+                
+                  
+                    s
+                  
+                  
+                    k
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    s
+                  
+                  
+                    (
+                    j
+                    +
+                    k
+                    )
+                    
+                       mod 
+                    
+                    n
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    s
+                  
+                  
+                    j
+                  
+                
+                
+                
+                  
+                    r
+                  
+                  
+                    k
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    s
+                  
+                  
+                    (
+                    j
+                    −
+                    k
+                    )
+                    
+                       mod 
+                    
+                    n
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    s
+                  
+                  
+                    j
+                  
+                
+                
+                
+                  
+                    s
+                  
+                  
+                    k
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    r
+                  
+                  
+                    (
+                    j
+                    −
+                    k
+                    )
+                    
+                       mod 
+                    
+                    n
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathrm {r} _{j}\,\mathrm {r} _{k}&=\mathrm {r} _{(j+k){\text{ mod }}n}\\\mathrm {r} _{j}\,\mathrm {s} _{k}&=\mathrm {s} _{(j+k){\text{ mod }}n}\\\mathrm {s} _{j}\,\mathrm {r} _{k}&=\mathrm {s} _{(j-k){\text{ mod }}n}\\\mathrm {s} _{j}\,\mathrm {s} _{k}&=\mathrm {r} _{(j-k){\text{ mod }}n}\end{aligned}}}
+  (Compare coordinate rotations and reflections.)
+The dihedral group D2 is generated by the rotation r of 180 degrees, and the reflection s across the x-axis. The elements of D2 can then be represented as {e, r, s, rs}, where e is the identity or null transformation and rs is the reflection across the y-axis.
+
+D2 is isomorphic to the Klein four-group.
+For n > 2 the operations of rotation and reflection in general do not commute and Dn is not abelian; for example, in D4, a rotation of 90 degrees followed by a reflection yields a different result from a reflection followed by a rotation of 90 degrees.
+
+Thus, beyond their obvious application to problems of symmetry in the plane, these groups are among the simplest examples of non-abelian groups, and as such arise frequently as easy counterexamples to theorems which are restricted to abelian groups.
+The 2n elements of Dn can be written as e, r, r2, ... , rn−1, s, r s, r2s, ... ,  rn−1s. The first n listed elements are rotations and the remaining n elements are axis-reflections (all of which have order 2). The product of two rotations or two reflections is a rotation; the product of a rotation and a reflection is a reflection.
+So far, we have considered Dn to be a subgroup of O(2), i.e. the group of rotations (about the origin) and reflections (across axes through the origin) of the plane. However, notation Dn is also used for a subgroup of SO(3) which is also of abstract group type Dn: the proper symmetry group of a regular polygon embedded in three-dimensional space (if n ≥ 3). Such a figure may be considered as a degenerate regular solid with its face counted twice. Therefore, it is also called a dihedron (Greek: solid with two faces), which explains the name dihedral group (in analogy to tetrahedral, octahedral and icosahedral group, referring to the proper symmetry groups of a regular tetrahedron, octahedron, and icosahedron respectively).
+
+
+=== Examples of 2D dihedral symmetry ===
+
+		
+		
+		
+
+
+== Properties ==
+The properties of the dihedral groups Dn with n ≥ 3 depend on whether n is even or odd. For example, the center of Dn consists only of the identity if n is odd, but if n is even the center has two elements, namely the identity and the element rn/2 (with Dn as a subgroup of O(2), this is inversion; since it is scalar multiplication by −1, it is clear that it commutes with any linear transformation).
+In the case of 2D isometries, this corresponds to adding inversion, giving rotations and mirrors in between the existing ones.
+For n twice an odd number, the abstract group Dn is isomorphic with the direct product of Dn / 2 and Z2.
+Generally, if m divides n, then Dn has n/m subgroups of type Dm, and one subgroup 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  m. Therefore, the total number of subgroups of Dn (n ≥ 1), is equal to d(n) + σ(n), where d(n) is the number of positive divisors of n and σ(n) is the sum of the positive divisors of n.  See list of small groups for the cases n ≤ 8.
+The dihedral group of order 8 (D4) is the smallest example of a group that is not a T-group. Any of its two Klein four-group subgroups (which are normal in D4) has as normal subgroup order-2 subgroups generated by a reflection (flip) in D4, but these subgroups are not normal in D4.
+
+
+=== Conjugacy classes of reflections ===
+All the reflections are conjugate to each other in case n is odd, but they fall into two conjugacy classes if n is even. If we think of the isometries of a regular n-gon: for odd n there are rotations in the group between every pair of mirrors, while for even n only half of the mirrors can be reached from one by these rotations. Geometrically, in an odd polygon every axis of symmetry passes through a vertex and a side, while in an even polygon there are two sets of axes, each corresponding to a conjugacy class: those that pass through two vertices and those that pass through two sides.
+Algebraically, this is an instance of the conjugate Sylow theorem (for n odd): for n odd, each reflection, together with the identity, form a subgroup of order 2, which is a Sylow 2-subgroup (2 = 21 is the maximum power of 2 dividing 2n = 2[2k + 1]), while for n even, these order 2 subgroups are not Sylow subgroups because 4 (a higher power of 2) divides the order of the group.
+For n even there is instead an outer automorphism interchanging the two types of reflections (properly, a class of outer automorphisms, which are all conjugate by an inner automorphism).
+
+
+== Automorphism group ==
+The automorphism group of Dn is isomorphic to the holomorph of 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  /n
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  , i.e., to Hol(
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  /n
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  ) = {ax + b | (a, n) = 1}  and has order nϕ(n), where ϕ is Euler's totient function, the number of k in 1, ..., n − 1 coprime to n.
+It can be understood in terms of the generators of a reflection and an elementary rotation (rotation by k(2π/n), for k coprime to n); which automorphisms are inner and outer depends on the parity of n.
+
+For n odd, the dihedral group is centerless, so any element defines a non-trivial inner automorphism; for n even, the rotation by 180° (reflection through the origin) is the non-trivial element of the center.
+Thus for n odd, the inner automorphism group has order 2n, and for n even (other than n = 2) the inner automorphism group has order n.
+For n odd, all reflections are conjugate; for n even, they fall into two classes (those through two vertices and those through two faces), related by an outer automorphism, which can be represented by rotation by π/n (half the minimal rotation).
+The rotations are a normal subgroup; conjugation by a reflection changes the sign (direction) of the rotation, but otherwise leaves them unchanged. Thus automorphisms that multiply angles by k (coprime to n) are outer unless k = ±1.
+
+
+=== Examples of automorphism groups ===
+D9 has 18 inner automorphisms. As 2D isometry group D9, the group has mirrors at 20° intervals. The 18 inner automorphisms provide rotation of the mirrors by multiples of 20°, and reflections. As isometry group these are all automorphisms. As abstract group there are in addition to these, 36 outer automorphisms; e.g., multiplying angles of rotation by 2.
+D10 has 10 inner automorphisms. As 2D isometry group D10, the group has mirrors at 18° intervals. The 10 inner automorphisms provide rotation of the mirrors by multiples of 36°, and reflections. As isometry group there are 10 more automorphisms; they are conjugates by isometries outside the group, rotating the mirrors 18° with respect to the inner automorphisms. As abstract group there are in addition to these 10 inner and 10 outer automorphisms, 20 more outer automorphisms; e.g., multiplying rotations by 3.
+Compare the values 6 and 4 for Euler's totient function, the multiplicative group of integers modulo n for n = 9 and 10, respectively. This triples and doubles the number of automorphisms compared with the two automorphisms as isometries (keeping the order of the rotations the same or reversing the order).
+The only values of n for which φ(n) = 2 are 3, 4, and 6, and consequently, there are only three dihedral groups that are isomorphic to their own automorphism groups, namely D3 (order 6), D4 (order 8), and D6 (order 12).
+
+
+=== Inner automorphism group ===
+The inner automorphism group of Dn is isomorphic to:
+Dn if n is odd;
+Dn / Z2 if n is even (for n = 2, D2 / Z2 = 1 ).
+
+
+== Generalizations ==
+There are several important generalizations of the dihedral groups:
+
+The infinite dihedral group is an infinite group with algebraic structure similar to the finite dihedral groups.  It can be viewed as the group of symmetries of the integers.
+The orthogonal group O(2), i.e., the symmetry group of the circle, also has similar properties to the dihedral groups.
+The family of generalized dihedral groups includes both of the examples above, as well as many other groups.
+The quasidihedral groups are family of finite groups with similar properties to the dihedral groups.
+
+
+== See also ==
+Coordinate rotations and reflections
+Cycle index of the dihedral group
+Dicyclic group
+Dihedral group of order 6
+Dihedral group of order 8
+Dihedral symmetry groups in 3D
+Dihedral symmetry in three dimensions
+
+
+== References ==
+
+
+== External links ==
+Dihedral Group n of Order 2n by Shawn Dudzik, Wolfram Demonstrations Project.
+Dihedral group at Groupprops
+Weisstein, Eric W. "Dihedral Group". MathWorld.
+Weisstein, Eric W. "Dihedral Group D3". MathWorld.
+Weisstein, Eric W. "Dihedral Group D4". MathWorld.
+Weisstein, Eric W. "Dihedral Group D5". MathWorld.
+Davis, Declan. "Dihedral Group D6". MathWorld.
+Dihedral groups on GroupNames

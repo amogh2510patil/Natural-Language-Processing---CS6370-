@@ -1,0 +1,818 @@
+In thermodynamics, the compressibility factor (Z), also known as the compression factor or the gas deviation factor, is a correction factor which describes the deviation of a real gas from ideal gas behaviour. It is simply defined as the ratio of the molar volume of a gas to the molar volume of an ideal gas at the same temperature and pressure.  It is a useful thermodynamic property for modifying the ideal gas law to account for the real gas behaviour.  In general, deviation from ideal behaviour becomes more significant the closer a gas is to a phase change, the lower the temperature or the larger the pressure.  Compressibility factor values are usually obtained by calculation from equations of state (EOS), such as the virial equation which take compound-specific empirical constants as input. For a gas that is a mixture of two or more pure gases (air or natural gas, for example), the gas composition must be known before compressibility can be calculated.  
+Alternatively, the compressibility factor for specific gases can be read from generalized compressibility charts that plot 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   as a function of pressure at constant temperature.
+The compressibility factor should not be confused with the compressibility (also known as coefficient of compressibility or isothermal compressibility) of a material, which is the measure of the relative volume change of a fluid or solid in response to a pressure change.
+
+
+== Definition and physical significance ==
+
+The compressibility factor is defined in thermodynamics and engineering frequently as:
+
+  
+    
+      
+        Z
+        =
+        
+          
+            p
+            
+              ρ
+              
+                R
+                
+                  specific
+                
+              
+              T
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle Z={\frac {p}{\rho R_{\text{specific}}T}},}
+  where p is the pressure, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   is the density of the gas and 
+  
+    
+      
+        
+          R
+          
+            specific
+          
+        
+        =
+        
+          
+            R
+            M
+          
+        
+      
+    
+    {\textstyle R_{\text{specific}}={\frac {R}{M}}}
+   is the specific gas constant, 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   being the molar mass, and the 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is the absolute temperature (kelvin or Rankine scale).
+In statistical mechanics the description is:
+
+  
+    
+      
+        Z
+        =
+        
+          
+            
+              p
+              V
+            
+            
+              n
+              R
+              T
+            
+          
+        
+      
+    
+    {\displaystyle Z={\frac {pV}{nRT}}}
+  where p is the pressure, n is the number of moles of gas, 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   is the absolute temperature, and 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is the gas constant.
+For an ideal gas the compressibility factor is 
+  
+    
+      
+        Z
+        =
+        1
+      
+    
+    {\displaystyle Z=1}
+   per definition. In many real world applications requirements for accuracy demand that deviations from ideal gas behaviour, i.e., real gas behaviour, be taken into account. The value of 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   generally increases with pressure and decreases with temperature. At high pressures molecules are colliding more often. This allows repulsive forces between molecules to have a noticeable effect, making the molar volume of the real gas (
+  
+    
+      
+        
+          V
+          
+            
+              m
+            
+          
+        
+      
+    
+    {\displaystyle V_{\mathrm {m} }}
+  ) greater than the molar volume of the corresponding ideal gas (
+  
+    
+      
+        (
+        
+          V
+          
+            
+              m
+            
+          
+        
+        
+          )
+          
+            ideal gas
+          
+        
+        =
+        R
+        T
+        
+          /
+        
+        p
+      
+    
+    {\displaystyle (V_{\mathrm {m} })_{\text{ideal gas}}=RT/p}
+  ), which causes 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   to exceed one. When pressures are lower, the molecules are free to move. In this case attractive forces dominate, making 
+  
+    
+      
+        Z
+        <
+        1
+      
+    
+    {\displaystyle Z<1}
+  . The closer the gas is to its critical point or its boiling point, the more 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   deviates from the ideal case.
+
+
+=== Fugacity ===
+The compressibility factor is linked to the fugacity by the relation:
+
+  
+    
+      
+        f
+        =
+        P
+        exp
+        ⁡
+        
+          (
+          
+            ∫
+            
+              
+                
+                  Z
+                  −
+                  1
+                
+                P
+              
+            
+            d
+            P
+          
+          )
+        
+      
+    
+    {\displaystyle f=P\exp \left(\int {\frac {Z-1}{P}}dP\right)}
+  
+
+
+== Generalized compressibility factor graphs for pure gases ==
+
+The unique relationship between the compressibility factor and the reduced temperature, 
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+      
+    
+    {\displaystyle T_{r}}
+  , and the reduced pressure, 
+  
+    
+      
+        
+          P
+          
+            r
+          
+        
+      
+    
+    {\displaystyle P_{r}}
+  , was first recognized by Johannes Diderik van der Waals in 1873 and is known as the two-parameter principle of corresponding states. The principle of corresponding states expresses the generalization that the properties of a gas which are dependent on intermolecular forces are related to the critical properties of the gas in a universal way. That provides a most important basis for developing correlations of molecular properties.
+As for the compressibility of gases, the principle of corresponding states indicates that any pure gas at the same reduced temperature, 
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+      
+    
+    {\displaystyle T_{r}}
+  , and reduced pressure, 
+  
+    
+      
+        
+          P
+          
+            r
+          
+        
+      
+    
+    {\displaystyle P_{r}}
+  , should have the same compressibility factor.
+The reduced temperature and pressure are defined by
+
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+        =
+        
+          
+            T
+            
+              T
+              
+                c
+              
+            
+          
+        
+      
+    
+    {\displaystyle T_{r}={\frac {T}{T_{c}}}}
+    and  
+  
+    
+      
+        
+          P
+          
+            r
+          
+        
+        =
+        
+          
+            P
+            
+              P
+              
+                c
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle P_{r}={\frac {P}{P_{c}}}.}
+  Here 
+  
+    
+      
+        
+          T
+          
+            c
+          
+        
+      
+    
+    {\displaystyle T_{c}}
+   and 
+  
+    
+      
+        
+          P
+          
+            c
+          
+        
+      
+    
+    {\displaystyle P_{c}}
+   are known as the critical temperature and critical pressure of a gas. They are characteristics of each specific gas with 
+  
+    
+      
+        
+          T
+          
+            c
+          
+        
+      
+    
+    {\displaystyle T_{c}}
+   being the temperature above which it is not possible to liquify a given gas and 
+  
+    
+      
+        
+          P
+          
+            c
+          
+        
+      
+    
+    {\displaystyle P_{c}}
+   is the minimum pressure required to liquify a given gas at its critical temperature. Together they define the critical point of a fluid above which distinct liquid and gas phases of a given fluid do not exist.
+The pressure-volume-temperature (PVT) data for real gases varies from one pure gas to another. However, when the compressibility factors of various single-component gases are graphed versus pressure along with temperature isotherms many of the graphs exhibit similar isotherm shapes.
+In order to obtain a generalized graph that can be used for many different gases, the reduced pressure and temperature, 
+  
+    
+      
+        
+          P
+          
+            r
+          
+        
+      
+    
+    {\displaystyle P_{r}}
+   and 
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+      
+    
+    {\displaystyle T_{r}}
+  , are used to normalize the compressibility factor data. Figure 2 is an example of a generalized compressibility factor graph derived from hundreds of experimental PVT data points of 10 pure gases, namely methane, ethane, ethylene, propane, n-butane, i-pentane, n-hexane, nitrogen, carbon dioxide and steam.
+There are more detailed generalized compressibility factor graphs based on as many as 25 or more different pure gases, such as the Nelson-Obert graphs. Such graphs are said to have an accuracy within 1–2 percent for 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   values greater than 0.6 and within 4–6 percent for 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   values of 0.3–0.6.
+The generalized compressibility factor graphs may be considerably in error for strongly polar gases which are gases for which the centers of positive and negative charge do not coincide. In such cases the estimate for 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   may be in error by as much as 15–20 percent.
+The quantum gases hydrogen, helium, and neon do not conform to the corresponding-states behavior and the reduced pressure and temperature for those three gases should be redefined in the following manner to improve the accuracy of predicting their compressibility factors when using the generalized graphs:
+
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+        =
+        
+          
+            T
+            
+              
+                T
+                
+                  c
+                
+              
+              +
+              8
+            
+          
+        
+      
+    
+    {\displaystyle T_{r}={\frac {T}{T_{c}+8}}}
+   and 
+  
+    
+      
+        
+          P
+          
+            r
+          
+        
+        =
+        
+          
+            P
+            
+              
+                P
+                
+                  c
+                
+              
+              +
+              8
+            
+          
+        
+      
+    
+    {\displaystyle P_{r}={\frac {P}{P_{c}+8}}}
+  where the temperatures are in kelvins and the pressures are in atmospheres.
+
+
+== Reading a generalized compressibility chart ==
+In order to read a compressibility chart, the reduced pressure and temperature must be known. If either the reduced pressure or temperature is unknown, the reduced specific volume must be found. Unlike the reduced pressure and temperature, the reduced specific volume is not found by using the critical volume. The reduced specific volume is defined by,
+
+  
+    
+      
+        
+          ν
+          
+            R
+          
+        
+        =
+        
+          
+            
+              ν
+              
+                actual
+              
+            
+            
+              R
+              
+                T
+                
+                  cr
+                
+              
+              
+                /
+              
+              
+                P
+                
+                  cr
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nu _{R}={\frac {\nu _{\text{actual}}}{RT_{\text{cr}}/P_{\text{cr}}}}}
+  where 
+  
+    
+      
+        
+          ν
+          
+            actual
+          
+        
+      
+    
+    {\displaystyle \nu _{\text{actual}}}
+   is the specific volume.Once two of the three reduced properties are found, the compressibility chart can be used. In a compressibility chart, reduced pressure is on the x-axis and Z is on the y-axis. When given the reduced pressure and temperature, find the given pressure on the x-axis. From there, move up on the chart until the given reduced temperature is found. Z is found by looking where those two points intersect. the same process can be followed if reduced specific volume is given with either reduced pressure or temperature.
+
+
+== Observations made from a generalized compressibility chart ==
+There are three observations that can be made when looking at a generalized compressibility chart.  These observations are:
+
+Gases behave as an ideal gas regardless of temperature when the reduced pressure is much less than one (PR ≪ 1).
+When reduced temperature is greater than two (TR > 2), ideal-gas behavior can be assumed regardless of pressure, unless pressure is much greater than one (PR ≫ 1).
+Gases deviate from ideal-gas behavior the most in the vicinity of the critical point.
+
+
+== Theoretical models ==
+The virial equation is especially useful to describe the causes of non-ideality at a molecular level (very few gases are mono-atomic) as it is derived directly from statistical mechanics:
+
+  
+    
+      
+        Z
+        =
+        1
+        +
+        
+          
+            B
+            
+              V
+              
+                
+                  m
+                
+              
+            
+          
+        
+        +
+        
+          
+            C
+            
+              V
+              
+                
+                  m
+                
+              
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            D
+            
+              V
+              
+                
+                  m
+                
+              
+              
+                3
+              
+            
+          
+        
+        +
+        …
+      
+    
+    {\displaystyle Z=1+{\frac {B}{V_{\mathrm {m} }}}+{\frac {C}{V_{\mathrm {m} }^{2}}}+{\frac {D}{V_{\mathrm {m} }^{3}}}+\dots }
+  Where the coefficients in the numerator are known as virial coefficients and are functions of temperature.
+The virial coefficients account for interactions between successively larger groups of molecules. For example, 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   accounts for interactions between pairs, 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+   for interactions between three gas molecules, and so on. Because interactions between large numbers of molecules are rare, the virial equation is usually truncated after the third term.When this truncation is assumed, the compressibility factor is linked to the intermolecular-force potential φ by:
+
+  
+    
+      
+        Z
+        =
+        1
+        +
+        2
+        π
+        
+          
+            
+              N
+              
+                A
+              
+            
+            
+              V
+              
+                m
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          (
+          
+            1
+            −
+            exp
+            ⁡
+            
+              (
+              
+                
+                  φ
+                  
+                    k
+                    T
+                  
+                
+              
+              )
+            
+          
+          )
+        
+        
+          r
+          
+            2
+          
+        
+        d
+        r
+      
+    
+    {\displaystyle Z=1+2\pi {\frac {N_{\text{A}}}{V_{\text{m}}}}\int _{0}^{\infty }\left(1-\exp \left({\frac {\varphi }{kT}}\right)\right)r^{2}dr}
+  The Real gas article features more theoretical methods to compute compressibility factors.
+
+
+== Physical mechanism of temperature and pressure dependence ==
+Deviations of the compressibility factor, Z, from unity are due to attractive and repulsive intermolecular forces. At a given temperature and pressure, repulsive forces tend to make the volume larger than for an ideal gas; when these forces dominate Z is greater than unity. When attractive forces dominate, Z is less than unity. The relative importance of attractive forces decreases as temperature increases (see effect on gases).
+As seen above, the behavior of Z is qualitatively similar for all gases. Molecular nitrogen, N2, is used here to further describe and understand that behavior. All data used in this section were obtained from the NIST Chemistry WebBook. It is useful to note that for N2 the normal boiling point of the liquid is 77.4 K and the critical point is at 126.2 K and 34.0 bar.
+
+The figure on the right shows an overview covering a wide temperature range. At low temperature (100 K), the curve has a characteristic check-mark shape, the rising portion of the curve is very nearly directly proportional to pressure. At intermediate temperature (160 K), there is a smooth curve with a broad minimum; although the high pressure portion is again nearly linear, it is no longer directly proportional to pressure. Finally, at high temperature (400 K), Z is above unity at all pressures. For all curves, Z approaches the ideal gas value of unity at low pressure and exceeds that value at very high pressure.
+
+To better understand these curves, a closer look at the behavior for low temperature and pressure is given in the second figure. All of the curves start out with Z equal to unity at zero pressure and Z initially decreases as pressure increases. N2 is a gas under these conditions, so the distance between molecules is large, but becomes smaller as pressure increases. This increases the attractive interactions between molecules, pulling the molecules closer together and causing the volume to be less than for an ideal gas at the same temperature and pressure. Higher temperature reduces the effect of the attractive interactions and the gas behaves in a more nearly ideal manner.
+As the pressure increases, the gas eventually reaches the gas-liquid coexistence curve, shown by the dashed line in the figure. When that happens, the attractive interactions have become strong enough to overcome the tendency of thermal motion to cause the molecules to spread out; so the gas condenses to form a liquid. Points on the vertical portions of the curves correspond to N2 being partly gas and partly liquid. On the coexistence curve, there are then two possible values for Z, a larger one corresponding to the gas and a smaller value corresponding to the liquid. Once all the gas has been converted to liquid, the volume decreases only slightly with further increases in pressure; then Z is very nearly proportional to pressure.
+As temperature and pressure increase along the coexistence curve, the gas becomes more like a liquid and the liquid becomes more like a gas. At the critical point, the two are the same. So for temperatures above the critical temperature (126.2 K), there is no phase transition; as pressure increases the gas gradually transforms into something more like a liquid. Just above the critical point there is a range of pressure for which Z drops quite rapidly (see the 130 K curve), but at higher temperatures the process is entirely gradual.
+
+The final figures shows the behavior at temperatures well above the critical temperatures. The repulsive interactions are essentially unaffected by temperature, but the attractive interaction have less and less influence. Thus, at sufficiently high temperature, the repulsive interactions dominate at all pressures.
+This can be seen in the graph showing the high temperature behavior. As temperature increases, the initial slope becomes less negative, the pressure at which Z is a minimum gets smaller, and the pressure at which repulsive interactions start to dominate, i.e. where Z goes from less than unity to greater than unity, gets smaller. At the Boyle temperature (327 K for N2), the attractive and repulsive effects cancel each other at low pressure. Then Z remains at the ideal gas value of unity up to pressures of several tens of bar. Above the Boyle temperature, the compressibility factor is always greater than unity and increases slowly but steadily as pressure increases.
+
+
+== Experimental values ==
+It is extremely difficult to generalize at what pressures or temperatures the deviation from the ideal gas becomes important. As a rule of thumb, the ideal gas law is reasonably accurate up to a pressure of about 2 atm, and even higher for small non-associating molecules.  For example, methyl chloride, a highly polar molecule and therefore with significant intermolecular forces, the experimental value for the compressibility factor is 
+  
+    
+      
+        Z
+        =
+        0.9152
+      
+    
+    {\displaystyle Z=0.9152}
+   at a pressure of 10 atm and temperature of 100 °C.  For air (small non-polar molecules) at approximately the same conditions, the compressibility factor is only 
+  
+    
+      
+        Z
+        =
+        1.0025
+      
+    
+    {\displaystyle Z=1.0025}
+   (see table below for 10 bars, 400 K).
+
+
+=== Compressibility of air ===
+Normal air comprises in crude numbers 80 percent nitrogen N2 and 20 percent oxygen O2.  Both molecules are small and non-polar (and therefore non-associating).  We can therefore expect that the behaviour of air within broad temperature and pressure ranges can be approximated as an ideal gas with reasonable accuracy.  Experimental values for the compressibility factor confirm this.
+
+Z for air as function of pressure 1–500 bar
+		
+		
+
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+   values are calculated from values of pressure, volume (or density), and temperature in Vasserman, Kazavchinskii, and Rabinovich, "Thermophysical Properties of Air and Air Components;' Moscow, Nauka, 1966, and NBS-NSF Trans. TT 70-50095, 1971: and Vasserman and Rabinovich, "Thermophysical Properties of Liquid Air and Its Component, "Moscow, 1968, and NBS-NSF Trans. 69-55092, 1970.
+
+
+== See also ==
+Fugacity
+Real gas
+Theorem of corresponding states
+Van der Waals equation
+
+
+== References ==
+
+
+== External links ==
+Compressibility factor (gases)  A Citizendium article.
+Real Gases includes a discussion of compressibility factors.

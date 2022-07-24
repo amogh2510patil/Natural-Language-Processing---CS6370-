@@ -1,0 +1,64 @@
+An elastic modulus (also known as modulus of elasticity) is the unit of measurement of an object's or substance's resistance to being deformed elastically (i.e., non-permanently) when a stress is applied to it. The elastic modulus of an object is defined as the slope of its stress–strain curve in the elastic deformation region: A stiffer material will have a higher elastic modulus. An elastic modulus has the form:
+
+  
+    
+      
+        δ
+         
+        
+          
+            
+              
+                =
+              
+              
+                def
+              
+            
+          
+        
+         
+        
+          
+            stress
+            strain
+          
+        
+      
+    
+    {\displaystyle \delta \ {\stackrel {\text{def}}{=}}\ {\frac {\text{stress}}{\text{strain}}}}
+  where stress is the force causing the deformation divided by the area to which the force is applied and strain is the ratio of the change in some parameter caused by the deformation to the original value of the parameter. Since strain is a dimensionless quantity, the units of 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   will be the same as the units of stress.Specifying how stress and strain are to be measured, including directions, allows for many types of elastic moduli to be defined. The three primary ones are:
+
+Young's modulus (E) describes tensile elasticity, or the tendency of an object to deform along an axis when opposing forces are applied along that axis; it is defined as the ratio of tensile stress to tensile strain. It is often referred to simply as the elastic modulus.
+The shear modulus or modulus of rigidity (G or 
+  
+    
+      
+        μ
+        
+      
+    
+    {\displaystyle \mu \,}
+  Lamé second parameter) describes an object's tendency to shear (the deformation of shape at constant volume) when acted upon by opposing forces; it is defined as shear stress over shear strain.  The shear modulus is part of the derivation of viscosity.
+The bulk modulus (K) describes volumetric elasticity, or the tendency of an object to deform in all directions when uniformly loaded in all directions; it is defined as volumetric stress over volumetric strain, and is the inverse of compressibility. The bulk modulus is an extension of Young's modulus to three dimensions.Two other elastic moduli are Lamé's first parameter, λ, and P-wave modulus, M, as used in table of modulus comparisons given below references.
+Homogeneous and isotropic (similar in all directions) materials (solids) have their (linear) elastic properties fully described by two elastic moduli, and one may choose any pair.  Given a pair of elastic moduli, all other elastic moduli can be calculated according to formulas in the table below at the end of page.
+Inviscid fluids are special in that they cannot support shear stress, meaning that the shear modulus is always zero. This also implies that Young's modulus for this group is always zero.
+In some texts, the modulus of elasticity is referred to as the elastic constant, while the inverse quantity is referred to as elastic modulus.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Hartsuijker, C.; Welleman, J. W. (2001). Engineering Mechanics. Volume 2. Springer. ISBN 978-1-4020-4123-5.De Jong, M.; Chen, Wei (2015). "Charting the complete elastic properties of inorganic crystalline compounds". Scientific Data. 2: 150009. Bibcode:2013NatSD...2E0009D. doi:10.1038/sdata.2015.9. PMC 4432655. PMID 25984348.

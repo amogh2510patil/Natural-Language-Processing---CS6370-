@@ -1,0 +1,25 @@
+A buckling spring is a type of keyswitch mechanism, popularized by IBM's keyboards for the PC, PC/AT, 5250/3270 terminals, PS/2, and other systems. It was used by IBM's Model F keyboards (for instance the AT keyboard), and the more common Model M. It is described in U.S. Patent 4,118,611 (Model F) and U.S. Patent 4,528,431 (Model M), both now expired.
+The name refers to the fact that the coil spring tensed between the keycap and a pivoting hammer buckles, i.e. kinks or collapses, at a certain point in its downward traverse, providing auditory and tactile feedback to the keyboard operator. Upon buckling, the hammer is pivoted forward by the spring and strikes an electrical contact which registers the key press. In a Model M, the electrical contact is a membrane sheet similar to that of a modern dome switch keyboard. On the older Model F design, a capacitive contact was used instead.
+
+
+== Gallery ==
+
+		
+		
+		
+
+
+== See also ==
+Collapse action
+Euler's critical load
+List of mechanical keyboards
+Unicomp
+
+
+== References ==
+
+
+== External links ==
+Current manufacturer of buckling spring keyboards faithful to the original Patent
+Buckling spring fan site and online shop
+Wiki article on the various buckling spring mechanisms – From deskthority.net

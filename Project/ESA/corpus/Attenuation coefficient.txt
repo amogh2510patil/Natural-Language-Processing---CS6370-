@@ -1,0 +1,1121 @@
+The linear attenuation coefficient, attenuation coefficient, or narrow-beam attenuation coefficient characterizes how easily a volume of material can be penetrated by a beam of light, sound, particles, or other energy or matter. A coefficient value that is large represents a beam becoming 'attenuated' as it passes through a given medium, while a small value represents that the medium had little effect on loss. The SI unit of attenuation coefficient is the reciprocal metre (m−1). Extinction coefficient is another term for this quantity, often used in meteorology and climatology. Most commonly, the quantity measures the exponential decay of intensity, that is, the value of downward e-folding distance of the original intensity as the energy of the intensity passes through a unit (e.g. one meter) thickness of material, so that an attenuation coefficient of 1 m−1 means that after passing through 1 metre, the radiation will be reduced by a factor of e, and for material with a coefficient of 2 m−1, it will be reduced twice by e, or e2. Other measures may use a different factor than e, such as the decadic attenuation coefficient below. The broad-beam attenuation coefficient counts forward-scattered radiation as transmitted rather than attenuated, and is more applicable to radiation shielding.
+
+
+== Overview ==
+The attenuation coefficient describes the extent to which the radiant flux of a beam is reduced as it passes through a specific material. It is used in the context of:
+
+X-rays or gamma rays, where it is denoted μ and measured in cm−1;
+neutrons and nuclear reactors, where it is called macroscopic cross section (although actually it is not a section dimensionally speaking), denoted Σ and measured in m−1;
+ultrasound attenuation, where it is denoted α and measured in dB⋅cm−1⋅MHz−1;
+acoustics for characterizing particle size distribution, where it is denoted α and measured in m−1.The attenuation coefficient is called the "extinction coefficient" in the context of
+
+solar and infrared radiative transfer in the atmosphere, albeit usually denoted with another symbol (given the standard use of μ = cos θ for slant paths);A small attenuation coefficient indicates that the material in question is relatively transparent, while a larger value indicates greater degrees of opacity. The attenuation coefficient is dependent upon the type of material and the energy of the radiation. Generally, for electromagnetic radiation, the higher the energy of the incident photons and the less dense the material in question, the lower the corresponding attenuation coefficient will be.
+
+
+== Mathematical definitions ==
+
+
+=== Attenuation coefficient ===
+The attenuation coefficient of a volume, denoted μ, is defined as
+
+  
+    
+      
+        μ
+        =
+        −
+        
+          
+            1
+            
+              Φ
+              
+                
+                  e
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              
+                Φ
+                
+                  
+                    e
+                  
+                
+              
+            
+            
+              
+                d
+              
+              z
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mu =-{\frac {1}{\Phi _{\mathrm {e} }}}{\frac {\mathrm {d} \Phi _{\mathrm {e} }}{\mathrm {d} z}},}
+  where
+
+Φe is the radiant flux;
+z is the path length of the beam.
+
+
+=== Spectral hemispherical attenuation coefficient ===
+The spectral hemispherical attenuation coefficient in frequency and spectral hemispherical attenuation coefficient in wavelength of a volume, denoted μν and μλ respectively, are defined as:
+
+  
+    
+      
+        
+          μ
+          
+            ν
+          
+        
+        =
+        −
+        
+          
+            1
+            
+              Φ
+              
+                
+                  e
+                
+                ,
+                ν
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              
+                Φ
+                
+                  
+                    e
+                  
+                  ,
+                  ν
+                
+              
+            
+            
+              
+                d
+              
+              z
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mu _{\nu }=-{\frac {1}{\Phi _{\mathrm {e} ,\nu }}}{\frac {\mathrm {d} \Phi _{\mathrm {e} ,\nu }}{\mathrm {d} z}},}
+  
+
+  
+    
+      
+        
+          μ
+          
+            λ
+          
+        
+        =
+        −
+        
+          
+            1
+            
+              Φ
+              
+                
+                  e
+                
+                ,
+                λ
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              
+                Φ
+                
+                  
+                    e
+                  
+                  ,
+                  λ
+                
+              
+            
+            
+              
+                d
+              
+              z
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mu _{\lambda }=-{\frac {1}{\Phi _{\mathrm {e} ,\lambda }}}{\frac {\mathrm {d} \Phi _{\mathrm {e} ,\lambda }}{\mathrm {d} z}},}
+  where
+
+Φe,ν is the spectral radiant flux in frequency;
+Φe,λ is the spectral radiant flux in wavelength.
+
+
+=== Directional attenuation coefficient ===
+The directional attenuation coefficient of a volume, denoted μΩ, is defined as
+
+  
+    
+      
+        
+          μ
+          
+            Ω
+          
+        
+        =
+        −
+        
+          
+            1
+            
+              L
+              
+                
+                  e
+                
+                ,
+                Ω
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              
+                L
+                
+                  
+                    e
+                  
+                  ,
+                  Ω
+                
+              
+            
+            
+              
+                d
+              
+              z
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \mu _{\Omega }=-{\frac {1}{L_{\mathrm {e} ,\Omega }}}{\frac {\mathrm {d} L_{\mathrm {e} ,\Omega }}{\mathrm {d} z}},}
+  where Le,Ω is the radiance.
+
+
+=== Spectral directional attenuation coefficient ===
+The spectral directional attenuation coefficient in frequency and spectral directional attenuation coefficient in wavelength of a volume, denoted μΩ,ν and μΩ,λ respectively, are defined as
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  μ
+                  
+                    Ω
+                    ,
+                    ν
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  
+                    1
+                    
+                      L
+                      
+                        
+                          e
+                        
+                        ,
+                        Ω
+                        ,
+                        ν
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        d
+                      
+                      
+                        L
+                        
+                          
+                            e
+                          
+                          ,
+                          Ω
+                          ,
+                          ν
+                        
+                      
+                    
+                    
+                      
+                        d
+                      
+                      z
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  μ
+                  
+                    Ω
+                    ,
+                    λ
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  
+                    1
+                    
+                      L
+                      
+                        
+                          e
+                        
+                        ,
+                        Ω
+                        ,
+                        λ
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        d
+                      
+                      
+                        L
+                        
+                          
+                            e
+                          
+                          ,
+                          Ω
+                          ,
+                          λ
+                        
+                      
+                    
+                    
+                      
+                        d
+                      
+                      z
+                    
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mu _{\Omega ,\nu }&=-{\frac {1}{L_{\mathrm {e} ,\Omega ,\nu }}}{\frac {\mathrm {d} L_{\mathrm {e} ,\Omega ,\nu }}{\mathrm {d} z}},\\\mu _{\Omega ,\lambda }&=-{\frac {1}{L_{\mathrm {e} ,\Omega ,\lambda }}}{\frac {\mathrm {d} L_{\mathrm {e} ,\Omega ,\lambda }}{\mathrm {d} z}},\end{aligned}}}
+  where
+
+Le,Ω,ν is the spectral radiance in frequency;
+Le,Ω,λ is the spectral radiance in wavelength.
+
+
+== Absorption and scattering coefficients ==
+When a narrow (collimated) beam passes through a volume, the beam will lose intensity due to two processes: absorption and scattering. Absorption indicated energy that is lost from the beam, while scattering indicates light that is redirected in a (random) direction, and hence is no longer in the beam, but still present, resulting in diffuse light.
+The absorption coefficient of a volume, denoted μa, and the scattering coefficient of a volume, denoted μs, are defined the same way as the attenuation coefficient.The attenuation coefficient of a volume is the sum of absorption coefficient and scattering coefficients:
+
+  
+    
+      
+        
+          
+            
+              
+                μ
+              
+              
+                
+                =
+                
+                  μ
+                  
+                    
+                      a
+                    
+                  
+                
+                +
+                
+                  μ
+                  
+                    
+                      s
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  μ
+                  
+                    ν
+                  
+                
+              
+              
+                
+                =
+                
+                  μ
+                  
+                    
+                      a
+                    
+                    ,
+                    ν
+                  
+                
+                +
+                
+                  μ
+                  
+                    
+                      s
+                    
+                    ,
+                    ν
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  μ
+                  
+                    λ
+                  
+                
+              
+              
+                
+                =
+                
+                  μ
+                  
+                    
+                      a
+                    
+                    ,
+                    λ
+                  
+                
+                +
+                
+                  μ
+                  
+                    
+                      s
+                    
+                    ,
+                    λ
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  μ
+                  
+                    Ω
+                  
+                
+              
+              
+                
+                =
+                
+                  μ
+                  
+                    
+                      a
+                    
+                    ,
+                    Ω
+                  
+                
+                +
+                
+                  μ
+                  
+                    
+                      s
+                    
+                    ,
+                    Ω
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  μ
+                  
+                    Ω
+                    ,
+                    ν
+                  
+                
+              
+              
+                
+                =
+                
+                  μ
+                  
+                    
+                      a
+                    
+                    ,
+                    Ω
+                    ,
+                    ν
+                  
+                
+                +
+                
+                  μ
+                  
+                    
+                      s
+                    
+                    ,
+                    Ω
+                    ,
+                    ν
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  μ
+                  
+                    Ω
+                    ,
+                    λ
+                  
+                
+              
+              
+                
+                =
+                
+                  μ
+                  
+                    
+                      a
+                    
+                    ,
+                    Ω
+                    ,
+                    λ
+                  
+                
+                +
+                
+                  μ
+                  
+                    
+                      s
+                    
+                    ,
+                    Ω
+                    ,
+                    λ
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mu &=\mu _{\mathrm {a} }+\mu _{\mathrm {s} },\\\mu _{\nu }&=\mu _{\mathrm {a} ,\nu }+\mu _{\mathrm {s} ,\nu },\\\mu _{\lambda }&=\mu _{\mathrm {a} ,\lambda }+\mu _{\mathrm {s} ,\lambda },\\\mu _{\Omega }&=\mu _{\mathrm {a} ,\Omega }+\mu _{\mathrm {s} ,\Omega },\\\mu _{\Omega ,\nu }&=\mu _{\mathrm {a} ,\Omega ,\nu }+\mu _{\mathrm {s} ,\Omega ,\nu },\\\mu _{\Omega ,\lambda }&=\mu _{\mathrm {a} ,\Omega ,\lambda }+\mu _{\mathrm {s} ,\Omega ,\lambda }.\end{aligned}}}
+  Just looking at the narrow beam itself, the two processes cannot be distinguished. However, if a detector is set up to measure beam leaving in different directions, or conversely using a non-narrow beam, one can measure how much of the lost radiant flux was scattered, and how much was absorbed.
+In this context, the "absorption coefficient" measures how quickly the beam would lose radiant flux due to the absorption alone, while "attenuation coefficient" measures the total loss of narrow-beam intensity, including scattering as well. "Narrow-beam attenuation coefficient" always unambiguously refers to the latter. The attenuation coefficient is at least as large as the absorption coefficient; they are equal in the idealized case of no scattering.
+
+
+== Mass attenuation, absorption, and scattering coefficients ==
+
+The mass attenuation coefficient, mass absorption coefficient, and mass scattering coefficient are defined as
+
+  
+    
+      
+        
+          
+            μ
+            
+              ρ
+              
+                m
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              μ
+              
+                
+                  a
+                
+              
+            
+            
+              ρ
+              
+                m
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              μ
+              
+                
+                  s
+                
+              
+            
+            
+              ρ
+              
+                m
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {\mu }{\rho _{m}}},\quad {\frac {\mu _{\mathrm {a} }}{\rho _{m}}},\quad {\frac {\mu _{\mathrm {s} }}{\rho _{m}}},}
+  where ρm is the mass density.
+
+
+== Napierian and decadic attenuation coefficients ==
+
+
+=== Decibels ===
+
+Engineering applications often express attenuation in the logarithmic units of decibels, or "dB", where 10 dB represents attenuation by a factor of 10. The units for attenuation coefficient are thus dB/m (or, in general, dB per unit distance). Note that in logarithmic units such as dB, the attenuation is a linear function of distance, rather than exponential.  This has the advantage that the result of multiple attenuation layers can be found by simply adding up the dB loss for each individual passage. However, if intensity is desired, the logarithms must be converted back into linear units by using an exponential: 
+  
+    
+      
+        I
+        =
+        
+          I
+          
+            o
+          
+        
+        
+          10
+          
+            −
+            (
+            d
+            B
+            
+              /
+            
+            10
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle I=I_{o}10^{-(dB/10)}.}
+  
+
+
+=== Naperian attenuation ===
+The decadic attenuation coefficient or decadic narrow beam attenuation coefficient, denoted μ10, is defined as
+
+  
+    
+      
+        
+          μ
+          
+            10
+          
+        
+        =
+        
+          
+            μ
+            
+              ln
+              ⁡
+              10
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mu _{10}={\frac {\mu }{\ln 10}}.}
+  Just as the usual attenuation coefficient measures the number of e-fold reductions that occur over a unit length of material, this coefficient measures how many 10-fold reductions occur: a decadic coefficient of 1 m−1 means 1 m of material reduces the radiation once by a factor of 10.
+μ is sometimes called Napierian attenuation coefficient or Napierian narrow beam attenuation coefficient rather than just simply "attenuation coefficient". The terms "decadic" and "Napierian" come from the base used for the exponential in the Beer–Lambert law for a material sample, in which the two attenuation coefficients take part:
+
+  
+    
+      
+        T
+        =
+        
+          e
+          
+            −
+            
+              ∫
+              
+                0
+              
+              
+                ℓ
+              
+            
+            μ
+            (
+            z
+            )
+            
+              d
+            
+            z
+          
+        
+        =
+        
+          10
+          
+            −
+            
+              ∫
+              
+                0
+              
+              
+                ℓ
+              
+            
+            
+              μ
+              
+                10
+              
+            
+            (
+            z
+            )
+            
+              d
+            
+            z
+          
+        
+        ,
+      
+    
+    {\displaystyle T=e^{-\int _{0}^{\ell }\mu (z)\mathrm {d} z}=10^{-\int _{0}^{\ell }\mu _{10}(z)\mathrm {d} z},}
+  where
+
+T is the transmittance of the material sample;
+ℓ is the path length of the beam of light through the material sample.In case of uniform attenuation, these relations become
+
+  
+    
+      
+        T
+        =
+        
+          e
+          
+            −
+            μ
+            ℓ
+          
+        
+        =
+        
+          10
+          
+            −
+            
+              μ
+              
+                10
+              
+            
+            ℓ
+          
+        
+        .
+      
+    
+    {\displaystyle T=e^{-\mu \ell }=10^{-\mu _{10}\ell }.}
+  Cases of non-uniform attenuation occur in atmospheric science applications and radiation shielding theory for instance.
+The (Napierian) attenuation coefficient and the decadic attenuation coefficient of a material sample are related to the number densities and the amount concentrations of its N attenuating species as
+
+  
+    
+      
+        
+          
+            
+              
+                μ
+                (
+                z
+                )
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                  μ
+                  
+                    i
+                  
+                
+                (
+                z
+                )
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                  σ
+                  
+                    i
+                  
+                
+                
+                  n
+                  
+                    i
+                  
+                
+                (
+                z
+                )
+                ,
+              
+            
+            
+              
+                
+                  μ
+                  
+                    10
+                  
+                
+                (
+                z
+                )
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                  μ
+                  
+                    10
+                    ,
+                    i
+                  
+                
+                (
+                z
+                )
+                =
+                
+                  ∑
+                  
+                    i
+                    =
+                    1
+                  
+                  
+                    N
+                  
+                
+                
+                  ε
+                  
+                    i
+                  
+                
+                
+                  c
+                  
+                    i
+                  
+                
+                (
+                z
+                )
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mu (z)&=\sum _{i=1}^{N}\mu _{i}(z)=\sum _{i=1}^{N}\sigma _{i}n_{i}(z),\\\mu _{10}(z)&=\sum _{i=1}^{N}\mu _{10,i}(z)=\sum _{i=1}^{N}\varepsilon _{i}c_{i}(z),\end{aligned}}}
+  where
+
+σi is the attenuation cross section of the attenuating species i in the material sample;
+ni is the number density of the attenuating species i in the material sample;
+εi is the molar attenuation coefficient of the attenuating species i in the material sample;
+ci is the amount concentration of the attenuating species i in the material sample,by definition of attenuation cross section and molar attenuation coefficient.
+Attenuation cross section and molar attenuation coefficient are related by
+
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+        =
+        
+          
+            
+              N
+              
+                A
+              
+            
+            
+              ln
+              ⁡
+              
+                10
+              
+            
+          
+        
+        
+        
+          σ
+          
+            i
+          
+        
+        ,
+      
+    
+    {\displaystyle \varepsilon _{i}={\frac {N_{\text{A}}}{\ln {10}}}\,\sigma _{i},}
+  and number density and amount concentration by
+
+  
+    
+      
+        
+          c
+          
+            i
+          
+        
+        =
+        
+          
+            
+              n
+              
+                i
+              
+            
+            
+              N
+              
+                A
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle c_{i}={\frac {n_{i}}{N_{\text{A}}}},}
+  where NA is the Avogadro constant.
+The half-value layer (HVL) is the thickness of a layer of material required to reduce the radiant flux of the transmitted radiation to half its incident magnitude. The half-value layer is about 69% (ln 2) of the penetration depth. Engineers use these equations predict how much shielding thickness is required to attenuate radiation to acceptable or regulatory limits.
+Attenuation coefficient is also inversely related to mean free path. Moreover, it is very closely related to the attenuation cross section.
+
+
+== SI radiometry units ==
+
+
+== See also ==
+Absorption (electromagnetic radiation)
+Absorption cross section
+Absorption spectrum
+Acoustic attenuation
+Attenuation
+Attenuation length
+Beer–Lambert law
+Cargo scanning
+Compton edge
+Compton scattering
+Computation of radiowave attenuation in the atmosphere
+Cross section (physics)
+Grey atmosphere
+High-energy X-rays
+Mass attenuation coefficient
+Mean free path
+Propagation constant
+Radiation length
+Scattering theory
+Transmittance
+
+
+== References ==
+
+
+== External links ==
+Absorption Coefficients α of Building Materials and Finishes
+Sound Absorption Coefficients for Some Common Materials
+Tables of X-Ray Mass Attenuation Coefficients and Mass Energy-Absorption Coefficients from 1 keV to 20 MeV for Elements Z = 1 to 92 and 48 Additional Substances of Dosimetric Interest
+IUPAC, Compendium of Chemical Terminology, 2nd ed. (the "Gold Book") (1997). Online corrected version: (2006–) "Absorption coefficient". doi:10.1351/goldbook.A00037

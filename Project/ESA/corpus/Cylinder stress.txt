@@ -1,0 +1,555 @@
+In mechanics, a cylinder stress is a stress distribution with rotational symmetry; that is, which remains unchanged if the stressed object is rotated about some fixed axis.
+Cylinder stress patterns include:
+
+circumferential stress, or hoop stress, a normal stress in the tangential (azimuth) direction.
+axial stress, a normal stress parallel to the axis of cylindrical symmetry.
+radial stress, a normal stress in directions coplanar with but perpendicular to the symmetry axis.These three principal stresses- hoop, longitudinal, and radial can be calculated analytically using a mutually perpendicular tri-axial stress system.
+The classical example (and namesake) of hoop stress is the tension applied to the iron bands, or hoops, of a wooden barrel. In a straight, closed pipe, any force applied to the cylindrical pipe wall by a pressure differential will ultimately give rise to hoop stresses.  Similarly, if this pipe has flat end caps, any force applied to them by static pressure will induce a perpendicular axial stress on the same pipe wall.  Thin sections often have negligibly small radial stress, but accurate models of thicker-walled cylindrical shells require such stresses to be considered.
+In thick-walled pressure vessels, construction techniques allowing for favorable initial stress patterns can be utilized. These compressive stresses at the inner surface reduce the overall hoop stress in pressurized cylinders. Cylindrical vessels of this nature are generally constructed from concentric cylinders shrunk over (or expanded into) one another, i.e., built-up shrink-fit cylinders, but can also be performed to singular cylinders though autofrettage of thick cylinders.
+
+
+== Definitions ==
+
+
+=== Hoop stress ===
+The hoop stress is the force over area exerted circumferentially (perpendicular to the axis and the radius of the object) in both directions on every particle in the cylinder wall. It can be described as:
+
+  
+    
+      
+        
+          σ
+          
+            θ
+          
+        
+        =
+        
+          
+            
+              F
+              
+                t
+                l
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{\theta }={\dfrac {F}{tl}}\ }
+  where:
+
+F is the force exerted circumferentially on an area of the cylinder wall that has the following two lengths as sides:
+t is the radial thickness of the cylinder
+l is the axial length of the cylinder.An alternative to hoop stress in describing circumferential stress is wall stress or wall tension (T), which usually is defined as the total circumferential force exerted along the entire radial thickness:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              F
+              l
+            
+          
+        
+         
+      
+    
+    {\displaystyle T={\dfrac {F}{l}}\ }
+  
+Along with axial stress and radial stress, circumferential stress is a component of the stress tensor in cylindrical coordinates.
+It is usually useful to decompose any force applied to an object with rotational symmetry into components parallel to the cylindrical coordinates r, z, and θ.  These components of force induce corresponding stresses: radial stress, axial stress, and hoop stress, respectively.
+
+
+== Relation to internal pressure ==
+
+
+=== Thin-walled assumption ===
+For the thin-walled assumption to be valid, the vessel must have a wall thickness of no more than about one-tenth (often cited as Diameter / t > 20) of its radius. This allows for treating the wall as a surface, and subsequently using the Young–Laplace equation for estimating the hoop stress created by an internal pressure on a thin-walled cylindrical pressure vessel:
+
+  
+    
+      
+        
+          σ
+          
+            θ
+          
+        
+        =
+        
+          
+            
+              
+                P
+                r
+              
+              t
+            
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{\theta }={\dfrac {Pr}{t}}\ }
+     (for a cylinder)
+  
+    
+      
+        
+          σ
+          
+            θ
+          
+        
+        =
+        
+          
+            
+              
+                P
+                r
+              
+              
+                2
+                t
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{\theta }={\dfrac {Pr}{2t}}\ }
+     (for a sphere)where
+
+P is the internal pressure
+t is the wall thickness
+r is the mean radius of the cylinder
+
+  
+    
+      
+        
+          σ
+          
+            θ
+          
+        
+        
+      
+    
+    {\displaystyle \sigma _{\theta }\!}
+   is the hoop stress.The hoop stress equation for thin shells is also approximately valid for spherical vessels, including plant cells and bacteria in which the internal turgor pressure may reach several atmospheres. In practical engineering applications for cylinders (pipes and tubes), hoop stress is often re-arranged for pressure, and is called Barlow's formula.
+Inch-pound-second system (IPS) units for P are pounds-force per square inch (psi).  Units for t, and d are inches (in).
+SI units for P are pascals (Pa), while t and d=2r are in meters (m).
+When the vessel has closed ends, the internal pressure acts on them to develop a force along the axis of the cylinder. This is known as the axial stress and is usually less than the hoop stress.
+
+  
+    
+      
+        
+          σ
+          
+            z
+          
+        
+        =
+        
+          
+            
+              F
+              A
+            
+          
+        
+        =
+        
+          
+            
+              
+                P
+                
+                  d
+                  
+                    2
+                  
+                
+              
+              
+                (
+                d
+                +
+                2
+                t
+                
+                  )
+                  
+                    2
+                  
+                
+                −
+                
+                  d
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{z}={\dfrac {F}{A}}={\dfrac {Pd^{2}}{(d+2t)^{2}-d^{2}}}\ }
+  Though this may be approximated to
+
+  
+    
+      
+        
+          σ
+          
+            z
+          
+        
+        =
+        
+          
+            
+              
+                P
+                r
+              
+              
+                2
+                t
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{z}={\dfrac {Pr}{2t}}\ }
+  There is also a radial stress 
+  
+    
+      
+        
+          σ
+          
+            r
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{r}\ }
+   that is developed perpendicular to the surface and may be estimated in thin walled cylinders as:
+
+  
+    
+      
+        
+          σ
+          
+            r
+          
+        
+        =
+        
+          −
+          P
+        
+         
+      
+    
+    {\displaystyle \sigma _{r}={-P}\ }
+  However, in the thin-walled assumption the ratio 
+  
+    
+      
+        
+          
+            
+              r
+              t
+            
+          
+        
+         
+      
+    
+    {\displaystyle {\dfrac {r}{t}}\ }
+   is large, so in most cases this component is considered negligible compared to the hoop and axial stresses. 
+
+
+=== Thick-walled vessels ===
+When the cylinder to be studied has a 
+  
+    
+      
+        r
+        a
+        d
+        i
+        u
+        s
+        
+          /
+        
+        t
+        h
+        i
+        c
+        k
+        n
+        e
+        s
+        s
+      
+    
+    {\displaystyle radius/thickness}
+   ratio of less than 10 (often cited as 
+  
+    
+      
+        d
+        i
+        a
+        m
+        e
+        t
+        e
+        r
+        
+          /
+        
+        t
+        h
+        i
+        c
+        k
+        n
+        e
+        s
+        s
+        <
+        20
+      
+    
+    {\displaystyle diameter/thickness<20}
+  ) the thin-walled cylinder equations no longer hold since stresses vary significantly between inside and outside surfaces and shear stress through the cross section can no longer be neglected.
+These stresses and strains can be calculated using the Lamé equations, a set of equations developed by French mathematician Gabriel Lamé.
+
+  
+    
+      
+        
+          σ
+          
+            r
+          
+        
+        =
+        A
+        −
+        
+          
+            
+              B
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{r}=A-{\dfrac {B}{r^{2}}}\ }
+  
+
+  
+    
+      
+        
+          σ
+          
+            θ
+          
+        
+        =
+        A
+        +
+        
+          
+            
+              B
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \sigma _{\theta }=A+{\dfrac {B}{r^{2}}}\ }
+  where:
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and  
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   are constants of integration, which may be discovered from the boundary conditions
+
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   is the radius at the point of interest (e.g., at the inside or outside walls)
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   and 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   may be found by inspection of the boundary conditions. For example, the simplest case is a solid cylinder:
+if 
+  
+    
+      
+        
+          R
+          
+            i
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle R_{i}=0}
+   then 
+  
+    
+      
+        B
+        =
+        0
+      
+    
+    {\displaystyle B=0}
+   and a solid cylinder cannot have an internal pressure so 
+  
+    
+      
+        A
+        =
+        
+          P
+          
+            o
+          
+        
+      
+    
+    {\displaystyle A=P_{o}}
+  
+
+Being that for thick-walled cylinders, the ratio 
+  
+    
+      
+        
+          
+            
+              r
+              t
+            
+          
+        
+         
+      
+    
+    {\displaystyle {\dfrac {r}{t}}\ }
+   is less than 10, the radial stress, in proportion to the other stresses, becomes non-negligible (i.e. P is no longer much, much less than Pr/t and Pr/2t), and so the thickness of the wall becomes a major consideration for design (Harvey, 1974, pp. 57).
+In pressure vessel theory, any given element of the wall is evaluated in a tri-axial stress system, with the three principal stresses being hoop, longitudinal, and radial. Therefore, by definition, there exist no shear stresses on the transverse, tangential, or radial planes.In thick-walled cylinders, the maximum shear stress at any point is given by half of the algebraic difference between the maximum and minimum stresses, which is, therefore, equal to half the difference between the hoop and radial stresses. The shearing stress reaches a maximum at the inner surface, which is significant because it serves as a criterion for failure since it correlates well with actual rupture tests of thick cylinders (Harvey, 1974, p. 57).
+
+
+== Practical effects ==
+
+
+=== Engineering ===
+Fracture is governed by the hoop stress in the absence of other external loads since it is the largest principal stress.  Note that a hoop experiences the greatest stress at its inside (the outside and inside experience the same total strain, which is distributed over different circumferences); hence cracks in pipes should theoretically start from inside the pipe.  This is why pipe inspections after earthquakes usually involve sending a camera inside a pipe to inspect for cracks.
+Yielding is governed by an equivalent stress that includes hoop stress and the longitudinal or radial stress when absent.
+
+
+=== Medicine ===
+In the pathology of vascular or gastrointestinal walls, the wall tension represents the muscular tension on the wall of the vessel. As a result of the Law of Laplace, if an aneurysm forms in a blood vessel wall, the radius of the vessel has increased. This means that the inward force on the vessel decreases, and therefore the aneurysm will continue to expand until it ruptures. A similar logic applies to the formation of diverticuli in the gut.
+
+
+== Historical development of the theory ==
+
+The first theoretical analysis of the stress in cylinders was developed by the mid-19th century engineer William Fairbairn, assisted by his mathematical analyst Eaton Hodgkinson. Their first interest was in studying the design and failures of steam boilers. Fairbairn realized that the hoop stress was twice the longitudinal stress, an important factor in the assembly of boiler shells from rolled sheets joined by riveting. Later work was applied to bridge-building and the invention of the box girder. In the Chepstow Railway Bridge, the cast iron pillars are strengthened by external bands of wrought iron. The vertical, longitudinal force is a compressive force, which cast iron is well able to resist. The hoop stress is tensile, and so wrought iron, a material with better tensile strength than cast iron, is added.
+
+
+== See also ==
+Can be caused by cylinder stress:
+Boston Molasses Disaster
+Boiler explosion
+Boiling liquid expanding vapor explosion
+Related engineering topics:
+Stress concentration
+Hydrostatic test
+Buckling
+Blood pressure#Relation_to_wall_tension
+Piping#Stress_analysis
+Designs very affected by this stress:
+Pressure vessel
+Rocket engine
+Flywheel
+The dome of Florence Cathedral
+
+
+== References ==
+
+Thin-walled Pressure Vessels. Engineering Fundamentals. 19 June 2008.

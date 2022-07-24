@@ -1,0 +1,2135 @@
+In mathematics, potential flow around a circular cylinder is a classical solution for the flow of an inviscid, incompressible fluid around a cylinder that is transverse to the flow. Far from the cylinder, the flow is unidirectional and uniform. The flow has no vorticity and thus the velocity field is irrotational and can be modeled as a potential flow. Unlike a real fluid, this solution indicates a net zero drag on the body, a result known as d'Alembert's paradox.
+
+
+== Mathematical solution ==
+
+A cylinder (or disk) of radius R is placed in a two-dimensional, incompressible, inviscid flow. The goal is to find the steady velocity vector V and pressure p in a plane, subject to the condition that far from the cylinder the velocity vector (relative to unit vectors i and j) is
+
+  
+    
+      
+        
+          V
+        
+        =
+        U
+        
+          i
+        
+        +
+        0
+        
+          j
+        
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {V} =U\mathbf {i} +0\mathbf {j} \,,}
+  where U is a constant, and at the boundary of the cylinder
+
+  
+    
+      
+        
+          V
+        
+        ⋅
+        
+          
+            
+              n
+              ^
+            
+          
+        
+        =
+        0
+        
+        ,
+      
+    
+    {\displaystyle \mathbf {V} \cdot \mathbf {\hat {n}} =0\,,}
+  where n̂ is the vector normal to the cylinder surface. The upstream flow is uniform and has no vorticity. The flow is inviscid, incompressible and has constant mass density ρ. The flow therefore remains without vorticity, or is said to be irrotational, with ∇ × V = 0 everywhere. Being irrotational, there must exist a velocity potential φ:
+
+  
+    
+      
+        
+          V
+        
+        =
+        ∇
+        ϕ
+        
+        .
+      
+    
+    {\displaystyle \mathbf {V} =\nabla \phi \,.}
+  Being incompressible, ∇ · V = 0, so φ must satisfy Laplace's equation:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        ϕ
+        =
+        0
+        
+        .
+      
+    
+    {\displaystyle \nabla ^{2}\phi =0\,.}
+  The solution for φ is obtained most easily in polar coordinates r and θ, related to conventional Cartesian coordinates by x = r cos θ and y = r sin θ. In polar coordinates, Laplace's equation is (see Del in cylindrical and spherical coordinates):
+
+  
+    
+      
+        
+          
+            1
+            r
+          
+        
+        
+          
+            ∂
+            
+              ∂
+              r
+            
+          
+        
+        
+          (
+          
+            r
+            
+              
+                
+                  ∂
+                  ϕ
+                
+                
+                  ∂
+                  r
+                
+              
+            
+          
+          )
+        
+        +
+        
+          
+            1
+            
+              r
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              ϕ
+            
+            
+              ∂
+              
+                θ
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{r}}{\frac {\partial }{\partial r}}\left(r{\frac {\partial \phi }{\partial r}}\right)+{\frac {1}{r^{2}}}{\frac {\partial ^{2}\phi }{\partial \theta ^{2}}}=0\,.}
+  The solution that satisfies the boundary conditions is
+
+  
+    
+      
+        ϕ
+        (
+        r
+        ,
+        θ
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  R
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        cos
+        ⁡
+        θ
+        
+        .
+      
+    
+    {\displaystyle \phi (r,\theta )=Ur\left(1+{\frac {R^{2}}{r^{2}}}\right)\cos \theta \,.}
+  The velocity components in polar coordinates are obtained from the components of ∇φ in polar coordinates:
+
+  
+    
+      
+        
+          V
+          
+            r
+          
+        
+        =
+        
+          
+            
+              ∂
+              ϕ
+            
+            
+              ∂
+              r
+            
+          
+        
+        =
+        U
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  R
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle V_{r}={\frac {\partial \phi }{\partial r}}=U\left(1-{\frac {R^{2}}{r^{2}}}\right)\cos \theta }
+  and
+
+  
+    
+      
+        
+          V
+          
+            θ
+          
+        
+        =
+        
+          
+            1
+            r
+          
+        
+        
+          
+            
+              ∂
+              ϕ
+            
+            
+              ∂
+              θ
+            
+          
+        
+        =
+        −
+        U
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  R
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        sin
+        ⁡
+        θ
+        
+        .
+      
+    
+    {\displaystyle V_{\theta }={\frac {1}{r}}{\frac {\partial \phi }{\partial \theta }}=-U\left(1+{\frac {R^{2}}{r^{2}}}\right)\sin \theta \,.}
+  Being inviscid and irrotational, Bernoulli's equation allows the solution for pressure field to be obtained directly from the velocity field:
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        ρ
+        
+          (
+          
+            
+              U
+              
+                2
+              
+            
+            −
+            
+              V
+              
+                2
+              
+            
+          
+          )
+        
+        +
+        
+          p
+          
+            ∞
+          
+        
+        ,
+      
+    
+    {\displaystyle p={\tfrac {1}{2}}\rho \left(U^{2}-V^{2}\right)+p_{\infty },}
+  where the constants U and p∞ appear so that p → p∞ far from the cylinder, where V = U. Using V2 = V2r + V2θ,
+
+  
+    
+      
+        p
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        ρ
+        
+          U
+          
+            2
+          
+        
+        
+          (
+          
+            2
+            
+              
+                
+                  R
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+            cos
+            ⁡
+            (
+            2
+            θ
+            )
+            −
+            
+              
+                
+                  R
+                  
+                    4
+                  
+                
+                
+                  r
+                  
+                    4
+                  
+                
+              
+            
+          
+          )
+        
+        +
+        
+          p
+          
+            ∞
+          
+        
+        
+        .
+      
+    
+    {\displaystyle p={\tfrac {1}{2}}\rho U^{2}\left(2{\frac {R^{2}}{r^{2}}}\cos(2\theta )-{\frac {R^{4}}{r^{4}}}\right)+p_{\infty }\,.}
+  In the figures, the colorized field referred to as "pressure" is a plot of
+
+  
+    
+      
+        2
+        
+          
+            
+              p
+              −
+              
+                p
+                
+                  ∞
+                
+              
+            
+            
+              ρ
+              
+                U
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        2
+        
+          
+            
+              R
+              
+                2
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        cos
+        ⁡
+        (
+        2
+        θ
+        )
+        −
+        
+          
+            
+              R
+              
+                4
+              
+            
+            
+              
+                r
+                
+                  4
+                
+              
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle 2{\frac {p-p_{\infty }}{\rho U^{2}}}=2{\frac {R^{2}}{r^{2}}}\cos(2\theta )-{\frac {R^{4}}{r^{4}\,}}.}
+  On the surface of the cylinder, or r = R, pressure varies from a maximum of 1 (shown in the diagram in red) at the stagnation points at θ = 0 and θ = π to a minimum of −3 (shown in blue) on the sides of the cylinder, at θ = π/2 and θ = 3π/2. Likewise, V varies from V = 0 at the stagnation points to V = 2U on the sides, in the low pressure.
+
+
+=== Stream function ===
+The flow being incompressible, a stream function can be found such that
+
+  
+    
+      
+        
+          V
+        
+        =
+        ∇
+        ψ
+        ×
+        
+          k
+        
+        
+        .
+      
+    
+    {\displaystyle \mathbf {V} =\nabla \psi \times \mathbf {k} \,.}
+  It follows from this definition, using vector identities,
+
+  
+    
+      
+        
+          V
+        
+        ⋅
+        ∇
+        
+          ψ
+        
+        =
+        0
+        
+        .
+      
+    
+    {\displaystyle \mathbf {V} \cdot \nabla {\psi }=0\,.}
+  Therefore, a contour of a constant value of ψ will also be a streamline, a line tangent to V. For the flow past a cylinder, we find:
+
+  
+    
+      
+        ψ
+        =
+        U
+        
+          (
+          
+            r
+            −
+            
+              
+                
+                  R
+                  
+                    2
+                  
+                
+                r
+              
+            
+          
+          )
+        
+        sin
+        ⁡
+        θ
+        
+        .
+      
+    
+    {\displaystyle \psi =U\left(r-{\frac {R^{2}}{r}}\right)\sin \theta \,.}
+  
+
+
+== Physical interpretation ==
+Laplace's equation is linear, and is one of the most elementary partial differential equations. This simple equation yields the entire solution for both V and p because of the constraint of irrotationality and incompressibility. Having obtained the solution for V and p, the consistency of the pressure gradient with the accelerations can be noted.
+The dynamic pressure at the upstream stagnation point has value of 1/2ρU2. a value needed to decelerate the free stream flow of speed U. This same value appears at the downstream stagnation point, this high pressure is again needed to decelerate the flow to zero speed. This symmetry arises only because the flow is completely frictionless.
+The low pressure on sides on the cylinder is needed to provide the centripetal acceleration of the flow:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              p
+            
+            
+              ∂
+              r
+            
+          
+        
+        =
+        
+          
+            
+              ρ
+              
+                V
+                
+                  2
+                
+              
+            
+            L
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle {\frac {\partial p}{\partial r}}={\frac {\rho V^{2}}{L}}\,,}
+  where L is the radius of curvature of the flow. But L ≈ R, and V ≈ U. The integral of the equation for centripetal acceleration over a distance Δr ≈ R will thus yield
+
+  
+    
+      
+        p
+        −
+        
+          p
+          
+            ∞
+          
+        
+        ≈
+        −
+        ρ
+        
+          U
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle p-p_{\infty }\approx -\rho U^{2}\,.}
+  The exact solution has, for the lowest pressure,
+
+  
+    
+      
+        p
+        −
+        
+          p
+          
+            ∞
+          
+        
+        =
+        −
+        
+          
+            
+              3
+              2
+            
+          
+        
+        ρ
+        
+          U
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle p-p_{\infty }=-{\tfrac {3}{2}}\rho U^{2}\,.}
+  The low pressure, which must be present to provide the centripetal acceleration, will also increase the flow speed as the fluid travels from higher to lower values of pressure. Thus we find the maximum speed in the flow, V = 2U, in the low pressure on the sides of the cylinder.
+A value of V > U is consistent with conservation of the volume of fluid. With the cylinder blocking some of the flow, V must be greater than U somewhere in the plane through the center of the cylinder and transverse to the flow.
+
+
+== Comparison with flow of a real fluid past a cylinder ==
+The symmetry of this ideal solution has a stagnation point on the rear side of the cylinder, as well as on the front side. The pressure distribution over the front and rear sides are identical, leading to the peculiar property of having zero drag on the cylinder, a property known as d'Alembert's paradox. Unlike an ideal inviscid fluid, a viscous flow past a cylinder, no matter how small the viscosity, will acquire a thin boundary layer adjacent to the surface of the cylinder. Boundary layer separation will occur, and a trailing wake will exist in the flow behind the cylinder. The pressure at each point on the wake side of the cylinder will be lower than on the upstream side, resulting in a drag force in the downstream direction.
+
+
+== Janzen–Rayleigh expansion ==
+The problem of potential compressible flow over circular cylinder was first studied by O. Janzen in 1913 and by Lord Rayleigh in 1916 with small compressible effects. Here, the small parameter is square of the Mach number 
+  
+    
+      
+        
+          
+            M
+          
+          
+            2
+          
+        
+        =
+        
+          U
+          
+            2
+          
+        
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+        ≪
+        1
+      
+    
+    {\displaystyle \mathrm {M} ^{2}=U^{2}/c^{2}\ll 1}
+  , where c is the speed of sound. Then the solution to first-order approximation in terms of the velocity potential is
+
+  
+    
+      
+        ϕ
+        (
+        r
+        ,
+        θ
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        cos
+        ⁡
+        θ
+        −
+        
+          
+            M
+          
+          
+            2
+          
+        
+        
+          
+            
+              U
+              r
+            
+            12
+          
+        
+        
+          [
+          
+            
+              (
+              
+                
+                  
+                    
+                      13
+                      
+                        a
+                        
+                          2
+                        
+                      
+                    
+                    
+                      r
+                      
+                        2
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      6
+                      
+                        a
+                        
+                          4
+                        
+                      
+                    
+                    
+                      r
+                      
+                        4
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      a
+                      
+                        6
+                      
+                    
+                    
+                      r
+                      
+                        6
+                      
+                    
+                  
+                
+              
+              )
+            
+            cos
+            ⁡
+            θ
+            +
+            
+              (
+              
+                
+                  
+                    
+                      a
+                      
+                        4
+                      
+                    
+                    
+                      r
+                      
+                        4
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      3
+                      
+                        a
+                        
+                          2
+                        
+                      
+                    
+                    
+                      r
+                      
+                        2
+                      
+                    
+                  
+                
+              
+              )
+            
+            cos
+            ⁡
+            3
+            θ
+          
+          ]
+        
+        +
+        
+          O
+        
+        
+          (
+          
+            
+              M
+            
+            
+              4
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \phi (r,\theta )=Ur\left(1+{\frac {a^{2}}{r^{2}}}\right)\cos \theta -\mathrm {M} ^{2}{\frac {Ur}{12}}\left[\left({\frac {13a^{2}}{r^{2}}}-{\frac {6a^{4}}{r^{4}}}+{\frac {a^{6}}{r^{6}}}\right)\cos \theta +\left({\frac {a^{4}}{r^{4}}}-{\frac {3a^{2}}{r^{2}}}\right)\cos 3\theta \right]+\mathrm {O} \left(\mathrm {M} ^{4}\right)\,}
+  where 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   is the radius of the cylinder.
+
+
+== Potential flow over a circular cylinder with slight variations ==
+Regular perturbation analysis for a flow around a cylinder with slight perturbation in the configurations can be found in Milton Van Dyke (1975). In the following, ε will represent a small positive parameter and a is the radius of the cylinder. For more detailed analyses and discussions, readers are referred to Milton Van Dyke's 1975 book Perturbation Methods in Fluid Mechanics.
+
+
+=== Slightly distorted cylinder ===
+Here the radius of the cylinder is not r = a, but a slightly distorted form r = a(1 − ε sin2 θ). Then the solution to first-order approximation is
+
+  
+    
+      
+        ψ
+        (
+        r
+        ,
+        θ
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        sin
+        ⁡
+        θ
+        +
+        ε
+        
+          
+            
+              U
+              r
+            
+            2
+          
+        
+        
+          (
+          
+            
+              
+                
+                  3
+                  
+                    a
+                    
+                      2
+                    
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+            sin
+            ⁡
+            θ
+            −
+            
+              
+                
+                  a
+                  
+                    4
+                  
+                
+                
+                  r
+                  
+                    4
+                  
+                
+              
+            
+            sin
+            ⁡
+            3
+            θ
+          
+          )
+        
+        +
+        
+          O
+        
+        
+          (
+          
+            ε
+            
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \psi (r,\theta )=Ur\left(1-{\frac {a^{2}}{r^{2}}}\right)\sin \theta +\varepsilon {\frac {Ur}{2}}\left({\frac {3a^{2}}{r^{2}}}\sin \theta -{\frac {a^{4}}{r^{4}}}\sin 3\theta \right)+\mathrm {O} \left(\varepsilon ^{2}\right)}
+  
+
+
+=== Slightly pulsating circle ===
+Here the radius of the cylinder varies with time slightly so r = a(1 + ε f(t)). Then the solution to first-order approximation is
+
+  
+    
+      
+        ψ
+        (
+        r
+        ,
+        θ
+        ,
+        t
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        sin
+        ⁡
+        θ
+        +
+        ε
+        U
+        r
+        
+          (
+          
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  U
+                  r
+                
+              
+            
+            θ
+            
+              f
+              ′
+            
+            (
+            t
+            )
+            −
+            
+              
+                
+                  2
+                  
+                    a
+                    
+                      2
+                    
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+            f
+            (
+            t
+            )
+            sin
+            ⁡
+            θ
+          
+          )
+        
+        +
+        
+          O
+        
+        
+          (
+          
+            ε
+            
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \psi (r,\theta ,t)=Ur\left(1-{\frac {a^{2}}{r^{2}}}\right)\sin \theta +\varepsilon Ur\left({\frac {a^{2}}{Ur}}\theta f'(t)-{\frac {2a^{2}}{r^{2}}}f(t)\sin \theta \right)+\mathrm {O} \left(\varepsilon ^{2}\right)}
+  
+
+
+=== Flow with slight vorticity ===
+In general, the free-stream velocity U is uniform, in other words ψ = Uy, but here a small vorticity is imposed in the outer flow.
+
+
+==== Linear shear ====
+Here a linear shear in the velocity is introduced.
+
+  
+    
+      
+        
+          
+            
+              
+                ψ
+              
+              
+                
+                =
+                U
+                
+                  (
+                  
+                    y
+                    +
+                    
+                      
+                        1
+                        2
+                      
+                    
+                    ε
+                    
+                      
+                        
+                          y
+                          
+                            2
+                          
+                        
+                        a
+                      
+                    
+                  
+                  )
+                
+                
+                ,
+              
+            
+            
+              
+                ω
+              
+              
+                
+                =
+                −
+                
+                  ∇
+                  
+                    2
+                  
+                
+                ψ
+                =
+                −
+                ε
+                
+                  
+                    U
+                    a
+                  
+                
+                
+                
+                  as 
+                
+                x
+                →
+                −
+                ∞
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\psi &=U\left(y+{\frac {1}{2}}\varepsilon {\frac {y^{2}}{a}}\right)\,,\\[3pt]\omega &=-\nabla ^{2}\psi =-\varepsilon {\frac {U}{a}}\quad {\text{as }}x\rightarrow -\infty \,,\end{aligned}}}
+  where ε is the small parameter. The governing equation is
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        ψ
+        =
+        −
+        ω
+        (
+        ψ
+        )
+        
+        .
+      
+    
+    {\displaystyle \nabla ^{2}\psi =-\omega (\psi )\,.}
+  Then the solution to first-order approximation is
+
+  
+    
+      
+        ψ
+        (
+        r
+        ,
+        θ
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        sin
+        ⁡
+        θ
+        +
+        ε
+        
+          
+            
+              U
+              r
+            
+            4
+          
+        
+        
+          (
+          
+            
+              
+                r
+                a
+              
+            
+            (
+            1
+            −
+            cos
+            ⁡
+            2
+            θ
+            )
+            +
+            
+              
+                
+                  a
+                  
+                    3
+                  
+                
+                
+                  r
+                  
+                    3
+                  
+                
+              
+            
+            cos
+            ⁡
+            2
+            θ
+            −
+            
+              
+                a
+                r
+              
+            
+          
+          )
+        
+        +
+        
+          O
+        
+        
+          (
+          
+            ε
+            
+              2
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle \psi (r,\theta )=Ur\left(1-{\frac {a^{2}}{r^{2}}}\right)\sin \theta +\varepsilon {\frac {Ur}{4}}\left({\frac {r}{a}}(1-\cos 2\theta )+{\frac {a^{3}}{r^{3}}}\cos 2\theta -{\frac {a}{r}}\right)+\mathrm {O} \left(\varepsilon ^{2}\right)\,.}
+  
+
+
+==== Parabolic shear ====
+Here a parabolic shear in the outer velocity is introduced.
+
+  
+    
+      
+        
+          
+            
+              
+                ψ
+              
+              
+                
+                =
+                U
+                
+                  (
+                  
+                    y
+                    +
+                    
+                      
+                        
+                          1
+                          6
+                        
+                      
+                    
+                    ε
+                    
+                      
+                        
+                          y
+                          
+                            3
+                          
+                        
+                        
+                          a
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                ,
+              
+            
+            
+              
+                ω
+              
+              
+                
+                =
+                −
+                
+                  ∇
+                  
+                    2
+                  
+                
+                ψ
+                =
+                −
+                ε
+                U
+                
+                  
+                    y
+                    
+                      a
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                
+                  as 
+                
+                x
+                →
+                −
+                ∞
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\psi &=U\left(y+{\tfrac {1}{6}}\varepsilon {\frac {y^{3}}{a^{2}}}\right)\,,\\\omega &=-\nabla ^{2}\psi =-\varepsilon U{\frac {y}{a^{2}}}\quad {\text{as }}x\rightarrow -\infty \,.\end{aligned}}}
+  Then the solution to the first-order approximation is
+
+  
+    
+      
+        ψ
+        (
+        r
+        ,
+        θ
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        sin
+        ⁡
+        θ
+        +
+        ε
+        
+          
+            
+              U
+              r
+            
+            6
+          
+        
+        
+          (
+          
+            
+              
+                
+                  r
+                  
+                    2
+                  
+                
+                
+                  a
+                  
+                    2
+                  
+                
+              
+            
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            θ
+            −
+            3
+            r
+            ln
+            ⁡
+            r
+            sin
+            ⁡
+            θ
+            +
+            χ
+          
+          )
+        
+        +
+        
+          O
+        
+        
+          (
+          
+            ε
+            
+              2
+            
+          
+          )
+        
+        
+        ,
+      
+    
+    {\displaystyle \psi (r,\theta )=Ur\left(1-{\frac {a^{2}}{r^{2}}}\right)\sin \theta +\varepsilon {\frac {Ur}{6}}\left({\frac {r^{2}}{a^{2}}}\sin ^{2}\theta -3r\ln r\sin \theta +\chi \right)+\mathrm {O} \left(\varepsilon ^{2}\right)\,,}
+  where χ is the homogeneous solution to the Laplace equation which restores the boundary conditions.
+
+
+=== Slightly porous cylinder ===
+Let Cps represent the surface pressure coefficient for an impermeable cylinder:
+
+  
+    
+      
+        
+          C
+          
+            
+              p
+              s
+            
+          
+        
+        =
+        
+          
+            
+              
+                p
+                
+                  s
+                
+              
+              −
+              
+                p
+                
+                  ∞
+                
+              
+            
+            
+              
+                
+                  
+                    1
+                    2
+                  
+                
+              
+              ρ
+              
+                U
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        1
+        −
+        4
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        θ
+        =
+        2
+        cos
+        ⁡
+        2
+        θ
+        −
+        1
+        
+        ,
+      
+    
+    {\displaystyle C_{\mathrm {ps} }={\frac {p_{s}-p_{\infty }}{{\tfrac {1}{2}}\rho U^{2}}}=1-4\sin ^{2}\theta =2\cos 2\theta -1\,,}
+  where ps is the surface pressure of the impermeable cylinder. Now let Cpi be the internal pressure coefficient inside the cylinder, then a slight normal velocity due to the slight porousness is given by
+
+  
+    
+      
+        
+          
+            1
+            r
+          
+        
+        
+          
+            
+              ∂
+              ψ
+            
+            
+              ∂
+              θ
+            
+          
+        
+        =
+        ε
+        U
+        
+          (
+          
+            
+              C
+              
+                
+                  p
+                  i
+                
+              
+            
+            −
+            
+              C
+              
+                
+                  p
+                  s
+                
+              
+            
+          
+          )
+        
+        =
+        ε
+        U
+        
+          (
+          
+            
+              C
+              
+                
+                  p
+                  i
+                
+              
+            
+            +
+            1
+            −
+            2
+            cos
+            ⁡
+            2
+            θ
+          
+          )
+        
+        
+        
+          at 
+        
+        r
+        =
+        a
+        
+        ,
+      
+    
+    {\displaystyle {\frac {1}{r}}{\frac {\partial \psi }{\partial \theta }}=\varepsilon U\left(C_{\mathrm {pi} }-C_{\mathrm {ps} }\right)=\varepsilon U\left(C_{\mathrm {pi} }+1-2\cos 2\theta \right)\quad {\text{at }}r=a\,,}
+  but the zero net flux condition
+
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            2
+            π
+          
+        
+        
+          
+            1
+            r
+          
+        
+        
+          
+            
+              ∂
+              ψ
+            
+            
+              ∂
+              θ
+            
+          
+        
+        
+        
+          d
+        
+        θ
+        =
+        0
+      
+    
+    {\displaystyle \int _{0}^{2\pi }{\frac {1}{r}}{\frac {\partial \psi }{\partial \theta }}\,\mathrm {d} \theta =0}
+  requires that Cpi = −1. Therefore,
+
+  
+    
+      
+        
+          
+            
+              ∂
+              ψ
+            
+            
+              ∂
+              θ
+            
+          
+        
+        =
+        −
+        2
+        ε
+        r
+        U
+        cos
+        ⁡
+        2
+        θ
+        
+        
+          at 
+        
+        r
+        =
+        a
+        
+        .
+      
+    
+    {\displaystyle {\frac {\partial \psi }{\partial \theta }}=-2\varepsilon rU\cos 2\theta \quad {\text{at }}r=a\,.}
+  Then the solution to the first-order approximation is
+
+  
+    
+      
+        ψ
+        (
+        r
+        ,
+        θ
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        sin
+        ⁡
+        θ
+        −
+        ε
+        U
+        
+          
+            
+              a
+              
+                3
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        sin
+        ⁡
+        2
+        θ
+        +
+        
+          O
+        
+        
+          (
+          
+            ε
+            
+              2
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle \psi (r,\theta )=Ur\left(1-{\frac {a^{2}}{r^{2}}}\right)\sin \theta -\varepsilon U{\frac {a^{3}}{r^{2}}}\sin 2\theta +\mathrm {O} \left(\varepsilon ^{2}\right)\,.}
+  
+
+
+=== Corrugated quasi-cylinder ===
+If the cylinder has variable radius in the axial direction, the z-axis, r = a (1 + ε sin z/b), then the solution to the first-order approximation in terms of the three-dimensional velocity potential is
+
+  
+    
+      
+        ϕ
+        (
+        r
+        ,
+        θ
+        ,
+        z
+        )
+        =
+        U
+        r
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  a
+                  
+                    2
+                  
+                
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+        cos
+        ⁡
+        θ
+        −
+        2
+        ε
+        U
+        b
+        
+          
+            
+              
+                K
+                
+                  1
+                
+              
+              
+                (
+                
+                  
+                    r
+                    b
+                  
+                
+                )
+              
+            
+            
+              
+                K
+                
+                  1
+                
+                ′
+              
+              
+                (
+                
+                  
+                    r
+                    b
+                  
+                
+                )
+              
+            
+          
+        
+        cos
+        ⁡
+        θ
+        sin
+        ⁡
+        
+          
+            z
+            b
+          
+        
+        +
+        
+          O
+        
+        
+          (
+          
+            ε
+            
+              2
+            
+          
+          )
+        
+        
+        ,
+      
+    
+    {\displaystyle \phi (r,\theta ,z)=Ur\left(1+{\frac {a^{2}}{r^{2}}}\right)\cos \theta -2\varepsilon Ub{\frac {K_{1}\left({\frac {r}{b}}\right)}{K_{1}'\left({\frac {r}{b}}\right)}}\cos \theta \sin {\frac {z}{b}}+\mathrm {O} \left(\varepsilon ^{2}\right)\,,}
+  where K1(r/b) is the modified Bessel function of the first kind of order one.
+
+
+== See also ==
+Joukowsky transform
+Kutta condition
+Magnus effect
+
+
+== References ==

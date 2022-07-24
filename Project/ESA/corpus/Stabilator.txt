@@ -1,0 +1,31 @@
+A stabilator, more frequently all-moving tail or all-flying tail, is a fully movable aircraft stabilizer. It serves the usual functions of longitudinal stability, control and stick force requirements   otherwise performed by the separate parts of a conventional horizontal stabilizer and elevator. Apart from a higher efficiency at high Mach number, it is a useful device for changing the aircraft balance within wide limits, and for mastering the stick forces.Stabilator (a portmanteau of "stabilizer-elevator") is also known in aircraft terminology as an all-moving tailplane, all-movable tail(plane), all-moving stabilizer, all-flying tail(plane), full-flying stabilizer, flying tail and slab tailplane.
+
+
+== General aviation ==
+
+Because it involves a moving balanced surface, a stabilator can allow the pilot to generate a given pitching moment with a lower control force.  Due to the high forces involved in tail balancing loads, stabilators are designed to pivot about their aerodynamic center (near the tail's mean quarter-chord).  This is the point at which the pitching moment is constant regardless of the angle of attack, and thus any movement of the stabilator can be made without added pilot effort.  However, to be certified by the appropriate regulatory agency  an airplane must show an increasing resistance to an increasing pilot input (movement). To provide this resistance, stabilators on small aircraft contain an anti-servo tab (usually acting also as a trim tab) that deflects in the same direction as the stabilator, thus providing an aerodynamic force resisting the pilot's input.  General aviation aircraft with stabilators include the Piper Cherokee and the Cessna 177. The Glaser-Dirks DG-100 glider initially used a stabilator but without a servo tab to increase resistance and the pitch movement of the glider is very sensitive. Later models used a conventional stabilizer and elevator.
+
+
+== Military ==
+
+All-flying tailplanes were used on many pioneer aircraft and the popular Morane-Saulnier G, H and L monoplanes from France as well as the early Fokker Eindecker monoplane and Halberstadt D.II biplane fighters from Germany all flew with them, although at the cost of stability - none of these aircraft, with the possible exception of the biplane Halberstadts, could be flown hands off.
+Stabilators were developed to achieve adequate pitch control in supersonic flight, and are almost universal on modern military combat aircraft.  All non-delta-winged supersonic aircraft use stabilators because with conventional control surfaces, shock waves can form past the elevator hinge, causing severe mach tuck.
+The British wartime Miles M.52 supersonic project was designed with stabilators. Though the design only flew as a scale rocket, its all-flying tail was tested on the Miles "Gillette" Falcon. The contemporary American supersonic project, the Bell X-1, adapted its variable incidence tailplane into an all-moving tailplane (based on the Miles M.52 project data) and was operated successfully in 1947.Entering service in 1951, the Boeing B-47 Stratojet was the world's first purposely built jet bomber to include one piece stabilator design.
+The North American F-86 Sabre, the first U.S. Air Force aircraft which could go supersonic (although in a shallow dive) was introduced with a conventional horizontal stabilizer with elevators, which was eventually replaced with a stabilator.
+When stabilators can move differentially to perform the roll control function of ailerons, as they do on many modern fighter aircraft they are known as tailerons or rolling tails.  A canard surface, looking like a stabilator but not stabilizing like a tailplane, can also be mounted in front of the main wing in a canard configuration (Curtiss-Wright XP-55 Ascender).
+Stabilators on military aircraft have the same problem of too light control forces (inducing overcontrol) as general aviation aircraft. In older jet fighter aircraft, a resisting force was generated within the control system, either by springs or a resisting hydraulic force, rather than by an external anti-servo tab.  For example, in the North American F-100 Super Sabre, springs were attached to the control stick to provide increasing resistance to pilot input.  In modern fighters, control inputs are moderated by computers ("fly by wire"), and there is no direct connection between the pilot's stick and the stabilator.
+
+
+== Airliners ==
+
+Most modern airliners adjust the horizontal stabilizer  to keep the pitch axis in trim during flight as fuel is burned and the center of gravity moves.  The pilots also use their horizontal stabilizer trim switches, when flying in manual mode, to keep the pitch axis of the plane "in trim," as the speed and configuration changes. These adjustments are commanded by the autopilot when it is engaged, or by the human pilot if the plane is being flown manually. However, such adjustable stabilizers are not the same as stabilators; a stabilator is controlled by the pilot's control yoke (or stick), whereas an adjustable stabilizer is controlled by the trim system.  One example of an airliner with a genuine stabilator used for flight control is the Lockheed L-1011.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Stabilators (NASA) – Includes Java applet

@@ -1,0 +1,33 @@
+Camber angle is one of the angles made by the wheels of a vehicle; specifically, it is the angle between the vertical axis of a wheel and the vertical axis of the vehicle when viewed from the front or rear. It is used in the design of steering and suspension. If the top of the wheel is farther out than the bottom (that is, tilted away from the axle), it is called positive camber; if the bottom of the wheel is farther out than the top, it is called negative camber.
+
+
+== Effect on handling ==
+
+Camber angle alters the handling qualities of a particular suspension design; in particular, negative camber improves grip when cornering especially with a short long arm suspension. This is because it places the tire at a better angle to the road, transmitting the centrifugal forces through the vertical plane of the tire rather than through a shear force across it. The centrifugal (outwards) force is compensated for by applying negative camber, which turns the contact surface of the tire outwards to match, maximizing the contact patch area. Note that this is only true for the outside tire during the turn; the inside tire would benefit most from positive camber –  again only with short long arm system. Caster angle will compensate this to a degree, as the top of the outside tire will tilt slightly inward and the inner tire will respectively tilt outward.
+On the other hand, for maximum straight-line acceleration, the greatest traction will be attained when the camber angle is zero and the tread is flat on the road. Proper management of camber angle is a major factor in suspension design, and must incorporate not only idealized geometric models, but also real-life behavior of the components; flex, distortion, elasticity, etc. What was once an art has now become much more scientific with the use of computers, which can optimize all of the variables mathematically instead of relying on the designer's intuitive feel and experience. As a result, the handling of even low-priced automobiles has improved dramatically. Heavy-duty vehicles, such as tractors, trucks, etc., tend to have more positive camber angle, so that when they are loaded and the whole vehicle lowers, the wheels are almost vertical.
+
+
+== Adjustability ==
+In cars with double wishbone suspensions, camber angle may be fixed or adjustable, but in MacPherson strut suspensions, it is normally fixed. The elimination of an available camber adjustment may reduce maintenance requirements, but if the car is lowered by use of shortened springs, the camber angle will change.  Excessive camber angle can lead to increased tire wear and impaired handling.  Significant suspension modifications may correspondingly require that the upper control arm or strut mounting points be altered to allow for some inward or outward movement, relative to the longitudinal centerline of the vehicle, for camber adjustment. Aftermarket plates with slots for strut mounts instead of merely holes are available for most of the commonly modified models of cars. There are certain other aftermarket solutions that allow the modification of the camber angle of the wheels. Camber bolts with eccentrics allow adjustable camber on some vehicles. These bolts feature large washers that are either eccentric or offset. If the original-equipment bolts are replaced with eccentric ones, then the adjustment will engender a change of up to two degrees. Control arms (or A-arms) with adjustable ball joints represent another avenue for allowing side-by-side adjustability. With these control arms installed, tire camber can effectively be changed by simply moving the tires. After that, one tightens the bolts in order to lock the ball joint in the desired position. Yet another aftermarket solution for changing the camber angle is via control rods that are of adjustable length. However, this solution is only amenable to vehicles that employ control rods, not A-arms. Because control rods (in vehicles so equipped) are responsible for locating the suspension points and keeping them in place, therefore changing the overall length of the rods influences the camber angle.
+
+
+== Camber in uneven terrain ==
+
+Off-road vehicles such as agricultural tractors generally use positive camber. In such vehicles, the positive camber angle helps achieve a lower steering effort.  Also, some single-engined general aviation aircraft that are primarily meant to operate from unimproved surfaces, such as bush planes and cropdusters, have their taildragger gear's main wheels equipped with positive-cambered main wheels to better handle the deflection of the landing gear, as the aircraft settles on rough, unpaved airstrips.
+
+
+== See also ==
+Camber thrust
+Caster angle
+Kingpin (automotive part)
+Toe (automotive)
+Vehicle dynamics
+
+
+== References ==
+
+
+== External links ==
+Camber and Race Car Suspension Tuning
+Camber, Caster, Toe - What does it all mean?
+Suspension 101 - Camber, Caster, and Toe

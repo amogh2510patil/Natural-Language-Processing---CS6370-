@@ -1,0 +1,2974 @@
+In fluid dynamics, Couette flow is the flow of a viscous fluid in the space between two surfaces, one of which is moving tangentially relative to the other. The relative motion of the surfaces imposes a shear stress on the fluid and induces flow. Depending on the definition of the term, there may also be an applied pressure gradient in the flow direction. 
+The Couette configuration models certain practical problems, like the Earth's mantle and atmosphere, and flow in lightly loaded journal bearings. It is also employed in viscometry and to demonstrate approximations of reversibility.It is named after Maurice Couette, a Professor of Physics at the French University of Angers in the late 19th century.
+
+
+== Planar Couette flow ==
+
+Couette flow is frequently used in undergraduate physics and engineering courses to illustrate shear-driven fluid motion. A simple configuration corresponds to two infinite, parallel plates separated by a distance 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  ; one plate translates with a constant relative velocity 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+   in its own plane. Neglecting pressure gradients, the Navier–Stokes equations simplify to
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              u
+            
+            
+              d
+              
+                y
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle {\frac {d^{2}u}{dy^{2}}}=0,}
+  where 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   is the spatial coordinate normal to the plates and 
+  
+    
+      
+        u
+        (
+        y
+        )
+      
+    
+    {\displaystyle u(y)}
+   is the velocity field. This equation reflects the assumption that the flow is unidirectional — that is, only one of the three velocity components 
+  
+    
+      
+        (
+        u
+        ,
+        v
+        ,
+        w
+        )
+      
+    
+    {\displaystyle (u,v,w)}
+   is non-trivial. If the lower plate corresponds to 
+  
+    
+      
+        y
+        =
+        0
+      
+    
+    {\displaystyle y=0}
+  , the boundary conditions are 
+  
+    
+      
+        u
+        (
+        0
+        )
+        =
+        0
+      
+    
+    {\displaystyle u(0)=0}
+   and 
+  
+    
+      
+        u
+        (
+        h
+        )
+        =
+        U
+      
+    
+    {\displaystyle u(h)=U}
+  . The exact solution
+
+  
+    
+      
+        u
+        (
+        y
+        )
+        =
+        U
+        
+          
+            y
+            h
+          
+        
+      
+    
+    {\displaystyle u(y)=U{\frac {y}{h}}}
+  can be found by integrating twice and solving for the constants using the boundary conditions.
+A notable aspect of the flow is that shear stress is constant throughout the domain. In particular, the first derivative of the velocity, 
+  
+    
+      
+        U
+        
+          /
+        
+        h
+      
+    
+    {\displaystyle U/h}
+  , is constant. According to Newton's Law of Viscosity (Newtonian fluid), the shear stress is the product of this expression and the (constant) fluid viscosity.
+
+
+=== Startup ===
+
+In reality, the Couette solution is not reached instantaneously. The "startup problem" describing the approach to steady state is given by
+
+  
+    
+      
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        ν
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                y
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial u}{\partial t}}=\nu {\frac {\partial ^{2}u}{\partial y^{2}}}}
+  subject to the initial condition
+
+  
+    
+      
+        u
+        (
+        y
+        ,
+        0
+        )
+        =
+        0
+        ,
+        
+        0
+        <
+        y
+        <
+        h
+        ,
+      
+    
+    {\displaystyle u(y,0)=0,\quad 0<y<h,}
+  and with the same boundary conditions as the steady flow:
+
+  
+    
+      
+        u
+        (
+        0
+        ,
+        t
+        )
+        =
+        0
+        ,
+        
+        u
+        (
+        h
+        ,
+        t
+        )
+        =
+        U
+        ,
+        
+        t
+        >
+        0.
+      
+    
+    {\displaystyle u(0,t)=0,\quad u(h,t)=U,\quad t>0.}
+  The problem can be made homogeneous by subtracting the steady solution. Then, applying separation of variables leads to the solution:
+
+  
+    
+      
+        u
+        (
+        y
+        ,
+        t
+        )
+        =
+        U
+        
+          
+            y
+            h
+          
+        
+        −
+        
+          
+            
+              2
+              U
+            
+            π
+          
+        
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            n
+          
+        
+        
+          e
+          
+            −
+            
+              n
+              
+                2
+              
+            
+            
+              π
+              
+                2
+              
+            
+            
+              
+                
+                  ν
+                  t
+                
+                
+                  h
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        sin
+        ⁡
+        
+          [
+          
+            n
+            π
+            
+              (
+              
+                1
+                −
+                
+                  
+                    y
+                    h
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle u(y,t)=U{\frac {y}{h}}-{\frac {2U}{\pi }}\sum _{n=1}^{\infty }{\frac {1}{n}}e^{-n^{2}\pi ^{2}{\frac {\nu t}{h^{2}}}}\sin \left[n\pi \left(1-{\frac {y}{h}}\right)\right]}
+  .The timescale describing relaxation to steady state is 
+  
+    
+      
+        t
+        ∼
+        
+          h
+          
+            2
+          
+        
+        
+          /
+        
+        ν
+      
+    
+    {\displaystyle t\sim h^{2}/\nu }
+  , as illustrated in the figure. The time required to reach the steady state depends only on the spacing between the plates 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   and the kinematic viscosity of the fluid, but not on 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  .
+
+
+=== Planar flow with pressure gradient ===
+A more general Couette flow includes a constant pressure gradient 
+  
+    
+      
+        G
+        =
+        −
+        d
+        p
+        
+          /
+        
+        d
+        x
+        =
+        
+          c
+          o
+          n
+          s
+          t
+          a
+          n
+          t
+        
+      
+    
+    {\displaystyle G=-dp/dx=\mathrm {constant} }
+   in a direction parallel to the plates. The Navier–Stokes equations are
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              u
+            
+            
+              d
+              
+                y
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        −
+        
+          
+            G
+            μ
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {d^{2}u}{dy^{2}}}=-{\frac {G}{\mu }},}
+  where 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   is the dynamic viscosity. Integrating the above equation twice and applying the boundary conditions (same as in the case of Couette flow without pressure gradient) gives
+
+  
+    
+      
+        u
+        (
+        y
+        )
+        =
+        
+          
+            G
+            
+              2
+              μ
+            
+          
+        
+        y
+        
+        (
+        h
+        −
+        y
+        )
+        +
+        U
+        
+          
+            y
+            h
+          
+        
+        .
+      
+    
+    {\displaystyle u(y)={\frac {G}{2\mu }}y\,(h-y)+U{\frac {y}{h}}.}
+  The pressure gradient can be positive (adverse pressure gradient) or negative (favorable pressure gradient). In the limiting case of stationary plates (
+  
+    
+      
+        U
+        =
+        0
+      
+    
+    {\displaystyle U=0}
+  ), the flow is referred to as Plane Poiseuille flow, and has a symmetric (with reference to the horizontal mid-plane) parabolic velocity profile.
+
+
+=== Compressible flow ===
+
+In incompressible flow, the velocity profile is linear because the fluid temperature is constant. When the upper and lower walls are maintained at different temperatures, the velocity profile is more complicated. However, it has an exact implicit solution as shown by C. R. Illingworth in 1950.Consider the plane Couette flow with lower wall at rest and the upper wall in motion with constant velocity 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  . Denote fluid properties at the lower wall with subscript 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   and properties at the upper wall with subscript 
+  
+    
+      
+        ∞
+      
+    
+    {\displaystyle \infty }
+  . The properties and the pressure at the upper wall are prescribed and taken as reference quantities. Let 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   be the distance between the two walls. The boundary conditions are
+
+  
+    
+      
+        u
+        =
+        0
+        ,
+         
+        v
+        =
+        0
+        ,
+         
+        h
+        =
+        
+          h
+          
+            w
+          
+        
+        =
+        
+          c
+          
+            p
+            w
+          
+        
+        
+          T
+          
+            w
+          
+        
+         
+        
+          at
+        
+         
+        y
+        =
+        0
+        ,
+      
+    
+    {\displaystyle u=0,\ v=0,\ h=h_{w}=c_{pw}T_{w}\ {\text{at}}\ y=0,}
+  
+
+  
+    
+      
+        u
+        =
+        U
+        ,
+         
+        v
+        =
+        0
+        ,
+         
+        h
+        =
+        
+          h
+          
+            ∞
+          
+        
+        =
+        
+          c
+          
+            p
+            ∞
+          
+        
+        
+          T
+          
+            ∞
+          
+        
+        ,
+         
+        p
+        =
+        
+          p
+          
+            ∞
+          
+        
+         
+        
+          at
+        
+         
+        y
+        =
+        l
+      
+    
+    {\displaystyle u=U,\ v=0,\ h=h_{\infty }=c_{p\infty }T_{\infty },\ p=p_{\infty }\ {\text{at}}\ y=l}
+  where 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   is the specific enthalpy and 
+  
+    
+      
+        
+          c
+          
+            p
+          
+        
+      
+    
+    {\displaystyle c_{p}}
+   is the specific heat. Conservation of mass and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  -momentum requires 
+  
+    
+      
+        v
+        =
+        0
+        ,
+         
+        p
+        =
+        
+          p
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle v=0,\ p=p_{\infty }}
+   everywhere in the flow domain. Conservation of energy and 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -momentum reduce to
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              y
+            
+          
+        
+        
+          (
+          
+            μ
+            
+              
+                
+                  d
+                  u
+                
+                
+                  d
+                  y
+                
+              
+            
+          
+          )
+        
+        =
+        0
+        ,
+        
+        ⇒
+        
+        
+          
+            
+              d
+              τ
+            
+            
+              d
+              y
+            
+          
+        
+        =
+        0
+        ,
+        
+        ⇒
+        
+        τ
+        =
+        
+          τ
+          
+            w
+          
+        
+      
+    
+    {\displaystyle {\frac {d}{dy}}\left(\mu {\frac {du}{dy}}\right)=0,\quad \Rightarrow \quad {\frac {d\tau }{dy}}=0,\quad \Rightarrow \quad \tau =\tau _{w}}
+  
+
+  
+    
+      
+        
+          
+            1
+            
+              P
+              r
+            
+          
+        
+        
+          
+            d
+            
+              d
+              y
+            
+          
+        
+        
+          (
+          
+            μ
+            
+              
+                
+                  d
+                  h
+                
+                
+                  d
+                  y
+                
+              
+            
+          
+          )
+        
+        +
+        μ
+        
+          
+            (
+            
+              
+                
+                  d
+                  u
+                
+                
+                  d
+                  y
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle {\frac {1}{\mathrm {Pr} }}{\frac {d}{dy}}\left(\mu {\frac {dh}{dy}}\right)+\mu \left({\frac {du}{dy}}\right)^{2}=0.}
+  where 
+  
+    
+      
+        τ
+        =
+        
+          τ
+          
+            w
+          
+        
+        =
+        
+          constant
+        
+      
+    
+    {\displaystyle \tau =\tau _{w}={\text{constant}}}
+   is the wall shear stress. The flow does not depend on the Reynolds number 
+  
+    
+      
+        
+          R
+          e
+        
+        =
+        U
+        l
+        
+          /
+        
+        
+          ν
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \mathrm {Re} =Ul/\nu _{\infty }}
+  , but rather on the Prandtl number 
+  
+    
+      
+        
+          P
+          r
+        
+        =
+        
+          μ
+          
+            ∞
+          
+        
+        
+          c
+          
+            p
+            ∞
+          
+        
+        
+          /
+        
+        
+          κ
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle \mathrm {Pr} =\mu _{\infty }c_{p\infty }/\kappa _{\infty }}
+   and the Mach number 
+  
+    
+      
+        
+          M
+        
+        =
+        U
+        
+          /
+        
+        
+          c
+          
+            ∞
+          
+        
+        =
+        U
+        
+          /
+        
+        
+          
+            (
+            γ
+            −
+            1
+            )
+            
+              h
+              
+                ∞
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {M} =U/c_{\infty }=U/{\sqrt {(\gamma -1)h_{\infty }}}}
+  , where 
+  
+    
+      
+        κ
+      
+    
+    {\displaystyle \kappa }
+   is the thermal conductivity, 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is the speed of sound and 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   is the specific heat ratio. Introduce the non-dimensional variables
+
+  
+    
+      
+        
+          
+            
+              y
+              ~
+            
+          
+        
+        =
+        
+          
+            y
+            l
+          
+        
+        ,
+        
+        
+          
+            
+              T
+              ~
+            
+          
+        
+        =
+        
+          
+            T
+            
+              T
+              
+                ∞
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              
+                T
+                ~
+              
+            
+          
+          
+            w
+          
+        
+        =
+        
+          
+            
+              T
+              
+                w
+              
+            
+            
+              T
+              
+                ∞
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              h
+              ~
+            
+          
+        
+        =
+        
+          
+            h
+            
+              h
+              
+                ∞
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              
+                h
+                ~
+              
+            
+          
+          
+            w
+          
+        
+        =
+        
+          
+            
+              h
+              
+                w
+              
+            
+            
+              h
+              
+                ∞
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              u
+              ~
+            
+          
+        
+        =
+        
+          
+            u
+            U
+          
+        
+        ,
+        
+        
+          
+            
+              μ
+              ~
+            
+          
+        
+        =
+        
+          
+            μ
+            
+              μ
+              
+                ∞
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              
+                τ
+                ~
+              
+            
+          
+          
+            w
+          
+        
+        =
+        
+          
+            
+              τ
+              
+                w
+              
+            
+            
+              
+                μ
+                
+                  ∞
+                
+              
+              U
+              
+                /
+              
+              l
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {y}}={\frac {y}{l}},\quad {\tilde {T}}={\frac {T}{T_{\infty }}},\quad {\tilde {T}}_{w}={\frac {T_{w}}{T_{\infty }}},\quad {\tilde {h}}={\frac {h}{h_{\infty }}},\quad {\tilde {h}}_{w}={\frac {h_{w}}{h_{\infty }}},\quad {\tilde {u}}={\frac {u}{U}},\quad {\tilde {\mu }}={\frac {\mu }{\mu _{\infty }}},\quad {\tilde {\tau }}_{w}={\frac {\tau _{w}}{\mu _{\infty }U/l}}}
+  In terms of these quantities, the solutions are
+
+  
+    
+      
+        
+          
+            
+              h
+              ~
+            
+          
+        
+        =
+        
+          
+            
+              
+                h
+                ~
+              
+            
+          
+          
+            w
+          
+        
+        +
+        
+          [
+          
+            
+              
+                
+                  γ
+                  −
+                  1
+                
+                2
+              
+            
+            
+              
+                M
+              
+              
+                2
+              
+            
+            
+              P
+              r
+            
+            +
+            (
+            1
+            −
+            
+              
+                
+                  
+                    h
+                    ~
+                  
+                
+              
+              
+                w
+              
+            
+            )
+          
+          ]
+        
+        
+          
+            
+              u
+              ~
+            
+          
+        
+        −
+        
+          
+            
+              γ
+              −
+              1
+            
+            2
+          
+        
+        
+          
+            M
+          
+          
+            2
+          
+        
+        
+          P
+          r
+        
+        
+        
+          
+            
+              
+                u
+                ~
+              
+            
+          
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle {\tilde {h}}={\tilde {h}}_{w}+\left[{\frac {\gamma -1}{2}}\mathrm {M} ^{2}\mathrm {Pr} +(1-{\tilde {h}}_{w})\right]{\tilde {u}}-{\frac {\gamma -1}{2}}\mathrm {M} ^{2}\mathrm {Pr} \,{\tilde {u}}^{2},}
+  
+
+  
+    
+      
+        
+          
+            
+              y
+              ~
+            
+          
+        
+        =
+        
+          
+            1
+            
+              
+                
+                  
+                    τ
+                    ~
+                  
+                
+              
+              
+                w
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                u
+                ~
+              
+            
+          
+        
+        
+          
+            
+              μ
+              ~
+            
+          
+        
+        d
+        
+          
+            
+              u
+              ~
+            
+          
+        
+        ,
+        
+        
+          
+            
+              
+                τ
+                ~
+              
+            
+          
+          
+            w
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          
+            
+              μ
+              ~
+            
+          
+        
+        d
+        
+          
+            
+              u
+              ~
+            
+          
+        
+        ,
+        
+        
+          q
+          
+            w
+          
+        
+        =
+        −
+        
+          
+            1
+            
+              P
+              r
+            
+          
+        
+        
+          τ
+          
+            w
+          
+        
+        
+          
+            (
+            
+              
+                
+                  d
+                  h
+                
+                
+                  d
+                  u
+                
+              
+            
+            )
+          
+          
+            w
+          
+        
+        ,
+      
+    
+    {\displaystyle {\tilde {y}}={\frac {1}{{\tilde {\tau }}_{w}}}\int _{0}^{\tilde {u}}{\tilde {\mu }}d{\tilde {u}},\quad {\tilde {\tau }}_{w}=\int _{0}^{1}{\tilde {\mu }}d{\tilde {u}},\quad q_{w}=-{\frac {1}{\mathrm {Pr} }}\tau _{w}\left({\frac {dh}{du}}\right)_{w},}
+  where 
+  
+    
+      
+        
+          q
+          
+            w
+          
+        
+      
+    
+    {\displaystyle q_{w}}
+   is the heat transferred per unit time per unit area from the lower wall. Thus 
+  
+    
+      
+        
+          
+            
+              h
+              ~
+            
+          
+        
+        ,
+        
+          
+            
+              T
+              ~
+            
+          
+        
+        ,
+        
+          
+            
+              u
+              ~
+            
+          
+        
+        ,
+        
+          
+            
+              μ
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {h}},{\tilde {T}},{\tilde {u}},{\tilde {\mu }}}
+   are implicit functions of 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  . One can also write the solution in terms of the recovery temperature 
+  
+    
+      
+        
+          T
+          
+            r
+          
+        
+      
+    
+    {\displaystyle T_{r}}
+   and recovery enthalpy 
+  
+    
+      
+        
+          h
+          
+            r
+          
+        
+      
+    
+    {\displaystyle h_{r}}
+   evaluated at the temperature of an insulated wall i.e., the values of 
+  
+    
+      
+        
+          T
+          
+            w
+          
+        
+      
+    
+    {\displaystyle T_{w}}
+   and 
+  
+    
+      
+        
+          h
+          
+            w
+          
+        
+      
+    
+    {\displaystyle h_{w}}
+   for which 
+  
+    
+      
+        
+          q
+          
+            w
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle q_{w}=0}
+  . Then the solution is
+
+  
+    
+      
+        
+          
+            
+              q
+              
+                w
+              
+            
+            
+              
+                τ
+                
+                  w
+                
+              
+              U
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    
+                      T
+                      ~
+                    
+                  
+                
+                
+                  w
+                
+              
+              −
+              
+                
+                  
+                    
+                      T
+                      ~
+                    
+                  
+                
+                
+                  r
+                
+              
+            
+            
+              (
+              γ
+              −
+              1
+              )
+              
+                
+                  M
+                
+                
+                  2
+                
+              
+              
+                P
+                r
+              
+            
+          
+        
+        ,
+        
+        
+          
+            
+              
+                T
+                ~
+              
+            
+          
+          
+            r
+          
+        
+        =
+        1
+        +
+        
+          
+            
+              γ
+              −
+              1
+            
+            2
+          
+        
+        
+          
+            M
+          
+          
+            2
+          
+        
+        
+          P
+          r
+        
+        ,
+      
+    
+    {\displaystyle {\frac {q_{w}}{\tau _{w}U}}={\frac {{\tilde {T}}_{w}-{\tilde {T}}_{r}}{(\gamma -1)\mathrm {M} ^{2}\mathrm {Pr} }},\quad {\tilde {T}}_{r}=1+{\frac {\gamma -1}{2}}\mathrm {M} ^{2}\mathrm {Pr} ,}
+  
+
+  
+    
+      
+        
+          
+            
+              h
+              ~
+            
+          
+        
+        =
+        
+          
+            
+              
+                h
+                ~
+              
+            
+          
+          
+            w
+          
+        
+        +
+        (
+        
+          
+            
+              
+                h
+                ~
+              
+            
+          
+          
+            r
+          
+        
+        −
+        
+          
+            
+              
+                h
+                ~
+              
+            
+          
+          
+            w
+          
+        
+        )
+        
+          
+            
+              u
+              ~
+            
+          
+        
+        −
+        
+          
+            
+              γ
+              −
+              1
+            
+            2
+          
+        
+        
+          
+            M
+          
+          
+            2
+          
+        
+        
+          P
+          r
+        
+        
+        
+          
+            
+              
+                u
+                ~
+              
+            
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\tilde {h}}={\tilde {h}}_{w}+({\tilde {h}}_{r}-{\tilde {h}}_{w}){\tilde {u}}-{\frac {\gamma -1}{2}}\mathrm {M} ^{2}\mathrm {Pr} \,{\tilde {u}}^{2}.}
+  If the specific heat is constant, then 
+  
+    
+      
+        
+          
+            
+              h
+              ~
+            
+          
+        
+        =
+        
+          
+            
+              T
+              ~
+            
+          
+        
+      
+    
+    {\displaystyle {\tilde {h}}={\tilde {T}}}
+  . When 
+  
+    
+      
+        
+          M
+        
+        →
+        0
+      
+    
+    {\displaystyle \mathrm {M} \rightarrow 0}
+   and 
+  
+    
+      
+        
+          T
+          
+            w
+          
+        
+        =
+        
+          T
+          
+            ∞
+          
+        
+        ,
+        ⇒
+        
+          q
+          
+            w
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle T_{w}=T_{\infty },\Rightarrow q_{w}=0}
+  , then 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   and 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+   are constant everywhere, thus recovering the incompressible Couette flow solution. Otherwise, one must know the full temperature dependence of 
+  
+    
+      
+        
+          
+            
+              μ
+              ~
+            
+          
+        
+        (
+        
+          
+            
+              T
+              ~
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\tilde {\mu }}({\tilde {T}})}
+  . While there is no simple expression for 
+  
+    
+      
+        
+          
+            
+              μ
+              ~
+            
+          
+        
+        (
+        
+          
+            
+              T
+              ~
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {\tilde {\mu }}({\tilde {T}})}
+   that is both accurate and general, there are several approximations for certain materials — see, e.g., temperature dependence of viscosity. When 
+  
+    
+      
+        
+          M
+        
+        →
+        0
+      
+    
+    {\displaystyle \mathrm {M} \rightarrow 0}
+   and 
+  
+    
+      
+        
+          q
+          
+            w
+          
+        
+        ≠
+        0
+      
+    
+    {\displaystyle q_{w}\neq 0}
+  , the recovery quantities become unity 
+  
+    
+      
+        
+          
+            
+              
+                T
+                ~
+              
+            
+          
+          
+            r
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle {\tilde {T}}_{r}=1}
+  . For air, the values 
+  
+    
+      
+        γ
+        =
+        1.4
+        ,
+         
+        
+          
+            
+              μ
+              ~
+            
+          
+        
+        (
+        
+          
+            
+              T
+              ~
+            
+          
+        
+        )
+        =
+        
+          
+            
+              
+                T
+                ~
+              
+            
+          
+          
+            2
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle \gamma =1.4,\ {\tilde {\mu }}({\tilde {T}})={\tilde {T}}^{2/3}}
+   are commonly used, and the results for this case are shown in the figure.
+The effects of dissociation and ionization (i.e., 
+  
+    
+      
+        
+          c
+          
+            p
+          
+        
+      
+    
+    {\displaystyle c_{p}}
+   is not constant) have also been studied; in that case the recovery temperature is reduced by the dissociation of molecules.
+
+
+=== Rectangular channel ===
+
+One-dimensional flow 
+  
+    
+      
+        u
+        (
+        y
+        )
+      
+    
+    {\displaystyle u(y)}
+   is valid when both plates are infinitely long in the streamwise (
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  ) and spanwise (
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  ) directions. When the spanwise length is finite, the flow becomes two-dimensional and 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+   is a function of both 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   and 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  . However, the infinite length in the streamwise direction must be retained in order to ensure the unidirectional nature of the flow.
+As an example, consider an infinitely long rectangular channel with transverse height 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+   and spanwise width 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  , subject to the condition that the top wall moves with a constant velocity 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  . Without an imposed pressure gradient, the Navier–Stokes equations reduce to
+
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                y
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+            
+            
+              ∂
+              
+                z
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {\partial ^{2}u}{\partial y^{2}}}+{\frac {\partial ^{2}u}{\partial z^{2}}}=0}
+  with boundary conditions
+
+  
+    
+      
+        u
+        (
+        0
+        ,
+        z
+        )
+        =
+        0
+        ,
+        
+        u
+        (
+        h
+        ,
+        z
+        )
+        =
+        U
+        ,
+      
+    
+    {\displaystyle u(0,z)=0,\quad u(h,z)=U,}
+  
+
+  
+    
+      
+        u
+        (
+        y
+        ,
+        0
+        )
+        =
+        0
+        ,
+        
+        u
+        (
+        y
+        ,
+        l
+        )
+        =
+        0.
+      
+    
+    {\displaystyle u(y,0)=0,\quad u(y,l)=0.}
+  Using separation of variables, the solution is given by
+
+  
+    
+      
+        u
+        (
+        y
+        ,
+        z
+        )
+        =
+        
+          
+            
+              4
+              U
+            
+            π
+          
+        
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              2
+              n
+              −
+              1
+            
+          
+        
+        
+          
+            
+              sinh
+              ⁡
+              (
+              
+                β
+                
+                  n
+                
+              
+              y
+              )
+            
+            
+              sinh
+              ⁡
+              (
+              
+                β
+                
+                  n
+                
+              
+              h
+              )
+            
+          
+        
+        sin
+        ⁡
+        (
+        
+          β
+          
+            n
+          
+        
+        z
+        )
+        ,
+        
+        
+          β
+          
+            n
+          
+        
+        =
+        
+          
+            
+              (
+              2
+              n
+              −
+              1
+              )
+              π
+            
+            l
+          
+        
+        .
+      
+    
+    {\displaystyle u(y,z)={\frac {4U}{\pi }}\sum _{n=1}^{\infty }{\frac {1}{2n-1}}{\frac {\sinh(\beta _{n}y)}{\sinh(\beta _{n}h)}}\sin(\beta _{n}z),\quad \beta _{n}={\frac {(2n-1)\pi }{l}}.}
+  When 
+  
+    
+      
+        h
+        
+          /
+        
+        l
+        ≪
+        1
+      
+    
+    {\displaystyle h/l\ll 1}
+  , the planar Couette flow is recovered, as shown in the figure.
+
+
+== Coaxial cylinders ==
+Taylor–Couette flow is a flow between two rotating, infinitely long, coaxial cylinders. The original problem was solved by Stokes in 1845, but Geoffrey Ingram Taylor's name was attached to the flow because he studied its stability in a famous 1923 paper.The problem can be solved in cylindrical coordinates 
+  
+    
+      
+        (
+        r
+        ,
+        θ
+        ,
+        z
+        )
+      
+    
+    {\displaystyle (r,\theta ,z)}
+  . Denote the radii of the inner and outer cylinders as 
+  
+    
+      
+        
+          R
+          
+            1
+          
+        
+      
+    
+    {\displaystyle R_{1}}
+   and 
+  
+    
+      
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle R_{2}}
+  . Assuming the cylinders rotate at constant angular velocities 
+  
+    
+      
+        
+          Ω
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \Omega _{1}}
+   and 
+  
+    
+      
+        
+          Ω
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Omega _{2}}
+  , then the velocity in the 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  -direction is
+
+  
+    
+      
+        
+          v
+          
+            θ
+          
+        
+        (
+        r
+        )
+        =
+        a
+        r
+        +
+        
+          
+            b
+            r
+          
+        
+        ,
+        
+        a
+        =
+        
+          
+            
+              
+                Ω
+                
+                  2
+                
+              
+              
+                R
+                
+                  2
+                
+                
+                  2
+                
+              
+              −
+              
+                Ω
+                
+                  1
+                
+              
+              
+                R
+                
+                  1
+                
+                
+                  2
+                
+              
+            
+            
+              
+                R
+                
+                  2
+                
+                
+                  2
+                
+              
+              −
+              
+                R
+                
+                  1
+                
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+        
+        b
+        =
+        
+          
+            
+              (
+              
+                Ω
+                
+                  1
+                
+              
+              −
+              
+                Ω
+                
+                  2
+                
+              
+              )
+              
+                R
+                
+                  1
+                
+                
+                  2
+                
+              
+              
+                R
+                
+                  2
+                
+                
+                  2
+                
+              
+            
+            
+              
+                R
+                
+                  2
+                
+                
+                  2
+                
+              
+              −
+              
+                R
+                
+                  1
+                
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v_{\theta }(r)=ar+{\frac {b}{r}},\qquad a={\frac {\Omega _{2}R_{2}^{2}-\Omega _{1}R_{1}^{2}}{R_{2}^{2}-R_{1}^{2}}},\quad b={\frac {(\Omega _{1}-\Omega _{2})R_{1}^{2}R_{2}^{2}}{R_{2}^{2}-R_{1}^{2}}}.}
+  This equation shows that the effects of curvature no longer allow for constant shear in the flow domain.
+
+
+=== Coaxial cylinders of finite length ===
+The classical Taylor–Couette flow problem assumes infinitely long cylinders; if the cylinders have non-negligible finite length 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  , then the analysis must be modified (though the flow is still unidirectional). For 
+  
+    
+      
+        
+          Ω
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \Omega _{2}=0}
+  , the finite-length problem can be solved using separation of variables or integral transforms, giving:
+
+  
+    
+      
+        
+          v
+          
+            θ
+          
+        
+        (
+        r
+        ,
+        z
+        )
+        =
+        
+          
+            
+              4
+              
+                R
+                
+                  1
+                
+              
+              
+                Ω
+                
+                  1
+                
+              
+            
+            π
+          
+        
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              2
+              n
+              −
+              1
+            
+          
+        
+        
+          
+            
+              
+                I
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              
+                R
+                
+                  2
+                
+              
+              )
+              
+                K
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              r
+              )
+              −
+              
+                K
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              
+                R
+                
+                  2
+                
+              
+              )
+              
+                I
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              r
+              )
+            
+            
+              
+                I
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              
+                R
+                
+                  2
+                
+              
+              )
+              
+                K
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              
+                R
+                
+                  1
+                
+              
+              )
+              −
+              
+                K
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              
+                R
+                
+                  2
+                
+              
+              )
+              
+                I
+                
+                  1
+                
+              
+              (
+              
+                β
+                
+                  n
+                
+              
+              
+                R
+                
+                  1
+                
+              
+              )
+            
+          
+        
+        sin
+        ⁡
+        (
+        
+          β
+          
+            n
+          
+        
+        z
+        )
+        ,
+        
+        
+          β
+          
+            n
+          
+        
+        =
+        
+          
+            
+              (
+              2
+              n
+              −
+              1
+              )
+              π
+            
+            l
+          
+        
+        ,
+      
+    
+    {\displaystyle v_{\theta }(r,z)={\frac {4R_{1}\Omega _{1}}{\pi }}\sum _{n=1}^{\infty }{\frac {1}{2n-1}}{\frac {I_{1}(\beta _{n}R_{2})K_{1}(\beta _{n}r)-K_{1}(\beta _{n}R_{2})I_{1}(\beta _{n}r)}{I_{1}(\beta _{n}R_{2})K_{1}(\beta _{n}R_{1})-K_{1}(\beta _{n}R_{2})I_{1}(\beta _{n}R_{1})}}\sin(\beta _{n}z),\quad \beta _{n}={\frac {(2n-1)\pi }{l}},}
+  where 
+  
+    
+      
+        I
+        (
+        
+          β
+          
+            n
+          
+        
+        r
+        )
+        ,
+         
+        K
+        (
+        
+          β
+          
+            n
+          
+        
+        r
+        )
+      
+    
+    {\displaystyle I(\beta _{n}r),\ K(\beta _{n}r)}
+   are the Modified Bessel functions of the first and second kind.
+
+
+== See also ==
+Laminar flow
+Stokes-Couette flow
+Hagen–Poiseuille equation
+Taylor–Couette flow
+Hagen–Poiseuille flow from the Navier–Stokes equations
+
+
+== References ==
+
+
+== Sources ==
+
+
+== External links ==
+AMS Glossary: Couette Flow
+A rheologists perspective: the science behind the couette cell accessory

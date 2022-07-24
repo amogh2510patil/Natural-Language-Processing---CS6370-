@@ -1,0 +1,94 @@
+A hemispherical combustion chamber is a type of combustion chamber in a reciprocating internal combustion engine with a domed cylinder head in the approximate shape of a hemisphere. An engine featuring this type of hemispherical chamber is known as a hemi engine.
+
+
+== History ==
+
+Hemispherical combustion chambers were introduced on some of the earliest automotive engines, shortly after the viability of the internal combustion engine was first demonstrated. Their name reflects the domed cylinder head and the top of the piston enclosing a space that approximates a half of a sphere (hemi- + -sphere + -ical), although in practice the actual enclosed space is generally less than half.
+Hemispherical cylinder heads have been used since at least 1901; they were used by the Belgian car maker Pipe in 1905 and by the 1907 Fiat 130 HP Grand Prix racer. The Peugeot Grand Prix car of 1912 and the Alfa Romeo Grand Prix car of 1914 were both four-valve engines, and Daimler and Riley were also using hemispherical combustion chambers at the time. Beginning in 1912, Stutz used four-valve engines, conceptually anticipating modern car engines. Other examples include the BMW double-pushrod design (adopted by Bristol Cars), the Peugeot 403, the Toyota T engine and Toyota V engine (Toyota's first V8 engine), Miller racing engines, and the Jaguar XK engine.
+
+
+== Technology and implementation ==
+A hemispherical head ("hemi-head") gives an efficient combustion chamber with minimal heat loss to the head, and allows for two large valves. However, a hemi-head usually allows no more than two valves per cylinder due to the difficulty in arranging the valve gear for four valves at diverging angles, and these large valves are necessarily heavier than those in a multi-valve engine of similar valve area, as well as generally requiring more valve lift. The intake and exhaust valves lie on opposite sides of the chamber and necessitate a "cross-flow" head design. Since the combustion chamber is virtually a hemisphere, a flat-topped piston yields a lower compression ratio unless a smaller chamber is utilized.
+Significant challenges in the commercialization of engines utilizing hemispherical chambers revolved around the design of the valve actuation, and how to make it effective, efficient, and reliable at an acceptable cost.  complexity was referenced early in Chrysler's development of their 1950s hemi engine: the head was referred to in company advertising as the Double Rocker head.
+
+
+== Benefits and drawbacks ==
+Although a wedge-head design offers simplified valve actuation, it usually does so by placing the valves side by side within the chamber, with parallel stem axes. This can restrict the flow of the intake and exhaust into and out of the chamber by limiting the diameters of valve heads to total no more than the bore of the cylinder in a two valve per cylinder arrangement. With a hemispherical chamber with splayed valve stem angle, this limitation is increased by the angle, making the total valve diameter size possible to exceed the bore size within an overhead valve configuration. See IOE engine for another method.
+Also, the splayed valve angle causes the valve seat plane to be tilted, giving a straighter flow path for the intake and exhaust to/from the port exiting the cylinder head. Engineers have learned that while increasing the valve size with straighter port is beneficial for increasing the maximum power at high rpm, it slows the intake flow speed, not providing the best combustion event for emissions, efficiency, or power in the normal rpm range.
+Domed pistons are commonly used to maintain a higher mechanical compression ratio, which tend to increase the flame propagation distance, being also detrimental to efficient combustion, unless the number of spark plugs per cylinder is increased.
+Flame temperatures are very high, leading to excessive NOx output which may require exhaust gas recirculation and other emission control measures to meet modern standards. Other drawbacks of the hemispherical chamber include increased production cost and high relative weight (25% heavier than a comparable wedge head according to Chrysler's engineers). These had pushed the hemi head out of favor in the modern era, until Chrysler's 2003 redesign that has proven popular.
+
+
+== Use ==
+
+
+=== Alfa Romeo ===
+Alfa Romeo has produced successful hemi-head engines throughout the years. Arguably one of their most beloved examples is Giuseppe Busso's original 2.5-liter V6, which has been cited by some as one of the best and most distinctive sounding production engines (even in its latter 24v forms) of all time. Part of this praise is likely because the hemispherical heads on the original 2-valve engine allowed for an almost completely straight exhaust port, resulting in a less diluted or muddied engine sound, allowing Alfa Romeo to use quieter stock exhausts without losing much of their distinct and beloved race-bred engine noise.
+
+
+=== Aston Martin ===
+
+Aston Martin's famous DOHC (4 cams) V8 used a hemispherical chamber during the late 1960s through to the late 1980s. Each cam controlled one set of valves, either a bank of intake valves or a bank of exhaust valves. The Aston Martin V8 5.3 L (5340 cc/325 in3) produced 315 hp (235 kW).
+
+
+=== Chrysler ===
+
+Perhaps the most widely known proponent of the hemispherical chamber design is the Chrysler Corporation. Chrysler became identified primarily by trademarking the "Hemi" name and then using it extensively in their advertising campaigns beginning in the 1960s. Chrysler has produced three generations of such engines: the first (the Chrysler FirePower engine) in the 1950s, the second (the 426 Hemi), developed for NASCAR in 1964 and produced through the early 1970s, and finally the "new HEMI" in the early 2000s.
+
+
+=== Ford ===
+Ardun heads for the Ford flathead were perhaps the first use of a hemispherical head on a readily available American V8. First offered in 1947 as an aftermarket product, these heads converted the Ford flathead to overhead valves operating in a hemispherical chamber. Zora Arkus-Duntov, who later worked for GM and was a major force behind the development of the Chevrolet Corvette, and his brother Yura, were the "AR" "DUN" of "Ardun."
+Ford produced an engine with two overhead cams (one cam per head) and hemispherical chambers in the mid-1960s. The engine, displacing 425 cubic inches and belonging to the FE family of Ford engines, was known as the "427 SOHC"; it was also known as the Cammer. It was a set of SOHC hemi heads that bolted onto Ford's FE engine block. The 1964 engine was designed in 90 days of intensive engineering effort for use in racing. The 427 SOHC used the side oiler engine block modified slightly to deal with the missing in-block cam among other OHC issues. Because of their power levels, and the fact that Chrysler had showed Bill France that a DOHC 426 Hemi was in the works, it was banned from NASCAR races, though allowed in certain drag racing classes. After the NASCAR ban, Ford continued to produce the SOHC, selling it over the counter to racers and others who used it to power many altered-wheelbase A/FX Mustangs and supercharged Top Fuel dragsters. Connie Kalitta, Pete Robinson, and "Snake" Prudhomme all used the engine in their Top Fuel racers. In 1967 Connie Kalitta's SOHC-powered "Bounty Hunter" won Top Fuel honors at AHRA, NHRA and NASCAR winter meets, becoming the only "triple crown" winner in drag racing history. Dynamometer results of the day showed the SOHC Hemi producing almost 700 hp (522 kW) in crate form (100 hp per liter). The overhead cams meant that it was not as rpm-limited as the Chrysler Hemis were with their pushrods and heavy and complex valvetrains.Later Ford engine designs with hemispherical chambers included the Calliope, which used two in-block cams, arranged one over the other, to drive 3 valves per hemispherical chamber. The pushrods activating the valves from the top camshaft were almost horizontal. In 1968, Ford brought out a completely new engine family called the 385-series. This engine's heads used a modified form of the hemispherical chamber called Semi-Hemi.In the 1970s, Ford designed and produced a small-block engine with hemispherical heads to address the growing concerns about fuel economy. Unfortunately, even with an ahead-of-its-time direct fuel injection system feeding a stratified charge chamber, the hemi's emissions could not be made clean enough for compliance with regulations. This plus the cost of the valve actuation systems, along with the cost of the high pressure pump needed to deliver fuel directly into the chamber, as well as the gilmer belt drive system needed to drive the pump, made further development pointless at the time. Most 1980s 4-cylinder Fords used the Ford CVH engine, CVH meaning "Compound Valve, Hemispherical (Head)".
+
+
+=== Jaguar ===
+Jaguar used this head design, beginning in 1949, on the legendary XK engines, which powered cars ranging from the Le Mans winning D-Type to the XJ6.
+
+
+=== Lamborghini ===
+The Lamborghini V12, designed in 1963 and produced for more than 50 years, used hemispherical chambers.
+
+
+=== Lancia ===
+The Lancia V4 engine and Lancia V6 engine both used hemispherical combustion chambers.
+
+
+=== Lotus ===
+Lotus has used hemispherical chambers in some of their engines (see photo to right). The relatively large valves possible in such a chamber allowed large volumes of air-fuel mixture to enter and exit the chamber quickly; not always completely combusted.
+
+
+=== Mercedes Benz ===
+Hemispherical chambers were a feature of the M102 engine introduced in 1980, which together with the crossflow head design promoted greater efficiency over the M115 engine it replaced.
+
+
+=== MG ===
+The MG factory in Abingdon-On-Thames produced a Twin-Cam variant of the pushrod MGA 1600 MkI MG MGA line from 1958 to 1960. The original push rod 1588 cc cast iron block was crowned with a cast aluminum twin cam cylinder head which included one inlet and exhaust valve each, per cylinder. This configuration enabled a cross flow "hemi head" circulation within the combustion chamber, that enabled improved breathing (volumetric efficiency) as well as utilization of enlarged valves and domed pistons. Early versions proved fragile on the street and in competition due to pre-ignition (detonation), and oil loss, which led to decreasing the compression ratio from 9.1. to 8.3 with redesigned pistons. It was a successful update but sales dropped off so rapidly the company halted Twin Cam production and used the matching chassis for some MGAs, with push rod engines, known as the MGA 1600 MkI and MkII DeLuxe models.
+
+
+=== Mitsubishi ===
+Mitsubishi produced several hemi engines including the 'Orion', 'Astron', and 'Saturn' units.
+
+
+=== Nissan ===
+Nissan's Z, VG (SOHC version only) and VQ engines use hemispherical combustion chambers. The Z and VG are true hemispherical while the VQ uses a compound pent-roof shape.
+
+
+=== Porsche ===
+
+Porsche has made extensive use of hemi-head engines, including the air-cooled flat-6 engine in Porsche 911 models from 1963 to 1999. The 1973 2.7 L version generated 56 hp per naturally aspirated litre of piston displacement.
+
+
+=== Toyota ===
+Toyota Motor Corporation's V family of engines were a longitudinally mounted V8 engine design. They were used from the 1960s through the 1990s. The V family engine was used in the prestigious Toyota Century. Toyota had worked with Yamaha to produce the first Japanese full aluminum alloy block engine. The V Family is often referred to as the Toyota HEMI as the engine features a similar cylinder head design to those found on the Chrysler's Hemi, even though most of the engine design is completely different.
+The V 2.6L engine was first used in the Crown Eight from 1964 to 1967 as part of the second generation Crown range. Thereafter the Crown Eight was replaced by the upmarket Toyota Century.
+The 3V, 4V and 5V engines were used in the Toyota Century up until 1997 when it got a complete redesign and gained the 5.0 L 1GZ-FE V12.
+The V series engines, like several Toyota Motor Corporation engines (e.g. 2T-C, 2M, 4M etc.) at the time had a hemispherical combustion chamber. The spark plugs were located at the top of the combustion chamber.
+
+
+== Design evolution in modern engines ==
+
+In the modern emissions-era, the hemi chamber has begun to fade away from continuing development. The hemispherical combustion chamber is the simplest, and easiest design. It has served for more than a century as the basic design in combustion engines, from which many other improvements and engineering developments derive. As the engineering involved in new engines has improved and evolved, the true hemispherical chamber has morphed and twisted into more sophisticated and complex designs that are meant to extract more power, with lower emissions, from any given combustion event.
+Many of today's engines use active combustion chambers designed to tumble and swirl the fuel/air mix within the chamber for the most efficient combustion event possible. These active chambers usually look like kidney beans or two merged small 'hemi' areas surrounded by flat quenching areas over the pistons.
+
+
+== References ==

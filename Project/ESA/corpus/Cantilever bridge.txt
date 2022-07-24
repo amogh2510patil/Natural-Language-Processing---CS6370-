@@ -1,0 +1,59 @@
+A cantilever bridge is a bridge built using cantilevers, structures that project horizontally into space, supported on only one end. For small footbridges, the cantilevers may be simple beams; however, large cantilever bridges designed to handle road or rail traffic use trusses built from structural steel, or box girders built from prestressed concrete. 
+The steel truss cantilever bridge was a major engineering breakthrough when first put into practice, as it can span distances of over 1,500 feet (460 m), and can be more easily constructed at difficult crossings by virtue of using little or no falsework.
+
+
+== Origins ==
+
+Engineers in the 19th century understood that a bridge that was continuous across multiple supports would distribute the loads among them. This would result in lower stresses in the girder or truss and meant that longer spans could be built.: 57, 190  Several 19th-century engineers patented continuous bridges with hinge points mid-span.: 75, 79  The use of a hinge in the multi-span system presented the advantages of a statically determinate system and of a bridge that could handle differential settlement of the foundations.: 190  Engineers could more easily calculate the forces and stresses with a hinge in the girder.
+Heinrich Gerber was one of the engineers to obtain a patent for a hinged girder (1866) and is recognized as the first to build one. : 79  The Hassfurt Bridge over the Main river in Germany with a central span of 124 feet (38 metres) was completed in 1867 and is recognized as the first modern cantilever bridge.: par. 2 
+
+The High Bridge of Kentucky by C. Shaler Smith (1877), the Niagara Cantilever Bridge by Charles Conrad Schneider (1883) and the Poughkeepsie Bridge by John Francis O'Rourke and Pomeroy P. Dickinson (1889) were all important early uses of the cantilever design.: par. 3, 5  The Kentucky River Bridge spanned a gorge that was 275 feet (84 metres) deep and took full advantage of the fact that falsework, or temporary support, is not needed for the main span of a cantilever bridge.: par. 3 The most famous early cantilever bridge is the Forth Bridge. This bridge held the record for longest span in the world for twenty-nine years until it was surpassed by the Quebec Bridge. Benjamin Baker illustrated the structural principles of the suspended span cantilever in the photo on the right. The suspended span, where Kaichi Watanabe sits, is seen in the center. The need to resist compression of the lower chord is seen in the use of wooden poles while the tension of the upper chord is shown by the outstretched arms. The action of the outer foundations as anchors for the cantilever is visible in the placement of the counterweights.: par. 6 
+
+
+== Function ==
+Cantilever Bridge.—A structure at least one portion of which acts as an anchorage for sustaining another portion which extends beyond the supporting pier.
+A simple cantilever span is formed by two cantilever arms extending from opposite sides of an obstacle to be crossed, meeting at the center. In a common variant, the suspended span, the cantilever arms do not meet in the center; instead, they support a central truss bridge which rests on the ends of the cantilever arms. The suspended span may be built off-site and lifted into place, or constructed in place using special travelling supports.
+
+A common way to construct steel truss and prestressed concrete cantilever spans is to counterbalance each cantilever arm with another cantilever arm projecting the opposite direction, forming a balanced cantilever; when they attach to a solid foundation, the counterbalancing arms are called anchor arms. Thus, in a bridge built on two foundation piers, there are four cantilever arms: two which span the obstacle, and two anchor arms that extend away from the obstacle. Because of the need for more strength at the balanced cantilever's supports, the bridge superstructure often takes the form of towers above the foundation piers. The Commodore Barry Bridge is an example of this type of cantilever bridge.
+Steel truss cantilevers support loads by tension of the upper members and compression of the lower ones. Commonly, the structure distributes the tension via the anchor arms to the outermost supports, while the compression is carried to the foundations beneath the central towers. Many truss cantilever bridges use pinned joints and are therefore statically determinate with no members carrying mixed loads.
+Prestressed concrete balanced cantilever bridges are often built using segmental construction.
+
+
+== Construction methods ==
+Some steel arch bridges (such as the Navajo Bridge) are built using pure cantilever spans from each side, with neither falsework below nor temporary supporting towers and cables above. These are then joined with a pin, usually after forcing the union point apart, and when jacks are removed and the bridge decking is added the bridge becomes a truss arch bridge. Such unsupported construction is only possible where appropriate rock is available to support the tension in the upper chord of the span during construction, usually limiting this method to the spanning of narrow canyons.
+
+
+== List by length ==
+
+World's longest cantilever bridges (by longest span):
+Quebec Bridge (Quebec, Canada, 1919) 1,800 feet (549 m)
+Forth Bridge (Firth of Forth, Scotland, 1890) 2 x 1,710 feet (521 m)
+Minato Bridge (Osaka, Japan, 1973) 1,673 feet (510 m)
+Commodore Barry Bridge (Chester, Pennsylvania, USA, 1974) 1,644 feet (501 m)
+Crescent City Connection (dual spans) (New Orleans, Louisiana, USA, 1958 and 1988) 1,575 feet (480 m)
+Howrah Bridge (Kolkata, West Bengal, India, 1943) 1,500 feet (457 m)
+Gramercy Bridge (Gramercy, Louisiana, USA, 1995) 1,460 feet (445 m)
+Tokyo Gate Bridge (Tokyo, Japan, 2012) 1,443 feet (440 m)
+J. C. Van Horne Bridge (Campbellton, New Brunswick & Pointe-à-la-Croix, Quebec,  Canada, 1961) 1,247 feet (380 m)
+Horace Wilkinson Bridge (Baton Rouge, Louisiana, USA, 1968) 1,235 feet (376 m)
+Tappan Zee Bridge (South Nyack, New York & Tarrytown, New York, USA, 1955–2017) 1,212 feet (369 m)
+Lewis and Clark Bridge (Longview, Washington & Rainier, Oregon, USA, 1930) 1,200 feet (366 m)
+
+
+== Examples ==
+
+		
+		
+		
+		
+		
+		
+
+
+== References ==
+
+
+== External links ==
+"Cantilever Bridge" by Sándor Kabai, The Wolfram Demonstrations Project, 2007.
+Biggest of Finished Girders Go Traveling: six giants of 70 tons gave engineers a hard nut to crack, Popular Science monthly, February 1919, page 79, Scanned by Google Books: https://books.google.com/books?id=7igDAAAAMBAJ&pg=PA79
+"Bridge, Cantilever" . The New Student's Reference Work . 1914.

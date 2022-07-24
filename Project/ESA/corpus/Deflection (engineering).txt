@@ -1,0 +1,1458 @@
+In engineering, deflection is the degree to which a part of a structural element is displaced under a load (because it deforms). It may refer to an angle or a distance.
+The deflection distance of a member under a load can be calculated by integrating the function that mathematically describes the slope of the deflected shape of the member under that load. 
+Standard formulas exist for the deflection of common beam configurations and load cases at discrete locations.
+Otherwise methods such as virtual work, direct integration, Castigliano's method, Macaulay's method or the direct stiffness method are used. The deflection of beam elements is usually calculated on the basis of the Euler–Bernoulli beam equation while that of a plate or shell element is calculated using plate or shell theory.
+An example of the use of deflection in this context is in building construction. Architects and engineers select materials for various applications.
+
+
+== Beam deflection for various loads and supports ==
+Beams can vary greatly in their geometry and composition. For instance, a beam may be straight or curved. It may be of constant cross section, or it may taper. It may be made entirely of the same material (homogeneous), or it may be composed of different materials (composite). Some of these things make analysis difficult, but many engineering applications involve cases that are not so complicated. Analysis is simplified if:
+
+The beam is originally straight, and any taper is slight
+The beam experiences only linear elastic deformation
+The beam is slender (its length to height ratio is greater than 10)
+Only small deflections are considered (max deflection less than 1/10 of the span).In this case, the equation governing the beam's deflection (
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+  ) can be approximated as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    
+                      d
+                    
+                    
+                      2
+                    
+                  
+                  w
+                  (
+                  x
+                  )
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    d
+                  
+                  
+                    x
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              M
+              (
+              x
+              )
+            
+            
+              E
+              (
+              x
+              )
+              I
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\cfrac {\mathrm {d} ^{2}w(x)}{\mathrm {d} x^{2}}}={\frac {M(x)}{E(x)I(x)}}}
+  where the second derivative of its deflected shape with respect to 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   (
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   being the horizontal position along the length of the beam) is interpreted as its curvature, 
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   is the Young's modulus, 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   is the area moment of inertia of the cross-section, and 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   is the internal bending moment in the beam.
+If, in addition, the beam is not tapered and is homogeneous, and is acted upon by a distributed load 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  , the above expression  can be written as:
+
+  
+    
+      
+        E
+        I
+         
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    
+                      d
+                    
+                    
+                      4
+                    
+                  
+                  w
+                  (
+                  x
+                  )
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  
+                    d
+                  
+                  
+                    x
+                    
+                      4
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        q
+        (
+        x
+        )
+      
+    
+    {\displaystyle EI~{\cfrac {\mathrm {d} ^{4}w(x)}{\mathrm {d} x^{4}}}=q(x)}
+  This equation can be solved for a variety of loading and boundary conditions. A number of simple examples are shown below. The formulas expressed are approximations developed for long, slender, homogeneous, prismatic beams with small deflections, and linear elastic properties. Under these restrictions, the approximations should give results within 5% of the actual deflection.
+
+
+=== Cantilever beams ===
+Cantilever beams have one end fixed, so that the slope and deflection at that end must be zero.
+
+
+==== End-loaded cantilever beams ====
+
+The elastic deflection 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   and angle of deflection 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+   (in radians) at the free end in the example image: A (weightless) cantilever beam, with an end load, can be calculated (at the free end B) using:
+
+  
+    
+      
+        
+          δ
+          
+            B
+          
+        
+        =
+        
+          
+            
+              F
+              
+                L
+                
+                  3
+                
+              
+            
+            
+              3
+              E
+              I
+            
+          
+        
+      
+    
+    {\displaystyle \delta _{B}={\frac {FL^{3}}{3EI}}}
+  
+  
+    
+      
+        
+          ϕ
+          
+            B
+          
+        
+        =
+        
+          
+            
+              F
+              
+                L
+                
+                  2
+                
+              
+            
+            
+              2
+              E
+              I
+            
+          
+        
+      
+    
+    {\displaystyle \phi _{B}={\frac {FL^{2}}{2EI}}}
+  where
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   = force acting on the tip of the beam
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   = length of the beam (span)
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   = modulus of elasticity
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   = area moment of inertia of the beam's cross sectionNote that if the span doubles, the deflection increases eightfold. The deflection at any point, 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , along the span of an end loaded cantilevered beam can be calculated using:
+
+  
+    
+      
+        
+          δ
+          
+            x
+          
+        
+        =
+        
+          
+            
+              F
+              
+                x
+                
+                  2
+                
+              
+            
+            
+              6
+              E
+              I
+            
+          
+        
+        (
+        3
+        L
+        −
+        x
+        )
+      
+    
+    {\displaystyle \delta _{x}={\frac {Fx^{2}}{6EI}}(3L-x)}
+  
+  
+    
+      
+        
+          ϕ
+          
+            x
+          
+        
+        =
+        
+          
+            
+              F
+              x
+            
+            
+              2
+              E
+              I
+            
+          
+        
+        (
+        2
+        L
+        −
+        x
+        )
+      
+    
+    {\displaystyle \phi _{x}={\frac {Fx}{2EI}}(2L-x)}
+  Note: At 
+  
+    
+      
+        x
+        =
+        L
+      
+    
+    {\displaystyle x=L}
+   (the end of the beam), the 
+  
+    
+      
+        
+          δ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \delta _{x}}
+   and 
+  
+    
+      
+        
+          ϕ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \phi _{x}}
+   equations are identical to the 
+  
+    
+      
+        
+          δ
+          
+            B
+          
+        
+      
+    
+    {\displaystyle \delta _{B}}
+   and 
+  
+    
+      
+        
+          ϕ
+          
+            B
+          
+        
+      
+    
+    {\displaystyle \phi _{B}}
+   equations above.
+
+
+==== Uniformly-loaded cantilever beams ====
+
+The deflection, at the free end B, of a cantilevered beam under a uniform load is given by:
+
+  
+    
+      
+        
+          δ
+          
+            B
+          
+        
+        =
+        
+          
+            
+              q
+              
+                L
+                
+                  4
+                
+              
+            
+            
+              8
+              E
+              I
+            
+          
+        
+      
+    
+    {\displaystyle \delta _{B}={\frac {qL^{4}}{8EI}}}
+  
+  
+    
+      
+        
+          ϕ
+          
+            B
+          
+        
+        =
+        
+          
+            
+              q
+              
+                L
+                
+                  3
+                
+              
+            
+            
+              6
+              E
+              I
+            
+          
+        
+      
+    
+    {\displaystyle \phi _{B}={\frac {qL^{3}}{6EI}}}
+  where
+
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   = uniform load on the beam (force per unit length)
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   = length of the beam
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   = modulus of elasticity
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   = area moment of inertia of cross sectionThe deflection at any point, 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , along the span of a uniformly loaded cantilevered beam can be calculated using:
+
+  
+    
+      
+        
+          δ
+          
+            x
+          
+        
+        =
+        
+          
+            
+              q
+              
+                x
+                
+                  2
+                
+              
+            
+            
+              24
+              E
+              I
+            
+          
+        
+        (
+        6
+        
+          L
+          
+            2
+          
+        
+        −
+        4
+        L
+        x
+        +
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \delta _{x}={\frac {qx^{2}}{24EI}}(6L^{2}-4Lx+x^{2})}
+  
+  
+    
+      
+        
+          ϕ
+          
+            x
+          
+        
+        =
+        
+          
+            
+              q
+              x
+            
+            
+              6
+              E
+              I
+            
+          
+        
+        (
+        3
+        
+          L
+          
+            2
+          
+        
+        −
+        3
+        L
+        x
+        +
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \phi _{x}={\frac {qx}{6EI}}(3L^{2}-3Lx+x^{2})}
+  
+
+
+=== Simply-supported beams ===
+Simply-supported beams have supports under their ends which allow rotation, but not deflection.
+
+
+==== Center-loaded simple beams ====
+
+The deflection at any point, 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , along the span of a center loaded simply supported beam can be calculated using:
+
+  
+    
+      
+        
+          δ
+          
+            x
+          
+        
+        =
+        
+          
+            
+              F
+              x
+            
+            
+              48
+              E
+              I
+            
+          
+        
+        (
+        3
+        
+          L
+          
+            2
+          
+        
+        −
+        4
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \delta _{x}={\frac {Fx}{48EI}}(3L^{2}-4x^{2})}
+  for
+
+  
+    
+      
+        0
+        ≤
+        x
+        ≤
+        
+          
+            L
+            2
+          
+        
+      
+    
+    {\displaystyle 0\leq x\leq {\frac {L}{2}}}
+  The special case of elastic deflection at the midpoint C of a beam, loaded at its center, supported by two simple supports is then given by:
+
+  
+    
+      
+        
+          δ
+          
+            C
+          
+        
+        =
+        
+          
+            
+              F
+              
+                L
+                
+                  3
+                
+              
+            
+            
+              48
+              E
+              I
+            
+          
+        
+      
+    
+    {\displaystyle \delta _{C}={\frac {FL^{3}}{48EI}}}
+  where
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   = force acting on the center of the beam
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   = length of the beam between the supports
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   = modulus of elasticity
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   = area moment of inertia of cross section
+
+
+==== Off-center-loaded simple beams ====
+
+The maximum elastic deflection on a beam supported by two simple supports, loaded at a distance 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   from the closest support, is given by:
+
+  
+    
+      
+        
+          δ
+          
+            m
+            a
+            x
+          
+        
+        =
+        
+          
+            
+              F
+              a
+              (
+              
+                L
+                
+                  2
+                
+              
+              −
+              
+                a
+                
+                  2
+                
+              
+              
+                )
+                
+                  3
+                  
+                    /
+                  
+                  2
+                
+              
+            
+            
+              9
+              
+                
+                  3
+                
+              
+              L
+              E
+              I
+            
+          
+        
+      
+    
+    {\displaystyle \delta _{max}={\frac {Fa(L^{2}-a^{2})^{3/2}}{9{\sqrt {3}}LEI}}}
+  where
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   = force acting on the beam
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   = length of the beam between the supports
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   = modulus of elasticity
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   = area moment of inertia of cross-section
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   = distance from the load to the closest supportThis maximum deflection occurs at a distance 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   from the closest support and is given by:
+
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          
+            
+              
+                
+                  L
+                  
+                    2
+                  
+                
+                −
+                
+                  a
+                  
+                    2
+                  
+                
+              
+              3
+            
+          
+        
+      
+    
+    {\displaystyle x_{1}={\sqrt {\frac {L^{2}-a^{2}}{3}}}}
+  
+
+
+==== Uniformly-loaded simple beams ====
+
+The elastic deflection (at the midpoint C) on a beam supported by two simple supports, under a uniform load (as pictured) is given by:
+
+  
+    
+      
+        
+          δ
+          
+            C
+          
+        
+        =
+        
+          
+            
+              5
+              q
+              
+                L
+                
+                  4
+                
+              
+            
+            
+              384
+              E
+              I
+            
+          
+        
+      
+    
+    {\displaystyle \delta _{C}={\frac {5qL^{4}}{384EI}}}
+  Where 
+
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   = uniform load on the beam (force per unit length)
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   = length of the beam
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   = modulus of elasticity
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   = area moment of inertia of cross sectionThe deflection at any point, 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , along the span of a uniformly loaded simply supported beam can be calculated using:
+
+  
+    
+      
+        
+          δ
+          
+            x
+          
+        
+        =
+        
+          
+            
+              q
+              x
+            
+            
+              24
+              E
+              I
+            
+          
+        
+        (
+        
+          L
+          
+            3
+          
+        
+        −
+        2
+        L
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          x
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle \delta _{x}={\frac {qx}{24EI}}(L^{3}-2Lx^{2}+x^{3})}
+  
+
+
+=== Change in length ===
+The change in length 
+  
+    
+      
+        Δ
+        L
+      
+    
+    {\displaystyle \Delta L}
+   of the beam is generally negligible in structures, but can be calculated by integrating the slope 
+  
+    
+      
+        
+          θ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \theta _{x}}
+   function, if the deflection function 
+  
+    
+      
+        
+          δ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \delta _{x}}
+   is known for all 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  .
+Where:
+
+  
+    
+      
+        Δ
+        L
+      
+    
+    {\displaystyle \Delta L}
+   = change in length (always negative)
+
+  
+    
+      
+        
+          θ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \theta _{x}}
+   = slope function (first derivative of 
+  
+    
+      
+        
+          δ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \delta _{x}}
+  )
+
+  
+    
+      
+        Δ
+        L
+        =
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            L
+          
+        
+        (
+        θ
+        (
+        x
+        )
+        
+          )
+          
+            2
+          
+        
+        d
+        x
+      
+    
+    {\displaystyle \Delta L=-{\frac {1}{2}}\int _{0}^{L}(\theta (x))^{2}dx}
+   If the beam is uniform and the deflection at any point is known, this can be calculated without knowing other properties of the beam.
+
+
+== Units ==
+The formulas supplied above require the use of a consistent set of units. Most calculations will be made in the International System of Units (SI) or US customary units, although there are many other systems of units.
+
+
+=== International system (SI) ===
+Force: newtons (
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  )
+Length: metres (
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  )
+Modulus of elasticity: 
+  
+    
+      
+        
+          
+            N
+            
+              m
+              
+                2
+              
+            
+          
+        
+        (
+        P
+        a
+        )
+      
+    
+    {\displaystyle {\frac {N}{m^{2}}}(Pa)}
+  
+Moment of inertia: 
+  
+    
+      
+        
+          m
+          
+            4
+          
+        
+      
+    
+    {\displaystyle m^{4}}
+  
+
+
+=== US customary units (US) ===
+Force: pounds force (
+  
+    
+      
+        l
+        
+          b
+          
+            f
+          
+        
+      
+    
+    {\displaystyle lb_{f}}
+  )
+Length: inches (
+  
+    
+      
+        i
+        n
+      
+    
+    {\displaystyle in}
+  )
+Modulus of elasticity: 
+  
+    
+      
+        
+          
+            
+              l
+              
+                b
+                
+                  f
+                
+              
+            
+            
+              i
+              
+                n
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {lb_{f}}{in^{2}}}}
+  
+Moment of inertia: 
+  
+    
+      
+        i
+        
+          n
+          
+            4
+          
+        
+      
+    
+    {\displaystyle in^{4}}
+  
+
+
+=== Others ===
+Other units may be used as well, as long as they are self-consistent. For example, sometimes the kilogram-force (
+  
+    
+      
+        k
+        
+          g
+          
+            f
+          
+        
+      
+    
+    {\displaystyle kg_{f}}
+  ) unit is used to measure loads. In such a case, the modulus of elasticity must be converted to 
+  
+    
+      
+        
+          
+            
+              k
+              
+                g
+                
+                  f
+                
+              
+            
+            
+              m
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {kg_{f}}{m^{2}}}}
+  .
+
+
+== Structural deflection ==
+Building codes determine the maximum deflection, usually as a fraction of the span e.g. 1/400 or 1/600. Either the strength limit state (allowable stress) or the serviceability limit state (deflection considerations among others) may govern the minimum dimensions of the member required.
+The deflection must be considered for the purpose of the structure. When designing a steel frame to hold a glazed panel, one allows only minimal deflection to prevent  fracture of the glass.
+The deflected shape of a beam can be represented by the moment diagram, integrated (twice, rotated and translated to enforce support conditions).
+
+
+== See also ==
+Slope deflection method
+
+
+== References ==
+
+
+== External links ==
+Deflection of beams
+Beam Deflections

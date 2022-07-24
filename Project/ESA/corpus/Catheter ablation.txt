@@ -1,0 +1,25 @@
+Catheter ablation is a procedure used to remove or terminate a faulty electrical pathway from sections of the heart of those who are prone to developing cardiac arrhythmias such as atrial fibrillation, atrial flutter and Wolff-Parkinson-White syndrome. If not controlled, such arrhythmias increase the risk of ventricular fibrillation and sudden cardiac arrest. The ablation procedure can be classified by energy source: radiofrequency ablation and cryoablation.
+
+
+== Medical uses ==
+Catheter ablation may be recommended for a recurrent or persistent arrhythmia resulting in symptoms or other dysfunction. Typically, catheter ablation is used only when pharmacologic treatment has been ineffective.
+
+
+=== Effectiveness ===
+Catheter ablation of most arrhythmias has a high success rate. Success rates for WPW syndrome have been as high as 95%  For SVT, single procedure success is 91% to 96% (95% CI) and multiple procedure success is 92% to 97% (95% CI). For atrial flutter, single procedure success is 88% to 95% (95% CI) and multiple procedure success is 95% to 99% (95% CI). For automatic atrial tachycardias, the success rates are 70–90%. The potential complications include bleeding, blood clots, pericardial tamponade, and heart block, but these risks are very low, ranging from 2.6–3.2%.
+For atrial fibrillation, several experienced teams of electrophysiologists in US heart centers claim they can achieve up to a 75% success rate. However one recent study claims that the success rates are in fact much lower – at 28% for single procedures. Often, several procedures are needed to raise the success rate to the 70–80% range.  One reason for this may be that once the heart has undergone atrial remodeling as in the case of chronic atrial fibrillation sufferers, largely 50 and older, it is much more difficult to correct the 'bad' electrical pathways. Young people with AF with paroxysmal, or intermittent, AF therefore have an increased chance of success with an ablation since their heart has not undergone atrial remodeling yet.
+
+
+== Risks ==
+Risks of catheter ablation for atrial fibrillation include, but are not limited to: stroke, esophageal injury, pulmonary vein stenosis, and death.
+
+
+== Technique ==
+Catheter ablation involves advancing several flexible catheters into the patient's blood vessels, usually either in the femoral vein, internal jugular vein, or subclavian vein. The catheters are then advanced towards the heart. Electrical impulses are then used to induce the arrhythmia and local heating or freezing is used to ablate (destroy) the abnormal tissue that is causing it. Originally, a DC impulse was used to create lesions in the intra-cardiac conduction system. However, due to a high incidence of complications, widespread use was never achieved. Newer procedures allow for the terminating of diseased or dying tissue to reduce the chance of arrhythmia.Catheter ablation is usually performed by an electrophysiologist (a specially trained cardiologist) in a cath lab or a specialized EP lab.
+
+
+== Recovery or rehabilitation ==
+After catheter ablation the patients are moved to a cardiac recovery unit, intensive care unit, or cardiovascular intensive care unit  where they are not allowed to move for 4–6 hours.  Minimizing movement helps prevent bleeding from the site of catheter insertion.  Some people have to stay overnight for observation, some need to stay much longer and others are able to go home on the same day. This all depends on the problem, the length of the operation and whether or not general anaesthetic was used.
+
+
+== References ==

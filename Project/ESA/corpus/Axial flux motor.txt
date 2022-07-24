@@ -1,0 +1,25 @@
+An axial flux motor (also known as an axial gap motor, or pancake motor) is a geometry of electric motor construction where the gap between the rotor and stator, and therefore the direction of magnetic flux between the two, is aligned parallel with the axis of rotation, rather than radially as with the concentric cylindrical geometry of the more common radial gap motor.Although this geometry has been used since the first electromagnetic motors were developed, its usage was rare until the widespread availability of strong permanent magnets and the development of brushless DC motors, which could better exploit this geometry's advantages. 
+Axial geometry can be applied to almost any operating principle (e.g. brushed DC, induction, stepper, reluctance) that can be used in a radial motor. Axial designs allow some topologies that would not be practical in a radial geometry. Even for the same operating principle, application and design considerations make one geometry more suitable than the other. Axial motors are typically shorter and wider than an equivalent radial motor.
+
+Yokeless axial flux motors provide excellent torque densities. 
+Axial motors have been used for low-power applications, since the motor can be built directly upon a printed circuit board (PCB), and can use PCB traces as the stator windings. High-power, brushless axial motors are more recent. One successful brushed DC axial motor is the Lynch motor, where the rotor is almost entirely composed of flat copper strips with small iron cores inserted, allowing power-dense operation.
+
+
+== Benefits ==
+A motor can be built upon any flat structure, such as a PCB, by adding coils and a bearing.
+The coil winding process and the process of joining the coil and core may be simpler.
+Since the coils are flat, rectangular copper strips can more easily be used simplifying high-current windings.
+It is often possible to make the rotor significantly lighter.
+The rotor-stator gap can be smaller since it is not affected by centrifugal forces and can be adjusted after construction.
+Potentially shorter magnetic path length.
+Most structural components are flat and can be produced without specialised casting or tooling.
+Since the magnetic path through the windings is straight, grain-oriented electrical steel can be easily used, offering higher permeability and lower core losses.
+
+
+== Detriments ==
+The rotor is typically much wider, causing increased rotational inertia and centrifugal forces, which can reduce the maximum rotational speed.
+Uneven flux distribution due to wedge-shaped segments.
+The segments narrow towards the centre, leaving less room to arrange windings and connections.
+
+
+== References ==

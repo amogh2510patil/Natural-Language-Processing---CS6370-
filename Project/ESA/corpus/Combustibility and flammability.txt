@@ -1,0 +1,137 @@
+A combustible material is something that can burn (i.e., combust) in air. A combustible material is flammable if it ignites easily at ambient temperatures. In other words, a combustible material ignites with some effort and a flammable material catches fire immediately on exposure to flame.
+The degree of flammability or combustibility in air depends largely upon the volatility of the material - this is related to its composition-specific vapour pressure, which is temperature dependent. The quantity of vapour produced can be enhanced by increasing the surface area of the material forming a mist or dust. Take wood as an example. Finely divided wood dust can undergo explosive combustion and produce a blast wave.  A piece of paper (made from wood) catches on fire quite easily. A heavy oak desk is much harder to ignite, even though the wood fibre is the same in all three materials.
+Common sense (and indeed scientific consensus until the mid-1700s) would seem to suggest that material "disappears" when burned, as only the ash is left. In fact, there is an increase in weight because the combustible material reacts (or combines) chemically with oxygen, which also has mass. The original mass of combustible material and the mass of the oxygen required for combustion equals the mass of the combustion products (ash, water, carbon dioxide, and other gases).  Antoine Lavoisier, one of the pioneers in these early insights, stated that Nothing is lost, nothing is created, everything is transformed, which would later be known as the law of conservation of mass.  Lavoisier used the experimental fact that some metals gained mass when they burned to support his ideas.
+
+
+== Definitions ==
+Historically, flammable, inflammable and combustible meant capable of burning. The word "inflammable" came through French from the Latin inflammāre = "to set fire to," where the Latin preposition "in-" means "in" as in "indoctrinate", rather than "not" as in "invisible" and "ineligible".
+The word "inflammable" may be erroneously thought to mean "non-flammable". The erroneous usage of the word "inflammable" is a significant safety hazard. Therefore, since the 1950s, efforts to put forward the use of "flammable" in place of "inflammable" were accepted by linguists, and it is now the accepted standard in American English and British English.  Antonyms of "flammable" or "inflammable" include: non-flammable, non-inflammable, incombustible, non-combustible, not flammable, and fireproof.
+Flammable applies to combustible materials that ignite easily and thus are more dangerous and more highly regulated. Less easily ignited less-vigorously burning materials are combustible. For example, in the United States flammable liquids, by definition, have a flash point below 100 °F (38 °C)—where combustible liquids have a flash point above 100 °F (38 °C). Flammable solids are solids that are readily combustible, or may cause or contribute to fire through friction. Readily combustible solids are powdered, granular, or pasty substances that easily ignite by brief contact with an ignition source, such as a burning match, and spread flame rapidly. The technical definitions vary between countries so the United Nations created the Globally Harmonized System of Classification and Labeling of Chemicals, which defines the flash point temperature of flammable liquids as between 0 and 140 °F (60 °C) and combustible liquids between 140 °F (60 °C) and 200 °F (93 °C).
+
+
+== Flammability ==
+Flammability is the ease with which a combustible substance can be ignited, causing fire or combustion or even an explosion. The degree of difficulty required to cause the combustion of a substance is quantified through fire testing. Internationally, a variety of test protocols exist to quantify flammability. The ratings achieved are used in building codes, insurance requirements, fire codes and other regulations governing the use of building materials as well as the storage and handling of highly flammable substances inside and outside of structures and in surface and air transportation. For instance, changing an occupancy by altering the flammability of the contents requires the owner of a building to apply for a building permit to make sure that the overall fire protection design basis of the facility can take the change into account.
+
+
+=== Testing ===
+A fire test can be conducted to determine the degree of flammability. Test standards used to make this determination but are not limited to the following:
+
+Underwriters Laboratories UL 94 Flammability Testing
+International Electrotechnical Commission IEC 60707, 60695-11-10 and 60695-11-20
+International Organization for Standardization ISO 9772 and 9773.
+National Fire Protection Association NFPA 287 Standard Test Methods for Measurement of Flammability of Materials in Cleanrooms Using a Fire Propagation Apparatus (FPA)
+NFPA 701: Standard Methods of Fire Tests for Flame Propagation of Textiles and Films
+NFPA 850: Recommended Practice for Fire Protection for Electric Generating Plants and High Voltage Direct Current Converter Stations
+
+
+=== Furniture flammability ===
+Flammability of furniture is of concern as cigarettes and candle accidents can trigger domestic fires. In 1975, California began implementing Technical Bulletin 117 (TB 117), which required that materials such as polyurethane foam used to fill furniture be able to withstand a small open flame, equivalent to a candle, for at least 12 seconds. In polyurethane foam, furniture manufacturers typically meet TB 117 with additive halogenated organic flame retardants. No other U.S. states had similar standards, but because California has such a large market, manufacturers meet TB 117 in products that they distribute across the United States. The proliferation of flame retardants, and especially halogenated organic flame retardants, in furniture across the United States is strongly linked to TB 117. When it became apparent that the risk-benefit ratio of this approach was unfavorable and industry had used falsified documentation (i.e. see David Heimbach) for the use of flame retardants, California modified TB 117 to require that fabric covering upholstered furniture meet a smolder test replacing the open flame test.  Gov. Jerry Brown signed the modified TB117-2013, which became effective in 2014.
+
+
+=== Examples of flammable substances ===
+Flammable substances include, but are not limited to:
+
+Gasoline - Petrol / a complicated mixture of hydrocarbons that includes isomers of octane, C8H18
+Ethanol / CH3CH2OH
+Rubber
+Isopropyl alcohol / CH3CH(OH)CH3
+Methanol /  CH3OH
+Wood
+Acetone / CH3COCH3
+Paper
+Nitromethane / CH3NO2
+
+
+=== Examples of nonflammable liquids ===
+Water
+Carbon tetrachloride
+
+
+=== Classification of flammability ===
+The US Government uses the Hazardous Materials Identification System (HMIS) standard for flammability ratings, as do many US regulatory agencies, and also the US National Fire Protection Association (NFPA).
+The ratings are as follows:
+
+
+=== Codes ===
+
+
+==== Flammability ====
+For existing buildings, fire codes focus on maintaining the occupancies as originally intended. In other words, if a portion of a building were designed as an apartment, one could not suddenly load it with flammable liquids and turn it into a gas storage facility, because the fire load and smoke development in that one apartment would be so immense as to overtax the active fire protection as well as the passive fire protection means for the building. The handling and use of flammable substances inside a building is subject to the local fire code, which is ordinarily enforced by the local fire prevention officer.
+
+
+== Combustibility ==
+Combustibility is a measure of how easily a substance bursts into flame, through fire or combustion.  This is an important property to consider when a substance is used for construction or is being stored.  It is also important in processes that produce combustible substances as a by-product. Special precautions are usually required for substances that are easily combustible.  These measures may include installation of fire sprinklers or storage remote from possible sources of ignition.
+Substances with low combustibility may be selected for construction where the fire risk must be reduced, such as apartment buildings, houses, or offices. If combustible resources are used there is greater chance of fire accidents and deaths.  Fire resistant substances are preferred for building materials and furnishings.
+
+
+=== Code definitions ===
+For an Authority Having Jurisdiction, combustibility is defined by the local code. In the National Building Code of Canada, it is defined as follows:
+
+Combustible: A material that fails to meet acceptance criteria of CAN/ULC-S114, Standard Method of Test for Determination of Noncombustibility in Building Materials.This leads to the definition of noncombustible:Non-combustible: means that a material meets the acceptance criteria of CAN4-S114, "Standard Method of Test for Determination of Non-Combustibility in Building Materials".BS 476-4:1970 defines a test for combustibility in which a technician heats three specimens of a material in a furnace. Combustibile materials are those for which any of the three specimens either:
+
+Makes the temperature reading from either of two thermocouples rise by 50 degrees Celsius or more above the initial furnace temperature
+Flame continuously for 10 seconds or more inside the furnaceOtherwise, the material is classified as non-combustible.
+
+
+=== Fire testing ===
+
+Various countries have tests for determining noncombustibility of materials. Most involve the heating of a specified quantity of the test specimen for a set duration. Usually, the material must not support combustion and must not lose more than a certain amount of mass. As a general rule of thumb, concrete, steel, and ceramics - in other words inorganic substances - pass these tests, so building codes list them as suitable and sometimes even mandate their use in certain applications. In Canada, for instance, firewalls must be made of concrete.
+
+
+=== Combustible dust ===
+
+A number of industrial processes produce combustible dust as a by-product. The most common being wood dust. Combustible dust has been defined as: a solid material composed of distinct particles or pieces, regardless of size, shape, or chemical composition, which presents a fire or deflagration hazard when suspended in air or some other oxidizing medium over a range of concentrations. In addition to wood, combustible dusts include metals, especially magnesium, titanium and aluminum, as well as other carbon-based dusts. There are at least 140 known substances that produce combustible dust.: 38  While the particles in a combustible dusts may be of any size, normally they have a diameter of less than 420 μm.  As of 2012, the United States Occupational Safety and Health Administration has yet to adopt a comprehensive set of rules on combustible dust.When suspended in air (or any oxidizing environment), the fine particles of combustible dust present a potential for explosions. Accumulated dust, even when not suspended in air, remains a fire hazard. The National Fire Protection Association (U.S.) specifically addresses the prevention of fires and dust explosions in agricultural and food products facilities in NFPA Code section 61, and other industries in NFPA Code sections 651–664.  Collectors designed to reduce airborne dust account for more than 40 percent of all dust explosions. Other important processes are grinding and pulverizing, transporting powders, filing silos and containers (which produces powder), and the mixing and blending of powders.Investigation of 200 dust explosions and fires, between 1980 to 2005, indicated approximately 100 fatalities and 600 injuries.: 105–106  In January 2003, a polyethylene powder explosion and fire at the West Pharmaceutical Services plant in Kinston, North Carolina resulted in the deaths of six workers and injuries to 38 others.: 104  In February 2008 an explosion of sugar dust rocked the Imperial Sugar Company's plant at Port Wentworth, Georgia, resulting in thirteen deaths.Non-combustible material  – A non-combustible material is a substance that does not ignite, burn, support combustion, or release flammable vapors when subject to fire or heat, in the form in which it is used and under conditions anticipated. Any solid substance complying with either of two sets of passing criteria listed in Section 8 of ASTM E 136 when the substance is tested in accordance with the procedure specified in ASTM E 136 is considered to be non-combustible.
+
+
+== Categorization of building materials ==
+
+		
+		
+		
+		
+Materials can be tested for the degree of flammability and combustibility in accordance with the German DIN 4102. DIN 4102, as well as its British cousin BS 476 include for testing of passive fire protection systems, as well as some of its constituent materials.
+The following are the categories in order of degree of combustibility and flammability:
+
+A more recent industrial standard is the European EN 13501-1 - Fire classification of construction products and building elements—which roughly replaces A2 with A2/B, B1 with C, B2 with D/E and B3 with F.
+B3 or F rated materials may not be used in building unless combined with another material that reduces the flammability of those materials.
+
+
+== Important characteristics ==
+
+
+=== Flash point ===
+A material's flash point is a metric of how easy it is to ignite the vapor of the material as it evaporates into the atmosphere.  A lower flash point indicates higher flammability.  Materials with flash points below 100 °F (38 °C) are regulated in the United States by OSHA as potential workplace hazards.
+
+
+=== Vapor pressure ===
+The vapor pressure of a liquid, which varies with its temperature, is a measure of how much the vapor of the liquid tends to concentrate in the surrounding atmosphere as the liquid evaporates.  Vapor pressure is a major determinant of the flash point, with higher vapor pressures leading to lower flash points and higher flammability.
+
+
+== See also ==
+Explosive material
+Fire
+Fire test
+Fire protection
+Active fire protection
+Passive fire protection
+Flammable liquids
+Flammable limit
+Underwriters Laboratories
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Videos showing flammability of cables based on jacket rating
+Fire Performance of Ageing Cable Compounds, NFPA Treatise by Dr. Perry Marteny
+Fire Testing Laboratory
+CAN4-S114 CAN/ULC-S114 Abstract
+iBMB/TU Braunschweig Governmental Lab for Testing Building Materials
+BAM Abstract and Picture of Noncombustibility Test in Progress
+ASTM E136 Standard Test Method for Behavior of Materials in a Vertical Tube Furnace at 750°C abstract
+"Combustible Dust: Agricultural Related Fires and Explosions Increasing, but Preventable" Division of Occupational Safety and Health, N.C. Department of Labor
+Combustible Dust: A Major Hot Work Hazard" Division of Occupational Safety and Health, N.C. Department of Labor

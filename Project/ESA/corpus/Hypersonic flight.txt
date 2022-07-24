@@ -1,0 +1,344 @@
+Hypersonic flight is flight through the atmosphere below altitudes of about 90 km at speeds greater than Mach 5, a speed where dissociation of air begins to become significant and high heat loads exist. Speeds of Mach 25+ have been achieved below the thermosphere as of 2020. 
+
+
+== History ==
+The first manufactured object to achieve hypersonic flight was the two-stage Bumper rocket, consisting of a WAC Corporal second stage set on top of a V-2 first stage. In February 1949, at White Sands, the rocket reached a speed of 8,288.12 km/h (5,150 mph), or approximately Mach 6.7. The vehicle, however, burned on atmospheric re-entry, and only charred remnants were found. In April 1961, Russian Major Yuri Gagarin became the first human to travel at hypersonic speed, during the world's first piloted orbital flight. Soon after, in May 1961, Alan Shepard became the first American and second person to achieve hypersonic flight when his capsule reentered the atmosphere at a speed above Mach 5 at the end of his suborbital flight over the Atlantic Ocean.In November 1961, Air Force Major Robert White flew the X-15 research airplane at speeds over Mach 6.
+On 3 October 1967, in California, an X-15 reached Mach 6.7.The reentry problem of a space vehicle was extensively studied. 
+The NASA X-43A flew on scramjet for 10 seconds, and then glided for 10 minutes on its last flight in 2004.
+The Boeing X-51 Waverider flew on scramjet for 210 seconds in 2013, finally reaching Mach 5.1 on its fourth flight test.
+The hypersonic regime has since become the subject for further study during the 21st century, and strategic competition between the United States, India, Russia, and China.
+
+
+== Physics ==
+
+
+=== Stagnation point ===
+The stagnation point of air flowing around a body is a point where its local velocity is zero. At this point the air flows around this location. A shock wave forms, which deflects the air from the stagnation point and insulates the flight body from the atmosphere. This can affect the lifting ability of a flight surface to counteract its drag and subsequent free fall.In order to maneuver in the atmosphere at faster speeds than supersonic, the forms of propulsion can still be airbreathing systems, but a ramjet does not suffice for a system to attain Mach 5, as a ramjet slows down the airflow to subsonic. Some systems (waveriders) use a first stage rocket to boost a body into the hypersonic regime. Other systems (boost-glide vehicles) use scramjets after their initial boost, in which the speed of the air passing through the scramjet remains supersonic. Other systems (munitions) use a cannon for their initial boost.
+
+
+=== High temperature effect ===
+Hypersonic flow is a high energy flow. The ratio of kinetic energy to the internal energy of the gas increases as the square of the Mach number. When this flow enters a boundary layer, there are high viscous effects due to the friction between air and the high-speed object. In this case, the high kinetic energy is converted in part to internal energy and gas energy is proportional to the internal energy. Therefore, hypersonic boundary layers are high temperature regions due to the viscous dissipation of the flow's kinetic energy. Another region of high temperature flow is the shock layer behind the strong bow shock wave. In the case of the shock layer, the flows velocity decreases discontinuously as it passes through the shock wave. This results in a loss of kinetic energy and a gain of internal energy behind the shock wave. Due to high temperatures behind the shock wave, dissociation of molecules in the air becomes thermally active. For example, for air at T > 2000 K, dissociation of diatomic oxygen into oxygen radicals is active: O2 → 2O: 41  For T > 4000 K, dissociation of diatomic nitrogen into N radicals is active: N2 → 2N: 39  Consequently, in this temperature range, molecular dissociation followed by recombination of oxygen and nitrogen radicals produces nitric oxide: N2 + O2 → 2NO, which then dissociates and recombines to form ions: N + O → NO+ + e−: 39 
+
+
+=== Low density flow ===
+At standard sea-level condition for air, the mean free path of air molecules is about 
+  
+    
+      
+        λ
+        =
+        68
+        
+        
+          n
+          m
+        
+      
+    
+    {\displaystyle \lambda =68\,\mathrm {nm} }
+  . Low density air is much thinner. At an altitude of 104 km (342,000 ft) the mean free path is 
+  
+    
+      
+        λ
+        =
+        1
+        
+        
+          f
+          t
+        
+        =
+        0.305
+        
+        
+          m
+        
+      
+    
+    {\displaystyle \lambda =1\,\mathrm {ft} =0.305\,\mathrm {m} }
+  . Because of this large free mean path aerodynamic concepts, equations, and results based on the assumption of a continuum begin to break down, therefore aerodynamics must be considered from kinetic theory. This regime of aerodynamics is called low-density flow.
+For a given aerodynamic condition low-density effects depends on the value of a nondimensional parameter called the Knudsen number 
+  
+    
+      
+        
+          K
+          n
+        
+      
+    
+    {\displaystyle \mathrm {Kn} }
+  , defined as 
+  
+    
+      
+        
+          K
+          n
+        
+        =
+        
+          
+            λ
+            l
+          
+        
+      
+    
+    {\displaystyle \mathrm {Kn} ={\frac {\lambda }{l}}}
+   where 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   is the typical length scale of the object considered. The value of the Knudsen number based on nose radius, 
+  
+    
+      
+        
+          K
+          n
+        
+        =
+        
+          
+            λ
+            R
+          
+        
+      
+    
+    {\displaystyle \mathrm {Kn} ={\frac {\lambda }{R}}}
+  , can be near one.
+Hypersonic vehicles frequently fly at very high altitudes and therefore encounter low-density conditions. Hence, the design and analysis of hypersonic vehicles sometimes require consideration of low-density flow. New generations of hypersonic airplanes may spend a considerable portion of their mission at high altitudes, and for these vehicles, low-density effects will become more significant.
+
+
+=== Thin shock layer ===
+The flow field between the shock wave and the body surface is called the shock layer. As the Mach number M increases, the angle of the resulting shock wave decreases. This Mach angle is described by the equation 
+  
+    
+      
+        μ
+        =
+        
+          sin
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        a
+        
+          /
+        
+        v
+        )
+      
+    
+    {\displaystyle \mu =\sin ^{-1}(a/v)}
+   where a is the speed of the sound wave and v is the flow velocity. Since M=v/a, the equation becomes 
+  
+    
+      
+        μ
+        =
+        
+          sin
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        1
+        
+          /
+        
+        M
+        )
+      
+    
+    {\displaystyle \mu =\sin ^{-1}(1/M)}
+  . Higher Mach numbers position the shock wave closer to the body surface, thus at hypersonic speeds, the shock wave lies extremely close to the body surface, resulting in a thin shock layer. At low Reynolds number, the boundary layer grows quite thick and merges with the shock wave, leading to a fully viscous shock layer.
+
+
+=== Viscous interaction ===
+The compressible flow boundary layer increases proportionately to the square of the Mach number, and inversely to the square root of the Reynolds number.
+At hypersonic speeds, this effect becomes much more pronounced, due to the exponential reliance on the Mach number. Since the boundary layer becomes so large, it interacts more viscously with the surrounding flow. The overall effect of this interaction is to create a much higher skin friction than normal, causing greater surface heat flow. Additionally, the surface pressure spikes, which results in a much larger aerodynamic drag coefficient. This effect is extreme at the leading edge and decreases as a function of length along the surface.
+
+
+=== Entropy layer ===
+The entropy layer is a region of large velocity gradients caused by the strong curvature of the shock wave. The entropy layer begins at the nose of the aircraft and extends downstream close to the body surface. Downstream of the nose, the entropy layer interacts with the boundary layer which causes an increase in aerodynamic heating at the body surface. Although the shock wave at the nose at supersonic speeds is also curved, the entropy layer is only observed at hypersonic speeds because the magnitude of the curve is far greater at hypersonic speeds.
+
+
+== Applications ==
+
+
+=== Weapons ===
+
+
+==== China and Russia ====
+ 
+
+Two main types of hypersonic weapons are hypersonic cruise missiles and hypersonic glide vehicles. Hypersonic weapons, by definition, travel five or more times the speed of sound. Hypersonic cruise missiles, which are powered by scramjets, are limited to below 100,000 feet (30,000 m); hypersonic glide vehicles can travel higher. Compared to a ballistic (parabolic) trajectory, a hypersonic vehicle would be capable of large-angle deviations from a parabolic trajectory. According to a July 2019 report by CNBC, Russia and China lead in hypersonic weapon development, trailed by the United States, and in this case the problem is being addressed in a joint program of the entire Department of Defense. To meet this development need, the US Army is participating in a joint program with the US Navy and Air Force, to develop a hypersonic glide body.  India is also developing such weapons. France and Australia may also be pursuing the technology. Japan is acquiring both scramjet (Hypersonic Cruise Missile), and boost-glide weapons (Hyper Velocity Gliding Projectile).China's XingKong-2 (星空二号, Starry-sky-2), a waverider, had its first flight 3 August 2018. In August 2021 China launched a boost-glide vehicle to low-earth orbit, circling Earth before maneuvering toward its target location, missing its target by two dozen miles. However China has responded that the vehicle was a spacecraft, and not a missile; there was a July 2021 test of a spaceplane, according to Chinese Foreign Ministry Spokesperson Zhao Lijian; Todd Harrison points out that an orbital trajectory would take 90 minutes for a spaceplane to circle Earth (which would defeat the mission of a weapon in hypersonic flight). The US DoD's headquarters (The Pentagon) reported in October 2021 that two such hypersonic launches have occurred; one launch did not demonstrate the accuracy needed for a precision weapon; the second launch by China demonstrated its ability to change trajectories, according to Pentagon reports on the 2021 competition in arms capabilities.In 2016, Russia is believed to have conducted two successful tests of Avangard, a hypersonic glide vehicle. The third known test, in 2017, failed. In 2018, an Avangard was launched at the Dombarovskiy missile base, reaching its target at the Kura shooting range, a distance of 3700 miles (5955 km).  Avangard uses new composite materials which are to withstand temperatures of up to 2,000 degrees Celsius (3,632 degrees Fahrenheit). The Avangard's environment at hypersonic speeds reaches such temperatures. Russia considered its carbon fiber solution to be unreliable, and replaced it with new composite materials. Two Avangard hypersonic glide vehicles (HGVs) will first be mounted on SS-19 ICBMs; on 27 December 2019 the weapon was first fielded to the Yasnensky Missile Division, a unit in the Orenburg Oblast. In an earlier report, Franz-Stefan Gady named the unit as the 13th Regiment/Dombarovskiy Division (Strategic Missile Force).
+In 2021 Russia launched a 3M22 Zircon antiship missile over the White Sea, as part of a series of tests. "Kinzhal and Zircon (Tsirkon) are standoff strike weapons". In February 2022, a coordinated series of missile exercises, some of them hypersonic, were launched on 18 February 2022 in an apparent display of power projection. The launch platforms ranged from submarines in the Barents sea in the Arctic, as well as from ships on the Black sea to the south of Russia. The exercise included a RS-24 Yars ICBM which was launched from the Plesetsk Cosmodrome, and flown across Northern Russia, to land on the Kamchatka peninsula.
+
+
+==== United States ====
+
+These tests have prompted US responses in weapons development, for example, the AGM-183 and Long-Range Hypersonic Weapon per John Hyten's USSTRATCOM statement on 8 August 2018 (UTC). At least one vendor is developing ceramics to handle the temperatures of hypersonics systems. There are over a dozen US hypersonics projects as of 2018, notes the commander of USSTRATCOM; from which a future hypersonic cruise missile is sought, perhaps by Q4 FY2021. The Long range precision fires (LRPF) CFT is supporting Space and Missile Defense Command's pursuit of hypersonics.  Joint programs in hypersonics are informed by Army work; however, at the strategic level, the bulk of the hypersonics work remains at the Joint level. Long Range Precision Fires (LRPF) is an Army priority, and also a DoD joint effort. The Army and Navy's Common Hypersonic Glide Body (C-HGB) had a successful test of a prototype in March 2020. A wind tunnel for testing hypersonic vehicles will be built in Texas (2019). The Army's Land-based Hypersonic Missile "is intended to have a range of 1,400 miles (2,300 km)".: p.6   By adding rocket propulsion to a shell or glide body, the joint effort shaved five years off the likely fielding time for hypersonic weapon systems. Countermeasures against hypersonics will require sensor data fusion: both radar and infrared sensor tracking data will be required to capture the signature of a hypersonic vehicle in the atmosphere. There are also privately developed hypersonic systems, as well as critics.DoD tested a Common Hypersonic Glide Body (C-HGB) in 2020. The Air Force dropped out of the tri-service hypersonic project in 2020, leaving only the Army and Navy on the C-HGB.
+According to Air Force chief scientist, Dr. Greg Zacharias, the US anticipates having hypersonic weapons by the 2020s, hypersonic drones by the 2030s, and recoverable hypersonic drone aircraft by the 2040s. The focus of DoD development will be on air-breathing boost-glide hypersonics systems. Countering hypersonic weapons during their cruise phase will require radar with longer range, as well as space-based sensors, and systems for tracking and fire control. A mid-2021 report from the Congressional Research Service states the United States is "unlikely" to field an operational hypersonic glide vehicle (HGV) until 2023.
+On 21 October 2021 the Pentagon stated that a test of a hypersonic glide body failed to complete, because its booster failed; according to  Lt. Cmdr. Timothy Gorman the booster was not part of the equipment under test, but the booster's failure mode will be reviewed to improve the test setup. The test occurred at Pacific Spaceport Complex – Alaska, on Kodiak island. Three rocketsondes at Wallops Island completed successful tests earlier that week, for the hypersonics effort. On 29 October 2021 the booster rocket for the Long-Range Hypersonic Weapon was successfully tested in a static test; the first stage thrust vector control system control system was included.In September 2021, and in March 2022, US vendors Raytheon/Northrup Grumman, and Lockheed respectively, first successfully tested their air-launched, scramjet-powered hypersonic cruise missiles, which were funded by DARPA.
+Rand 2017 assessmentRand Corporation (28 September 2017) estimates there is less than a decade to prevent Hypersonic Missile proliferation. 
+In the same way that anti-ballistic missiles were developed as countermeasures to ballistic missiles, counter-countermeasures to hypersonics systems were not yet in development, as of 2019. See the National Defense Space Architecture (2021), above. But by 2019, $157.4 million was allocated in the FY2020 Pentagon budget for hypersonic defense, out of $2.6 billion for all hypersonic-related research. $207 million of the FY2021 budget was allocated to defensive hypersonics, up from the FY2020 budget allocation of $157 million. Both the US and Russia withdrew from the Intermediate-Range Nuclear Forces (INF) Treaty in February 2019. This will spur arms development, including hypersonic weapons, in FY2021 and forward. By 2021 the Missile Defense Agency was funding regional countermeasures against hypersonic weapons in their glide phase. James Acton characterized the proliferation of hypersonic vehicles as never-ending in October 2021; Jeffery Lewis views the proliferation as additional arguments for ending the arms race. Doug Loverro assesses that both missile defense and competition need rethinking. CSIS assesses that hypersonic defense should be the US' priority over hypersonic weapons.In 2021, DoD was codifying flight test guidelines, knowledge gained from Conventional Prompt Strike (CPS) and the other hypersonics programs, for some 70 hypersonics R&D programs alone, as of 2021. In 2021, Heidi Shyu, the Under Secretary of Defense for Research and Engineering (USD(R&E)) is pursuing a program of annual rapid joint experiments, including hypersonics capabilities, to bring down their cost of development.
+Other programsFrance, Australia, India, Germany, Japan, South Korea and North Korea also have hypersonic weapon research programs.Australia and the US have begun joint development of air-launched hypersonic missiles, as announced by a Pentagon statement on 30 November 2020. The development will build on the $54 million Hypersonic International Flight Research Experimentation (HIFiRE) under which both nations collaborated on over a 15-year period. Small and large companies will all contribute to the development of these hypersonic missiles, named SCIFIRE in 2022.
+
+
+=== Shipping ===
+Transport consumes energy for three purposes: overcoming gravity, overcoming air/water friction, and achieving terminal velocity. The reduced trip times and higher flight altitudes reduce the first two, while increasing the third. Proponents claim that the net energy costs of hypersonic transport can be lower than those of conventional transport while slashing journey times.
+
+
+== Flown ==
+
+
+=== Hypersonic aircraft ===
+ Aerojet General X-8
+ North American X-15 (crewed)
+ Lockheed X-17
+ NASA X-43
+ Boeing X-51
+ DF-ZF
+ Avangard
+ HSTDV
+
+
+=== Spaceplanes ===
+ Space Shuttle orbiter (crewed)
+ Buran (human-rated, only flew without crew)
+ RLV-TD
+ Boeing X-37
+ Shenlong
+ IXV
+ BOR-4
+ Martin X-23 PRIME
+ Martin X-24 (crewed)
+ ASSET
+ HYFLEX
+ Chongfu Shiyong Shiyan Hangtian Qi (disputed)
+ Jiageng-1
+
+
+== Cancelled ==
+
+
+=== Hypersonic aircraft ===
+ Silbervogel (Sänger bomber)
+ Keldysh bomber
+ Tupolev Tu-360, follow-on to Tu-160
+ Tupolev Tu-2000
+ Lockheed L-301
+
+
+=== Spaceplanes ===
+ Boeing X-20 Dyna-Soar
+ Rockwell X-30 (National Aerospace Plane)
+ Orbital Sciences X-34
+ Mikoyan-Gurevich MiG-105
+ Tsien Spaceplane 1949
+ HOPE-X
+ XCOR Lynx
+ Lockheed Martin X-33
+ Hermes
+ Prometheus
+ HL-20 Personnel Launch System
+ HL-42
+ BAC Mustard
+ Kliper
+ HOTOL
+ Valier Raketenschiff
+ Rockwell C-1057
+
+
+== Proposed ==
+
+
+=== Hypersonic aircraft ===
+
+ I-Plane
+ 14-X
+ Avatar (spacecraft)
+ Advanced Technology Vehicle
+ DARPA XS-1
+ Destinus
+ Dream Chaser
+ NASA X-43
+ HyperSoar
+ HyperStar hypersonic passenger airliner
+ Falcon HTV-2
+ Boeing Commercial Airplanes hypersonic airliner Concept
+ Lockheed Martin SR-72
+ Tactical Boost Glide Vehicle
+ Kholod
+ Programme for Reusable In-orbit Demonstrator in Europe (PRIDE)
+ Sänger II
+ HyShot
+ Hytex
+ Horus
+ SHEFEX
+ Skylon
+ Reaction Engines A2
+ Spartan
+ HEXAFLY
+ SpaceLiner
+ STRATOFLY
+ Zero Emission Hyper Sonic Transport
+ Hermeus Quarterhourse unmanned hypersonic demonstrator designed to land and take-off on conventional runways.
+ Hermeus Halcyon hypersonic transport
+
+
+=== Cruise missiles and warheads ===
+ Advanced Hypersonic Weapon (AHW)
+ AGM-183A air launched rapid response weapon (ARRW, pronounced "arrow") Telemetry data has been successfully transmitted from ARRW —AGM-183A IMV-2 (Instrumented Measurement Vehicle) to the Point Mugu ground stations, demonstrating the ability to accurately broadcast radio at hypersonic speeds; however, ARRW's launch sequence was not completed, as of 15 Dec 2021. Hundreds of ARRWs or other Hypersonic weapons are being sought by the Air Force. On 9 March 2022 Congress halved funding for ARRW and transferred the balance to ARRW's R&D account to allow for further testing, which puts the procurement contract at risk. A production decision on ARRW has been delayed for a year to complete flight testing..
+ Expendable Hypersonic Air-Breathing Multi-Mission Demonstrator ("Mayhem") Based on HAWC and HSSW: "solid rocket-boosted, air-breathing, hypersonic conventional cruise missile", a follow-on to AGM-183A. As yet no design work has been done.
+ Hypersonic Air-breathing Weapon Concept (HAWC, pronounced "hawk"). September 2021: HAWC is DARPA-funded. Built by Raytheon and Northrup Grumman, HAWC is the first US scramjet-powered hypersonic missile to successfully complete a free flight test in the 2020s. DARPA's goals for the test, which were successfully met, were: "vehicle integration and release sequence, safe separation from the launch aircraft, booster ignition and boost, booster separation and engine ignition, and cruise". HAWC is capable of sustained, powered maneuver in the atmosphere.: minute 0:55  HAWC appears to depend on a rocket booster to accelerate to scramjet velocities operating in an oxygen-rich environment. It is easier to put a seeker on a sub-sonic air-breathing vehicle. In mid-March 2022 a HAWC Scramjet was successfully tested in an air-launched flight by a second vendor.
+ Hypersonic Conventional Strike Weapon (HCSW - pronounced "hacksaw") passed its critical design review (CDR) but this IDIQ (indefinite duration, indefinite quantity) contract was terminated in favor of ARRW because twice as many ARRWs will fit on a bomber.
+ Kh-45 (cancelled)
+ Avangard
+ Kinzhal Saw the first use in combat on 18 March 2022, striking a target at Deliatyn, and Kostiantynivka (near Mykolaiv). Ukraine.: minute 9:21 
+ Zircon
+ Hypersonic Technology Demonstrator Vehicle
+ HGV-202F Hypersonic Glide Vehicle
+
+/ Brahmos-II
+ Hycore
+ DF-ZF
+
+
+== See also ==
+Hypersonic effect
+Supersonic transport
+Lifting body
+List of X-planes
+Thunderbird 1
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+David Wright and Cameron Tracy, "Over-hyped: Physics dictates that hypersonic weapons cannot live up to the grand promises made on their behalf", Scientific American, vol. 325, no. 2 (August 2021), pp. 64–71. Quote from p. 71: "Failure to fully assess [the potential benefits and costs of hypersonic weapons] is a recipe for wasteful spending and increased global risk."
+
+
+== External links ==
+A comparative analysis of the performance of long-range hypervelocity vehicles
+(2016) Joint Air Power Competence Centre (JAPCC)

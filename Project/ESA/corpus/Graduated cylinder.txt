@@ -1,0 +1,45 @@
+A graduated cylinder, also known as a measuring cylinder or mixing cylinder is a common piece of laboratory equipment used to measure the volume of a liquid. It has a narrow cylindrical shape. Each marked line on the graduated cylinder represents the amount of liquid that has been measured.
+
+
+== Materials and structure ==
+Large graduated cylinders are usually made of polypropylene for its excellent chemical resistance or polymethylpentene for its transparency, making them lighter and less fragile than glass. Polypropylene (PP) is easy to repeatedly autoclave; however, autoclaving in excess of about 121 °C (250 °F) (depending on the chemical formulation: typical commercial grade polypropylene melts in excess of 177 °C (351 °F)), can warp or damage polypropylene graduated cylinders, affecting accuracy.A traditional graduated cylinder is usually narrow and tall so as to increase the accuracy and precision of volume measurement. It has a plastic or glass base (stand, foot, support) and a "spout" for easy pouring of the measured liquid. An additional version is wide and low.
+Mixing cylinders have ground glass joints instead of a spout, so they can be closed with a stopper or connect directly with other elements of a manifold. With this kind of cylinder, the metered liquid does not pour directly, but is often removed using a Cannula. A graduated cylinder is meant to be read with the surface of the liquid at eye level, where the center of the meniscus shows the measurement line. Typical capacities of graduated cylinders are from 10 mL to 1000 mL.
+
+
+== Common uses ==
+Graduated cylinders are often used to measure the volume of a liquid. Graduated cylinders are generally more accurate and precise than laboratory flasks and beakers, but they should not be used to perform volumetric analysis; volumetric glassware, such as a volumetric flask or volumetric pipette, should be used, as it is even more accurate and precise. Graduated cylinders are sometimes used to measure the volume of a solid indirectly by measuring the displacement of a liquid.
+
+
+== Scales and accuracy ==
+For accuracy the volume on graduated cylinders is depicted on scales with 3 significant digits: 100mL cylinders have 1ml grading divisions while 10mL cylinders have 0.1 mL grading divisions.
+Two classes of accuracy exist for graduated cylinders. Class A has double the accuracy of class B.
+Cylinders can have single or double scales. Single scales allow to read the volume from top to bottom (filling volume) while double scale cylinders allow reading for filling and pouring (reverse scale).
+Graduated cylinders are calibrated either “to contain” (indicated liquid volume inside the cylinder) and marked as "TC" or “to deliver” (indicated liquid volume poured out, accounting for liquid traces left in the cylinder) and marked “TD”. Formerly the tolerances for “to deliver” and “to contain” cylinders are distinct; however now  these are  the same. Also, the international symbols “IN” and “EX”  are more likely to be used instead of “TC” and “TD” respectively.
+
+
+== Measurement ==
+
+To read the volume accurately, the observation must be at an eye level and read at the bottom of a meniscus of the liquid level.
+The main reason as to why the reading of the volume is done via meniscus is due to the nature of the liquid in a closed surrounded space. By nature, liquid in the cylinder would be attracted to the wall around it through molecular forces. This forces the liquid surface to develop either a convex or concave shape, depending on the type of the liquid in the cylinder. Reading the liquid at the bottom part of a concave or the top part of the convex liquid is equivalent to reading the liquid at its meniscus.  From the picture, the level of the liquid will be read at the bottom of the meniscus, which is the concave. The most accurate of the reading that could be done here is reduced down to 1 mL due to the given means of measurement on the cylinder. From this, the derived error would be one tenth of the least figure. For instance, if the reading is done and the value calculated is set to be 36.5 mL. The error, give or take 0.1 mL, must be included too. Therefore, the more precise value equates to 36.5 
+  
+    
+      
+        ±
+      
+    
+    {\displaystyle \pm }
+   0.1; 36.4 or 36.6 mL. Therefore, there are 3 significant figures can be read from the given graduated cylinder picture. Another example, if the reading is done and the value calculated is set to be 40.0 mL. The precise value would be 40.0 
+  
+    
+      
+        ±
+      
+    
+    {\displaystyle \pm }
+   0.1; 40.1 or 39.9 mL.
+
+
+== Additional images ==
+
+
+== References ==

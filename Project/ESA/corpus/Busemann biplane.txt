@@ -1,0 +1,28 @@
+The Busemann biplane is a theoretical aircraft configuration invented by Adolf Busemann, which avoids the formation of N-type shock waves and thus does not create a sonic boom or the associated wave drag. However in its original form it does not generate lift either. A Busemann biplane concept, which provides adequate lift, and which can reduce the wave intensity and drag but not eliminate them, has been studied for a "boomless" supersonic transport.
+
+
+== Origins ==
+Busemann's original biplane consists of two triangular cross-section plates a certain distance apart, with the flat sides parallel to the fluid flow. The spacing between the plates is sufficiently large that the flow does not choke and supersonic flow is maintained between them.Supersonic flow around a conventional wing generates compressive sonic shock waves at the leading and trailing edges, with an expansion wave in between them. These shock waves correspond to pressure changes which impede airflow, known as wave drag. In the Busemann biplane, the forward high pressure shock wave is created internally and reflects symmetrically between double-wedge inner surfaces. These interfere to cancel out both themselves and the following shock waves, leaving no external wave to propagate to infinity and hence avoiding wave drag. The flat upper and lower surfaces generate no shock waves because the flow is parallel.
+The internal alignment of the shock waves means that Busemann's biplane produces minimum wave drag. However, the flat external surfaces and internal symmetry also mean that Busemann's design does not produce any lift at the design point for optimal shock and drag reduction.
+
+
+=== Off-design conditions ===
+Operation away from the design cruise speed or angle of attack destroys the constructive interference and results in shock choking and flow hysteresis effects, which greatly increase drag. In shock choking, the shockwaves reduce their backwards angle with each reflection off the tapered wing surfaces until they form a shock wall across the gap. This causes a buildup of pressure and slowdown of flow speed, so that flow hysteresis occurs, in which the slowing of the air causes the choking to persist through and beyond the design point before it clears at a higher aircraft speed.
+
+
+== Lifting Busemann biplanes ==
+According to Newton's laws of motion, in order to obtain upward lift on the wings, in reaction the air passing over them must be deflected downwards. At supersonic speeds this creates at least one shock wave and possibly more.  Like any other airfoil, the Busemann biplane can be given a small positive angle of attack to generate lift in this way, however it will also now generate external shockwaves.
+The Busemann biplane configuration can still be used to minimize the energy of these shock waves and the associated drag.Wave drag has two causes, one due to the bulk or form of the plane and the other due to the lift generated. The Busemann concept can eliminate form shock drag but not that due to lift. Busemann's original geometry eliminated all wave drag and hence also lift. Modern Busemann type designs can create lift, with its associated shockwave, while still eliminating much or all of the form drag, thus achieving considerable improvements in efficiency over conventional designs. They can also allow adequate performance over a range of speeds and angles of attack.
+The problems of off-design choking and hysteresis can be resolved by the use of variable-geometry devices, such as flaps and slats which may also serve as high-lift devices during takeoff and landing. Another approach is to modify the airfoil geometry to provide acceptable performance over a range of off-design conditions, at the expense of some form drag even at the optimum design point.The Busemann biplane concept has been studied as a concept for a "boomless" supersonic transport.
+
+
+== See also ==
+Pratt & Whitney J58 used a mixed compression inlet, a configuration sensitive to unstarts, ie shock expulsion giving an external bow shock-wave.
+Catamaran boats with reduced wave-making resistance due to their so-called split hull configuration.
+
+
+== References ==
+
+
+== External links ==
+Busemann's Biplane - Explanation and Theory

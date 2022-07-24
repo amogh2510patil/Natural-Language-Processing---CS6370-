@@ -1,0 +1,351 @@
+In aviation, airspeed is the speed of an aircraft relative to the air. Among the common conventions for qualifying airspeed are: 
+Indicated airspeed ("IAS"), what is read on an airspeed gauge connected to a Pitot-static system;
+Calibrated airspeed ("CAS"), indicated airspeed adjusted for pitot system position and installation error;
+Equivalent airspeed ("EAS"), calibrated airspeed adjusted for compressibility effects;
+True airspeed ("TAS"), equivalent airspeed adjusted for air density, and is also the speed of the aircraft through the air in which it is flying.Calibrated airspeed is typically within a few knots of indicated airspeed, while equivalent airspeed decreases slightly from CAS as aircraft altitude increases or at high speeds.
+With EAS constant, true airspeed increases as aircraft altitude increases. This is because air density decreases with higher altitude.
+The measurement and indication of airspeed is ordinarily accomplished on board an aircraft by an airspeed indicator ("ASI") connected to a pitot-static system. The pitot-static system comprises one or more pitot probes (or tubes) facing the on-coming air flow to measure pitot pressure (also called stagnation, total or ram pressure) and one or more static ports to measure the static pressure in the air flow. These two pressures are compared by the ASI to give an IAS reading.
+
+
+== Units ==
+Airspeed is commonly given in knots (kn). Since 2010, the International Civil Aviation Organization (ICAO) recommends using kilometers per hour (km/h) for airspeed (and meters per second for wind speed on runways), but allows using the de facto standard of knots, and has no set date on when to stop.The aviation industry in Russia and China as well as aircrew flying Russian/Chinese aircraft currently use km/h for reporting airspeed. Many present-day European glider planes also indicate airspeed in kilometers per hour. Some older planes, like German World War 2 planes, also indicated airspeed in kilometers per hour.In high altitude flight, however, the Mach number is sometimes used for reporting airspeed. Sometimes other units are also used for airspeed, including miles per hour (mph) or meters per second.
+
+
+== Indicated airspeed ==
+
+Indicated airspeed (IAS) is the airspeed indicator reading (ASIR) uncorrected for instrument, position, and other errors. From current EASA definitions: Indicated airspeed means the speed of an aircraft as shown on its pitot static airspeed indicator calibrated to reflect standard atmosphere adiabatic compressible flow at sea level uncorrected for airspeed system errors.Outside the former Soviet bloc, most airspeed indicators show the speed in knots (nautical miles per hour). Some light aircraft have airspeed indicators showing speed in statute miles per hour or kilometers per hour.
+An airspeed indicator is a differential pressure gauge with the pressure reading expressed in units of speed, rather than pressure. The airspeed is derived from the difference between the ram air pressure from the pitot tube, or stagnation pressure, and the static pressure. The pitot tube is mounted facing forward; the static pressure is frequently detected at static ports on one or both sides of the aircraft. Sometimes both pressure sources are combined in a single probe, a pitot-static tube. The static pressure measurement is subject to error due to inability to place the static ports at positions where the pressure is true static pressure at all airspeeds and attitudes. The correction for this error is the position error correction (PEC) and varies for different aircraft and airspeeds. Further errors of 10% or more are common if the airplane is flown in “uncoordinated” flight.
+
+
+== Calibrated airspeed ==
+
+Calibrated airspeed (CAS) is indicated airspeed corrected for instrument errors, position error (due to incorrect pressure at the static port) and installation errors.
+Calibrated airspeed values less than the speed of sound at standard sea level (661.4788 knots) are calculated as follows:
+
+  
+    
+      
+        
+          V
+          
+            c
+          
+        
+        =
+        
+          A
+          
+            0
+          
+        
+        
+          
+            5
+            
+              
+                [
+              
+            
+            
+              
+                (
+              
+            
+            
+              
+                
+                  q
+                  
+                    c
+                  
+                
+                
+                  P
+                  
+                    0
+                  
+                
+              
+            
+            +
+            1
+            
+              
+                
+                  )
+                
+              
+              
+                
+                  2
+                  7
+                
+              
+            
+            −
+            1
+            
+              
+                ]
+              
+            
+          
+        
+      
+    
+    {\displaystyle V_{c}=A_{0}{\sqrt {5{\Bigg [}{\bigg (}{\frac {q_{c}}{P_{0}}}+1{\bigg )}^{\frac {2}{7}}-1{\Bigg ]}}}}
+   minus position and installation error correction.
+
+where
+
+  
+    
+      
+        
+          V
+          
+            c
+          
+        
+        
+      
+    
+    {\displaystyle V_{c}\,}
+   is the calibrated airspeed,
+
+  
+    
+      
+        
+          q
+          
+            c
+          
+        
+        
+      
+    
+    {\displaystyle q_{c}\,}
+   is the impact pressure (inches Hg): the difference between total pressure and static pressure,
+
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle P_{0}\,}
+   is 29.92126 inches Hg; static air pressure at standard sea level,
+
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle A_{0}\,}
+   is 661.4788 knots;, speed of sound at standard sea level.Units other than knots and inches of mercury can be used, if used consistently.
+This expression is based on the form of Bernoulli's equation applicable to isentropic compressible flow. The values for 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+      
+    
+    {\displaystyle P_{0}}
+   and 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A_{0}}
+   are consistent with the ISA i.e. the conditions under which airspeed indicators are calibrated.
+
+
+== Equivalent airspeed ==
+
+Equivalent airspeed (EAS) is defined as the airspeed at sea level in the International Standard Atmosphere at which the (incompressible) dynamic pressure is the same as the dynamic pressure at the true airspeed (TAS) and altitude at which the aircraft is flying. That is, it is defined by the equation
+
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        
+          ρ
+          
+            0
+          
+        
+        (
+        
+          E
+          A
+          S
+        
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        ρ
+        (
+        
+          T
+          A
+          S
+        
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{2}}\rho _{0}(\mathrm {EAS} )^{2}={\frac {1}{2}}\rho (\mathrm {TAS} )^{2}}
+  
+where
+
+  
+    
+      
+        ρ
+        
+      
+    
+    {\displaystyle \rho \,}
+   is the density of air at the altitude at which the aircraft is currently flying;
+
+  
+    
+      
+        
+          ρ
+          
+            0
+          
+        
+        
+      
+    
+    {\displaystyle \rho _{0}\,}
+   is the density of air at sea level in the International Standard Atmosphere (1.225 kg/m3 or 0.00237 slug/ft3).EAS is a measure of airspeed that is a function of incompressible dynamic pressure. Structural analysis is often in terms of incompressible dynamic pressure, so equivalent airspeed is a useful speed for structural testing. The significance of equivalent airspeed is that, at Mach numbers below the onset of wave drag, all of the aerodynamic forces and moments on an aircraft are proportional to the square of the equivalent airspeed. Thus, the handling and 'feel' of an aircraft, and the aerodynamic loads upon it, at a given equivalent airspeed, are very nearly constant and equal to those at standard sea level irrespective of the actual flight conditions.
+At standard sea level pressure, CAS and EAS are equal. Up to about 200 knots CAS and 10,000 ft (3,000 m) the difference is negligible, but at higher speeds and altitudes CAS diverges from EAS due to compressibility.
+
+
+== True airspeed ==
+
+The true airspeed (TAS; also KTAS, for knots true airspeed) of an aircraft is the speed of the aircraft relative to the airmass in which it is flying. The true airspeed and heading of an aircraft constitute its velocity relative to the atmosphere.
+
+
+=== Uses of true airspeed ===
+The true airspeed is important information for accurate navigation of an aircraft. To maintain a desired ground track whilst flying in a moving airmass, the pilot of an aircraft must use knowledge of wind speed, wind direction, and true air speed to determine the required heading. See wind triangle.
+TAS is the true measure of aircraft performance in cruise, thus it is the speed listed in aircraft specifications, manuals, performance comparisons, pilot reports, and every situation when cruise or endurance performance needs to be measured. It is the speed normally listed on the flight plan, also used in flight planning, before considering the effects of wind.
+Since indicated airspeed is a better indicator of power used and lift available, true airspeed is not used for controlling the aircraft during taxiing, takeoff, climb, descent, approach or landing; for these purposes the Indicated airspeed – IAS or KIAS (knots indicated airspeed) – is used.
+
+
+=== Measurement of true airspeed ===
+
+True airspeed is related to the Mach number 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   and speed of sound 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   by
+
+  
+    
+      
+        
+          T
+          A
+          S
+        
+        =
+        c
+        M
+      
+    
+    {\displaystyle \mathrm {TAS} =cM}
+  
+Both the Mach number and the speed of sound can be computed using measurements of impact pressure, static pressure and outside air temperature.
+At sea level in the International Standard Atmosphere (ISA) and at low speeds where air compressibility is negligible (and so a constant air density may be assumed), TAS equals CAS. Above approximately 100 knots (190 km/h), the compressibility error rises significantly.
+In flight, it can be calculated using an E6B flight calculator or equivalent.
+Since temperature variations are of a smaller influence, the ASI error can be roughly estimated as indicating about 2% less than TAS per 1,000 feet (305 m) of altitude above sea level. For example, an aircraft flying at 15,000 feet (4,572 m) in the international standard atmosphere with an IAS of 100 knots (190 km/h), is actually flying at 126 knots (233 km/h) TAS.
+
+
+== See also ==
+ICAO recommendations on use of the International System of Units
+Acronyms and abbreviations in avionics
+Flight instruments
+Ground speed
+Maneuvering speed
+V speeds
+
+
+== References ==
+
+
+== Bibliography ==
+Glauert H. (1947). "2". The Elements of Aerofoil and Airscrew Theory. Cambridge University Press. ISBN 9781139241953.
+William Gracey (May 1980). Measurement of Aircraft Airspeed and Altitude (PDF). NASA.
+Getting to grips with aircraft performance (PDF). Flight Operations Support & Line Assistance. Airbus Customer Services. January 2002.
+
+
+== External links ==
+Kevin Brown. "True, Equivalent, and Calibrated Airspeeds". MathPages.
+
+
+=== Calculators ===
+Dan Israel Malta. "MaltApplication". Aeronautical and Atmospheric Calculator, windows and android applications.
+Luiz Monteiro. "Altimetry". Calculators factor compressibility, heating due to friction and other variables.
+Luiz Monteiro. "Wind & Time - Speed - Distance". Account for changes in fuel density due to temperature.
+Baruch Kantor. "Atmospheric Calculator". NewByte Flight Dynamics.

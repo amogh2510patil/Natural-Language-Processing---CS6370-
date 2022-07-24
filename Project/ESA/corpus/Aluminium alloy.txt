@@ -1,0 +1,220 @@
+An Aluminium alloy (or aluminum alloy; see spelling differences) is an alloy in which aluminium (Al) is the predominant metal. The typical alloying elements are copper, magnesium, manganese, silicon, tin and zinc. There are two principal classifications, namely casting alloys and wrought alloys, both of which are further subdivided into the categories heat-treatable and non-heat-treatable. About 85% of aluminium is used for wrought products, for example rolled plate, foils and extrusions. Cast aluminium alloys yield cost-effective products due to the low melting point, although they generally have lower tensile strengths than wrought alloys. The most important cast aluminium alloy system is Al–Si, where the high levels of silicon (4.0–13%) contribute to give good casting characteristics. Aluminium alloys are widely used in engineering structures and components where light weight or corrosion resistance is required.Alloys composed mostly of aluminium have been very important in aerospace manufacturing since the introduction of metal-skinned aircraft. Aluminium-magnesium alloys are both lighter than other aluminium alloys and much less flammable than other alloys that contain a very high percentage of magnesium.Aluminium alloy surfaces will develop a white, protective layer of aluminium oxide if left unprotected by anodizing and/or correct painting procedures. In a wet environment, galvanic corrosion can occur when an aluminium alloy is placed in electrical contact with other metals with more positive corrosion potentials than aluminium, and an electrolyte is present that allows ion exchange. Referred to as dissimilar-metal corrosion, this process can occur as exfoliation or as intergranular corrosion. Aluminium alloys can be improperly heat treated. This causes internal element separation, and the metal then corrodes from the inside out.Aluminium alloy compositions are registered with The Aluminum Association. Many organizations publish more specific standards for the manufacture of aluminium alloy, including the Society of Automotive Engineers standards organization, specifically its aerospace standards subgroups, and ASTM International.
+
+
+== Engineering use and aluminium alloys properties ==
+
+Aluminium alloys with a wide range of properties are used in engineering structures. Alloy systems are classified by a number system (ANSI) or by names indicating their main alloying constituents (DIN and ISO). Selecting the right alloy for a given application entails considerations of its tensile strength, density, ductility, formability, workability, weldability, and corrosion resistance, to name a few. A brief historical overview of alloys and manufacturing technologies is given in Ref. Aluminium alloys are used extensively in aircraft due to their high strength-to-weight ratio. On the other hand, pure aluminium metal is much too soft for such uses, and it does not have the high tensile strength that is needed for airplanes and helicopters.
+
+
+=== Aluminium alloys versus types of steel ===
+Aluminium alloys typically have an elastic modulus of about 70 GPa, which is about one-third of the elastic modulus of steel alloys. Therefore, for a given load, a component or unit made of an aluminium alloy will experience a greater deformation in the elastic regime than a steel part of identical size and shape.
+With completely new metal products, the design choices are often governed by the choice of manufacturing technology. Extrusions are particularly important in this regard, owing to the ease with which aluminium alloys, particularly the Al–Mg–Si series, can be extruded to form complex profiles.
+In general, stiffer and lighter designs can be achieved with Aluminium alloy than is feasible with steels. For instance, consider the bending of a thin-walled tube: the second moment of area is inversely related to the stress in the tube wall, i.e. stresses are lower for larger values. The second moment of area is proportional to the cube of the radius times the wall thickness, thus increasing the radius (and weight) by 26% will lead to a halving of the wall stress. For this reason, bicycle frames made of aluminium alloys make use of larger tube diameters than steel or titanium in order to yield the desired stiffness and strength. In automotive engineering, cars made of aluminium alloys employ space frames made of extruded profiles to ensure rigidity. This represents a radical change from the common approach for current steel car design, which depend on the body shells for stiffness, known as unibody design.
+Aluminium alloys are widely used in automotive engines, particularly in cylinder blocks and crankcases due to the weight savings that are possible. Since aluminium alloys are susceptible to warping at elevated temperatures, the cooling system of such engines is critical. Manufacturing techniques and metallurgical advancements have also been instrumental for the successful application in automotive engines. In the 1960s, the aluminium cylinder heads of the Corvair earned a reputation for failure and stripping of threads, which is not seen in current aluminium cylinder heads.
+An important structural limitation of aluminium alloys is their lower fatigue strength compared to steel. In controlled laboratory conditions, steels display a fatigue limit, which is the stress amplitude below which no failures occur – the metal does not continue to weaken with extended stress cycles. Aluminium alloys do not have this lower fatigue limit and will continue to weaken with continued stress cycles. Aluminium alloys are therefore sparsely used in parts that require high fatigue strength in the high cycle regime (more than 107 stress cycles).
+
+
+=== Heat sensitivity considerations ===
+Often, the metal's sensitivity to heat must also be considered. Even a relatively routine workshop procedure involving heating is complicated by the fact that aluminium, unlike steel, will melt without first glowing red. Forming operations where a blow torch is used can reverse or remove heat treating, therefore is not advised whatsoever. No visual signs reveal how the material is internally damaged. Much like welding heat treated, high strength link chain, all strength is now lost by heat of the torch. The chain is dangerous and must be discarded.
+Aluminium is subject to internal stresses and strains. Sometimes years later, as is the tendency of improperly welded aluminium bicycle frames to gradually twist out of alignment from the stresses of the welding process. Thus, the aerospace industry avoids heat altogether by joining parts with rivets of like metal composition, other fasteners, or adhesives.
+Stresses in overheated aluminium can be relieved by heat-treating the parts in an oven and gradually cooling it—in effect annealing the stresses. Yet these parts may still become distorted, so that heat-treating of welded bicycle frames, for instance, can result in a significant fraction becoming misaligned. If the misalignment is not too severe, the cooled parts may be bent into alignment. Of course, if the frame is properly designed for rigidity (see above), that bending will require enormous force.
+Aluminium's intolerance to high temperatures has not precluded its use in rocketry; even for use in constructing combustion chambers where gases can reach 3500 K. The Agena upper stage engine used a regeneratively cooled aluminium design for some parts of the nozzle, including the thermally critical throat region; in fact the extremely high thermal conductivity of aluminium prevented the throat from reaching the melting point even under massive heat flux, resulting in a reliable, lightweight component.
+
+
+=== Household wiring ===
+
+Because of its high conductivity and relatively low price compared with copper in the 1960s, aluminium was introduced at that time for household electrical wiring in North America, even though many fixtures had not been designed to accept aluminium wire. But the new use brought some problems:
+
+The greater coefficient of thermal expansion of aluminium causes the wire to expand and contract relative to the dissimilar metal screw connection, eventually loosening the connection.
+Pure aluminium has a tendency to creep under steady sustained pressure (to a greater degree as the temperature rises), again loosening the connection.
+Galvanic corrosion from the dissimilar metals increases the electrical resistance of the connection.All of this resulted in overheated and loose connections, and this in turn resulted in some fires. Builders then became wary of using the wire, and many jurisdictions outlawed its use in very small sizes, in new construction. Yet newer fixtures eventually were introduced with connections designed to avoid loosening and overheating. At first they were marked "Al/Cu", but they now bear a "CO/ALR" coding.
+Another way to forestall the heating problem is to crimp the short "pigtail" of copper wire. A properly done high-pressure crimp by the proper tool is tight enough to reduce any thermal expansion of the aluminium. Today, new alloys, designs, and methods are used for aluminium wiring in combination with aluminium terminations.
+
+
+== Alloy designations ==
+Wrought and cast aluminium alloys use different identification systems. Wrought aluminium is identified with a four digit number which identifies the alloying elements.
+Cast aluminium alloys use a four to five digit number with a decimal point. The digit in the hundreds place indicates the alloying elements, while the digit after the decimal point indicates the form (cast shape or ingot).
+
+
+=== Temper designation ===
+The temper designation follows the cast or wrought designation number with a dash, a letter, and potentially a one to three digit number, e.g. 6061-T6. The definitions for the tempers are:-F : As fabricated-H : Strain hardened (cold worked) with or without thermal treatment
+
+-H1 : Strain hardened without thermal treatment
+-H2 : Strain hardened and partially annealed
+-H3 : Strain hardened and stabilized by low temperature heating
+Second digit : A second digit denotes the degree of hardness
+-HX2 = 1/4 hard
+-HX4 = 1/2 hard
+-HX6 = 3/4 hard
+-HX8 = full hard
+-HX9 = extra hard-O : Full soft (annealed)-T : Heat treated to produce stable tempers
+
+-T1 : Cooled from hot working and naturally aged (at room temperature)
+-T2 : Cooled from hot working, cold-worked, and naturally aged
+-T3 : Solution heat treated and cold worked
+-T4 : Solution heat treated and naturally aged
+-T5 : Cooled from hot working and artificially aged (at elevated temperature)
+-T51 : Stress relieved by stretching
+-T510 : No further straightening after stretching
+-T511 : Minor straightening after stretching
+-T52 : Stress relieved by thermal treatment
+-T6 : Solution heat treated and artificially aged
+-T7 : Solution heat treated and stabilized
+-T8 : Solution heat treated, cold worked, and artificially aged
+-T9 : Solution heat treated, artificially aged, and cold worked
+-T10 : Cooled from hot working, cold-worked, and artificially aged-W : Solution heat treated only
+Note: -W is a relatively soft intermediary designation that applies after heat treat and before aging is completed. The -W condition can be extended at extremely low temperatures but not indefinitely and depending on the material will typically last no longer than 15 minutes at ambient temperatures.
+
+
+=== Wrought alloys ===
+The International Alloy Designation System is the most widely accepted naming scheme for wrought alloys. Each alloy is given a four-digit number, where the first digit indicates the major alloying elements, the second — if different from 0 — indicates a variation of the alloy, and the third and fourth digits identify the specific alloy in the series. For example, in alloy 3105, the number 3 indicates the alloy is in the manganese series, 1 indicates the first modification of alloy 3005, and finally 05 identifies it in the 3000 series.
+1000 series are essentially pure aluminium with a minimum 99% aluminium content by weight and can be work hardened.
+2000 series are alloyed with copper, can be precipitation hardened to strengths comparable to steel. Formerly referred to as duralumin, they were once the most common aerospace alloys, but were susceptible to stress corrosion cracking and are increasingly replaced by 7000 series in new designs.
+3000 series are alloyed with manganese, and can be work hardened.
+4000 series are alloyed with silicon. Variations of aluminium-silicon alloys intended for casting (and therefore not included in 4000 series) are also known as silumin.
+5000 series are alloyed with magnesium, and offer superb corrosion resistance, making them suitable for marine applications. Also, 5083 alloy has the highest strength of not heat-treated alloys.  Most 5000 series alloys include manganese as well.
+6000 series are alloyed with magnesium and silicon. They are easy to machine, are weldable, and can be precipitation hardened, but not to the high strengths that 2000 and 7000 can reach. 6061 alloy is one of the most commonly used general-purpose aluminium alloys.
+7000 series are alloyed with zinc, and can be precipitation hardened to the highest strengths of any aluminium alloy (ultimate tensile strength up to 700 MPa for the 7068 alloy).  Most 7000 series alloys include magnesium and copper as well.
+8000 series are alloyed with other elements which are not covered by other series. Aluminium-lithium alloys are an example.
+
+
+==== 1000 series ====
+# Not an International Alloy Designation System name
+
+
+==== 2000 series ====
+
+
+==== 3000 series ====
+
+
+==== 4000 series ====
+
+
+==== 5000 series ====
+
+
+==== 6000 series ====
+
+
+==== 7000 series ====
+
+
+==== 8000 series ====
+
+
+==== Mixed list ====
+
+
+=== Cast alloys ===
+The Aluminum Association (AA) has adopted a nomenclature similar to that of wrought alloys. British Standard and DIN have different designations. In the AA system, the second two digits reveal the minimum percentage of aluminium, e.g. 150.x correspond to a minimum of 99.50% aluminium. The digit after the decimal point takes a value of 0 or 1, denoting casting and ingot respectively. The main alloying elements in the AA system are as follows:
+1xx.x series are minimum 99% aluminium
+2xx.x series copper
+3xx.x series silicon, with added copper and/or magnesium
+4xx.x series silicon
+5xx.x series magnesium
+6xx.x unused series
+7xx.x series zinc
+8xx.x series tin
+9xx.x other elements
+
+
+=== Named alloys ===
+A380 Offers an excellent combination of casting, mechanical and thermal properties, exhibits excellent fluidity, pressure tightness and resistance to hot cracking.  Used in the Aerospace Industry
+Alferium an aluminium-iron alloy developed by Schneider, used for aircraft manufacture by Société pour la Construction d'Avions Métallique "Aviméta"
+Alclad aluminium sheet formed from high-purity aluminium surface layers bonded to high strength aluminium alloy core material
+Birmabright (aluminium, magnesium) a product of The Birmetals Company, basically equivalent to 5251
+Duralumin (copper, aluminium)
+Hindalium (aluminium, magnesium, manganese, silicon) product of Hindustan Aluminium Corporation Ltd, made in 16ga rolled sheets for cookware
+Lockalloy (Lockalloy is an alloy that consists of 62% beryllium and 38% aluminum. It was used as a structural metal in the aerospace industry,developed in the 1960s by the Lockheed Missiles and Space Company.
+Pandalloy Pratt&Whitney proprietary alloy, supposedly having high strength and superior high temperature performance.
+Magnalium
+Magnox (magnesium, aluminium)
+Silumin (aluminium, silicon)
+Titanal (aluminium, zinc, magnesium, copper, zirconium) a product of Austria Metall AG. Commonly used in high performance sports products, particularly snowboards and skis.
+Y alloy, Hiduminium, R.R. alloys: pre-war nickel-aluminium alloys, used in aerospace and engine pistons, for their ability to retain strength at elevated temperature. These are replaced nowadays by higher-performing iron-aluminium alloys like 8009 capable to operate with low creep up to 300C.
+
+
+== Applications ==
+
+
+=== Aerospace alloys ===
+
+
+==== Aluminium–Scandium ====
+
+The addition of scandium to aluminium creates nanoscale Al3Sc precipitates which limit the excessive grain growth that occurs in the heat-affected zone of welded aluminium components. This has two beneficial effects: the precipitated Al3Sc forms smaller crystals than are formed in other aluminium alloys and the width of precipitate-free zones that normally exist at the grain boundaries of age-hardenable aluminium alloys is reduced. Scandium is also a potent grain refiner in cast aluminium alloys, and atom for atom, the most potent strengthener in aluminium, both as a result of grain refinement and precipitation strengthening.
+An added benefit of scandium additions to aluminium is that the nanoscale Al3Sc precipitates that give the alloy its strength are coarsening resistant at relatively high temperatures (~350 °C). This is in contrast to typical commercial 2xxx and 6xxx alloys, which quickly lose their strength at temperatures above 250 °C due to rapid coarsening of their strengthening precipitates.The effect of Al3Sc precipitates also increase the alloy yield strength by 50–70 MPa (7.3–10.2 ksi).
+In principle, aluminium alloys strengthened with additions of scandium are very similar to traditional nickel-base superalloys, in that both are strengthened by coherent, coarsening resistant precipitates with an ordered L12 structure. However, Al-Sc alloys contain a much lower volume fraction of precipitates and the inter-precipitate distance is much smaller than in their nickel-base counterparts. In both cases however, the coarsening resistant precipitates allow the alloys to retain their strength at high temperatures.The increased operating temperature of Al-Sc alloys has significant implications for energy efficient applications, particularly in the automotive industry. These alloys can provide a replacement for denser materials such as steel and titanium that are used in 250-350 °C environments, such as in or near engines. Replacement of these materials with lighter aluminium alloys leads to weight reductions which in turn leads to increased fuel efficiencies.Additions of erbium and zirconium have been shown to increase the coarsening resistance of Al-Sc alloys to ~400 °C.  This is achieved by the formation of a slow-diffusing zirconium-rich shell around scandium and erbium-rich precipitate cores, forming strengthening precipitates with composition Al3(Sc,Zr,Er). Additional improvements in the coarsening resistance will allow these alloys to be used at increasingly higher temperatures.
+Titanium alloys, which are stronger but heavier than Al-Sc alloys, are still much more widely used.The main application of metallic scandium by weight is in aluminium-scandium alloys for minor aerospace industry components. These alloys contain between 0.1% and 0.5% (by weight) of scandium. They were used in the Russian military aircraft Mig 21 and Mig 29.Some items of sports equipment, which rely on high performance materials, have been made with scandium-aluminium alloys, including baseball bats,lacrosse sticks, as well as bicycle frames and components, and tent poles.
+U.S. gunmaker Smith & Wesson produces revolvers with frames composed of scandium alloy and cylinders of titanium.
+
+
+==== Potential use as Space Materials ====
+Due to its light-weight and high strength, aluminium alloys are desired materials to be applied in spacecraft, satellites and other components to be deployed in space. However, this application is limited by the energetic particle irradiation emitted by the Sun. The impact and deposition of solar energetic particles within the microstructure of conventional aluminium alloys can induce the dissolution of most common hardening phases, leading to softening. The recently introduced crossover aluminium alloys are being tested as a surrogate to 6xxx and 7xxx series in environments where energetic particle irradiation is a major concern. Such crossover aluminium alloys can be hardened via precipitation of a chemical complex phase known as T-phase in which the radiation resistance has been proved to be superior than other hardening phases of conventional aluminium alloys alloys.
+
+
+==== List of aerospace aluminium alloys ====
+The following aluminium alloys are commonly used in aircraft and other aerospace structures:
+1420
+2004; 2014; 2017; 2020; 2024; 2080; 2090; 2091; 2095; 2219; 2224; 2324; 2519; 2524
+4047
+6013; 6061; 6063; 6113; 6951;
+7010; 7049; 7050; 7055; 7068; 7075; 7079; 7093; 7150; 7178; 7475;
+8009;Note that the term aircraft aluminium or aerospace aluminium usually refers to 7075.4047 aluminium is a unique alloy used in both the aerospace and automotive applications as a cladding alloy or filler material. As filler, aluminium alloy 4047 strips can be combined to intricate applications to bond two metals.6951 is a heat treatable alloy providing additional strength to the fins while increasing sag resistance; this allows the manufacturer to reduce the gauge of the sheet and therefore reducing the weight of the formed fin. These distinctive features make aluminium alloy 6951 one of the preferred alloys for heat transfer and heat exchangers manufactured for aerospace applications.6063 aluminium alloys are heat treatable with moderately high strength, excellent corrosion resistance and good extrudability.
+They are regularly used as architectural and structural members.The following list of aluminium alloys are currently produced, but less widely used:
+
+2090 aluminium
+2124 aluminium
+2324 aluminium
+6013 aluminium
+7050 aluminium
+7055 aluminium
+7150 aluminium
+7475 aluminium
+
+
+=== Marine alloys ===
+These alloys are used for boat building and shipbuilding, and other marine and salt-water sensitive shore applications.
+5052 aluminium alloy
+5059 aluminium alloy
+5083 aluminium alloy
+5086 aluminium alloy
+6061 aluminium alloy
+6063 aluminium alloy4043, 5183, 6005A, 6082 also used in marine constructions and off shore applications.
+
+
+=== Automotive alloys ===
+6111 aluminium and 2008 aluminium alloy are extensively used for external automotive body panels, with 5083 and 5754 used for inner body panels. Bonnets have been manufactured from 2036, 6016, and 6111 alloys. Truck and trailer body panels have used 5456 aluminium.
+Automobile frames often use 5182 aluminium or 5754 aluminium formed sheets, 6061 or 6063 extrusions.
+Wheels have been cast from A356.0 aluminium or formed 5xxx sheet.
+Cylinder blocks and crankcases are often cast made of aluminium alloys. The most popular aluminium alloys used for cylinder blocks are A356, 319 and to a minor extent 242.
+Aluminium alloys containing cerium are being developed and implemented in high-temperature automotive applications, such as cylinder heads and turbochargers, and in other energy generation applications. These alloys were initially developed as a way to increase the usage of cerium, which is over-produced in rare-earth mining operations for more coveted elements such as neodymium and dysprosium, but gained attention for its strength at high temperatures over long periods of time. It gains its strength from the presence of an Al11Ce3 intermetallic phase which is stable up to temperatures of 540 °C, and retains its strength up to 300 °C, making it quite viable at elevated temperatures. Aluminium-cerium alloys are typically cast, due to their excellent casting properties, although work has also been done to show that laser-based additive manufacturing techniques can be used as well to create parts with more complex geometries and greater mechanical properties. Recent work has largely focused on adding higher-order alloying elements to the binary Al-Ce system to improve its mechanical performance at room and elevated temperatures, such as iron, nickel, magnesium, or copper, and work is being done to understand the alloying element interactions further.
+
+
+=== Air and gas cylinders ===
+6061 aluminium and 6351 aluminium  are widely used in breathing gas cylinders for scuba diving and SCBA alloys.
+
+
+== See also ==
+7072 aluminium alloy
+7116 aluminium alloy
+
+
+== References ==
+
+
+== Bibliography ==
+Grushko, Olga; Ovsyannikov, Boris; Ovchinnokov, Viktor (2016).  Eskin, D. G. (ed.). Aluminum-Lithium Alloys: Process Metallurgy, Physical Metallurgy, and Welding. Advances in metallic alloys. Vol. 8. CRC Press/Taylor & Francis Group. doi:10.1201/9781315369525. ISBN 9781498737173. OCLC 943678703.
+Baykov Dmitry et al. Weldable aluminium alloys (in Russian); Leningrad, Sudpromgiz, 1959, 236 p.
+
+
+== External links ==
+Aluminium alloys for die casting according to the Japanese Standards, China National Standards, U.S. Standards and German Standards
+Aluminium alloys for chill casting and low pressure casting according to the Japanese, Chinese, American and German industrial standard
+Aluminium alloys for extrusion according to the German Standards
+The Aluminium Association's chemical composition standards for wrought aluminium
+"The EAA Alumatter" computer-based reference database containing technical information on the most widely used aluminium alloys, their mechanical, physical and chemical properties
+"Applications for Aluminium Alloys and Tempers.
+Influence of Heat Treatment on the Mechanical Properties of Aluminium Alloy
+Aluminium: physical properties, characteristics and alloys

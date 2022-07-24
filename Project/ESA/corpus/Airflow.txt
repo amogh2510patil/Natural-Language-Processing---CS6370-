@@ -1,0 +1,82 @@
+Airflow, or air flow, is the movement of air. The primary cause of airflow is the existence of air. Air behaves in a fluid manner, meaning particles naturally flow from areas of higher pressure to those where the pressure is lower. Atmospheric air pressure is directly related to altitude, temperature, and composition.
+In engineering, airflow is a measurement of the amount of air per unit of time that flows through a particular device.
+The flow of air can be induced through mechanical means (such as by operating an electric or manual fan) or can take place passively, as a function of pressure differentials present in the environment.
+
+
+== Types of airflow ==
+Like any fluid, air may exhibit both laminar and turbulent flow patterns.  Laminar flow occurs when air can flow smoothly, and exhibits a parabolic velocity profile; turbulent flow occurs when there is an irregularity (such as a disruption in the surface across which the fluid is flowing), which alters the direction of movement. Turbulent flow exhibits a flat velocity profile.The Reynolds number, a ratio indicating the relationship between viscous and inertial forces in a fluid, can be used to predict the transition from laminar to turbulent flow. This number and related concepts can be applied to studying flow in systems of all scales.
+The speed at which a fluid flows past an object varies with distance from the object's surface. The region surrounding an object where the air speed approaches zero is known as the boundary layer. It is here that surface friction most affects flow; irregularities in surfaces may affect boundary layer thickness, and hence act to disrupt flow.
+
+
+== Units ==
+Typical units to express airflow are:
+
+
+=== By volume ===
+l/s (litres per second)
+m3/h (cubic metres per hour)
+ft3/h (cubic feet per hour)
+ft3/min (cubic feet per minute, a.k.a CFM)
+
+
+=== By mass ===
+kg/s (kilograms per second)Airflow can also be described in terms of air changes per hour (ACH), indicating full replacement of the volume of air filling the space in question.
+
+
+== Measurement ==
+The instrument that measures airflow is called an airflow meter. Anemometers are also used to measure wind speed and indoor airflow.
+There are a variety of types, including straight probe anemometers, designed to measure air velocity, differential pressure, temperature, and humidity; rotating vane anemometers, used for measuring air velocity and volumetric flow; and hot-sphere anemometers.
+Anemometers may use ultrasound or resistive wire to measure the energy transfer between the measurement device and the passing particles. A hot-wire anemometer, for example, registers decreases in wire temperature, which can be translated into airflow velocity by analyzing the rate of change. Some tools are capable of calculating air flow, wet bulb temperature, dew point, and turbulence.
+
+
+== Simulation ==
+Air flow can be simulated using Computational Fluid Dynamics (CFD) modeling, or observed experimentally through the operation of a wind tunnel. This may be used to predict airflow patterns around automobiles, aircraft, and marine craft, as well as air penetration of a building envelope.
+
+
+== Control ==
+One type of equipment that regulates the airflow in ducts is called a damper. The damper can be used to increase, decrease or completely stop the flow of air. A more complex device that can not only regulate the airflow but also has the ability to generate and condition airflow is an air handler.
+
+
+== Uses ==
+Measuring the airflow is necessary in many applications such as ventilation (to determine how much air is being replaced), pneumatic conveying (to control the air velocity and phase of transport) and engines (to control the Air–fuel ratio).
+Aerodynamics is the branch of fluid dynamics (physics) that is specifically concerned with the measurement, simulation, and control of airflow. Managing airflow is of concern to many fields, including meteorology, aeronautics, medicine, mechanical engineering, civil engineering, environmental engineering and building science.
+
+
+== Airflow in buildings ==
+In building science, airflow is often addressed in terms of its desirability, for example in contrasting ventilation and infiltration. Ventilation is defined as the desired flow of fresh outdoor supply air to another, typically indoor, space, along with the simultaneous expulsion of exhaust air from indoors to the outdoors. This may be achieved through mechanical means or through passive strategies (also known as natural ventilation). By contrast, air infiltration is characterized as the uncontrolled influx of air through an inadequately-sealed building envelope, usually coupled with unintentional leakage of conditioned air from the interior of a building to the exterior.Buildings may be ventilated using mechanical systems, passive systems or strategies, or a combination of the two.
+
+
+=== Airflow in mechanical ventilation systems (HVAC) ===
+Mechanical ventilation uses fans to induce flow of air into and through a building. Duct configuration and assembly affect air flow rates through the system. Dampers, valves, joints and other geometrical or material changes within a duct can lead to flow losses.
+
+
+=== Passive strategies for maximizing airflow ===
+Passive ventilation strategies take advantage of inherent characteristics of air, specifically thermal buoyancy and pressure differentials, to evacuate exhaust air from within a building. Stack effect equates to using chimneys or similar tall spaces with openings near the top to passively draw exhaust air up and out of the space, thanks to the fact that air will rise when its temperature increases (as the volume increases and pressure decreases). Wind-driven passive ventilation relies on building configuration, orientation, and aperture distribution to take advantage of outdoor air movement. Cross-ventilation requires strategically-positioned openings aligned with local wind patterns.
+
+
+=== Relationship of air movement to thermal comfort and overall Indoor Environmental Quality (IEQ) ===
+Airflow is a factor of concern when designing to meet occupant thermal comfort standards (such as ASHRAE 55). Varying rates of air movement may positively or negatively impact individuals’ perception of warmth or coolness, and hence their comfort. Air velocity interacts with air temperature, relative humidity, radiant temperature of surrounding surfaces and occupants, and occupant skin conductivity, resulting in particular thermal sensations.
+Sufficient, properly-controlled and designed airflow (ventilation) is important for overall Indoor Environmental Quality (IEQ) and Indoor Air Quality (IAQ), in that it provides the necessary supply of fresh air and effectively evacuates exhaust air.
+
+
+== See also ==
+Air current
+Volumetric flow rate
+Air flow meter
+Damper (flow)
+Air handling unit
+Fluid dynamics
+Pressure gradient force
+Atmosphere of Earth
+Anemometer
+Computational Fluid Dynamics
+Ventilation (architecture)
+Natural ventilation
+Infiltration (HVAC)
+Particle tracking velocimetry
+Laminar flow
+Turbulent flow
+Wind
+
+
+== References ==

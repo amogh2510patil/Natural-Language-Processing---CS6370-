@@ -1,0 +1,319 @@
+The General Motors 60° V6 engine family is a series of 60° V6 engines produced for both longitudinal and transverse applications. All of these engines are 12-valve cam-in-block or overhead valve engines, except for the LQ1; which uses 24 valves driven by dual overhead cams. These engines vary in displacement between 2.5 and 3.4 litres (2,490 and 3,350 cc) and have a cast-iron block and either cast-iron or aluminum heads. Production of these engines began in 1980 and ended in 2005 in the U.S., with production continued in China until 2010. This engine family was the basis for the GM High Value engine family. These engines have also been referred to as the X engines due to their first usage in the X-body cars.
+This engine is not related to the GMC V6 engine that was designed for commercial vehicle usage.
+This was the first GM "corporate engine" design not to have originated from a specific division.
+
+
+== Generation I ==
+The first generation of modern small GM 60° V6 engines featured an iron block and heads with inline valves. This "clean sheet" design was introduced in 1980 and versions were produced through 1995. Two different blocks with minor differences were developed:
+
+A transverse engine family for front-wheel drive
+A longitudinal engine family for rear-wheel drive
+
+
+=== Transverse ===
+The transverse engines began the 60° family in 1980. Like the rest of the Generation I engines, they were updated in 1985 with larger main journals for durability, along with multi-point fuel injection or E2SE carb and OBD I. Production of the Generation I transverse engines ended in 1986.
+
+
+==== LE2 ====
+The 2.8 L (2,837 cc) LE2 was the first version of the 60° engine. It was a transverse version produced from 1980 through 1986 for the A-body and X-body cars. The standard ("X-code") engine for this line, it used a two-barrel carburetor. Output was 115 hp (86 kW) for 1980 and '81 112 hp (84 kW) for 1982-86 and 135 lb⋅ft (183 N⋅m). Bore was 89 mm (3.5 in) and stroke was 76 mm (2.99 in).
+Applications:
+
+1980–1985 Buick Skylark
+1986 Buick Century
+1986 Oldsmobile Cutlass Ciera & Cutlass Cruiser
+1980–1984 Oldsmobile Omega
+1980–1984 Pontiac Phoenix
+1980–1985 Chevrolet Citation
+1982–1986 Pontiac 6000
+1982–1986 Chevrolet Celebrity
+
+
+==== LH7 ====
+Introduced in 1981, the 2.8 L (2,837 cc) LH7 was a High Output ("Z-code") version of the LE2 for the higher-performance X-cars like the Chevrolet Citation X-11 and higher-performance A-cars like the Pontiac 6000 STE. It retained a two-barrel carburetor and produced 135 hp (101 kW) and 165 lb⋅ft (224 N⋅m) for 1981 and 145 lb⋅ft (197 N⋅m) for 1982-1984 versions. The LH7 was replaced after 1984 with the MFI L44.
+Applications:
+
+1982–1984 Buick Skylark T-Type
+1982–1984 Oldsmobile Omega SX
+1982–1984 Pontiac Phoenix SJ
+1981–1984 Chevrolet Citation X-11
+1984      Chevrolet Celebrity (optional on first year Eurosport)
+1983–1984 Pontiac 6000 STE
+1989–1991 Isuzu Trooper/Trooper II
+
+
+==== L44 ====
+
+The L44 was produced from 1985 to 1988, replacing the LH7. It was the first transverse 2.8 L (2,837 cc) to use multiport fuel injection, and was a High Output ("9-code") engine option for the higher performance A-cars, X-cars, and Pontiac Fiero. This engine produced 140 hp (104 kW) at 5200 rpm and 170 lb⋅ft (230 N⋅m) of torque at 3600 rpm. This engine's camshaft and cylinder heads were later reused in the L32 3.4 L (3,350 cc).4-L engine.
+Applications:
+
+1985–1988 Pontiac Fiero
+1985–1986 Pontiac 6000 STE
+1985–1986 Chevrolet Celebrity Eurosport
+1985 Chevrolet Citation X-11
+
+
+==== LB6 ====
+The LB6 engine was introduced in 1985 to replace the original LE2. It used multiport fuel injection and produced 130 hp (97 kW).
+Applications:
+
+1985–1986 Cadillac Cimarron
+1985–1994 Chevrolet Cavalier
+1985 Chevrolet Citation
+1985 Buick Skylark (sedan)
+1985-1986 Chevrolet Celebrity
+1985-1986 Pontiac 6000
+1985–1986 Oldsmobile Firenza
+
+
+=== LG6 ===
+The LG6 ("D-code") was produced from 1990 to 1996 in both transverse and longitudinal applications. It used throttle-body fuel injection and iron heads. It produced 120 hp (89 kW) and 170 lb⋅ft (230 N⋅m).
+Applications:
+
+1990–1995 Chevrolet Lumina APV
+1990–1995 Oldsmobile Silhouette
+1990–1995 Pontiac Trans Sport
+1990–1992 Isuzu Rodeo
+
+
+=== Longitudinal ===
+The longitudinal versions had minor differences from the transverse engines on which they were based. This group appeared in 1982 with the LC1 and LR2 and never added the aluminum heads of the Generation II engines.
+Like the rest of the family, larger journals appeared in 1985, along with multiport fuel injection for the F-body LB8 version. TBI was added for the truck version in 1986.
+A 3.1 L (3,135 cc) version was added in 1990 with an 8 mm (0.3 in) longer stroke (now 84mm), and a 3.4 L (3,350 cc) appeared for 1993 with a 92 mm (3.6 in) bore and SFI. Production of the 2.8 and 3.1 L (2,837 and 3,135 cc) (Isuzu) engines ended in 1994. Production ended for all longitudinal 60° V6s in 1996. GM's performance-parts division continued production of a related crate engine after 1999.
+2.8 Applications:
+
+1986-1993 Chevrolet S-10
+1986-1993 GMC S-15/GMC Sonoma
+1986-1993 Chevrolet S-10 Blazer
+1986-1993 GMC S-15 Jimmy
+1988-1991 Isuzu Trooper II3.1 Applications:
+
+1991-1992 Isuzu Rodeo
+1991-1994 Isuzu Pickup
+
+
+==== LC1 ====
+The longitudinal LC1 was produced from 1982 to 1984. It was a 2-barrel High Output ("1-code") version for the F-body cars. Output was 102 hp (76 kW) and 145 lb⋅ft (197 N⋅m). It was replaced by the LB8 for 1985.
+Applications:
+
+1982–1984 Chevrolet Camaro
+1982–1984 Pontiac Firebird
+
+
+==== LR2 ====
+The longitudinal LR2 was a truck version ("B-code") produced from 1982 to 1990. It used a two-barrel carburetor and produced 115 hp (86 kW) and 150 lb⋅ft (203 N⋅m).
+Applications:
+
+1982–1986 Chevrolet S-10/Chevrolet S-10 Blazer
+1982–1986 GMC S-15/GMC S-15 Jimmy
+1984–1986 Jeep Cherokee
+1986 Jeep Comanche
+
+
+==== LL1/LL2 ====
+The longitudinal LL1 was a high-output version of the LC1 produced in 1983 and 1984. It was an optional ("L-code") engine on the Pontiac Firebird with 125 hp (93 kW).
+Applications:
+
+1983–1984 Pontiac FirebirdThe carbureted LL2 ("R-code") was produced from 1982 to 1988. Another LL2 ("R-code") with throttle-body fuel injection was produced from 1986 to 1993. Output of the TBI version was 125 hp (93 kW).
+Applications:
+
+1986–1993 Chevrolet S-10/Chevrolet S-10 Blazer
+1986–1993 GMC S-15/GMC S-15 Jimmy
+1989–1991 Isuzu Trooper
+
+
+==== LB8 ====
+The LB8 ("S-code") replaced the LC1 in 1985 and was produced until 1989. It used multiport fuel injection and was made for longitudinal mounting. Output was 135 hp (101 kW) and 165 lb⋅ft (224 N⋅m).
+Applications:
+
+1985–1989 Chevrolet Camaro
+1985–1989 Pontiac Firebird
+
+
+==== LH0 ====
+The LH0 as used in the rear-wheel drive applications differed significantly from that used in front-wheel drive applications. The latter retained the Generation-I architecture block and heads. Output was 140 hp (104 kW) and 180 lb⋅ft (244 N⋅m).
+Applications:
+
+1990–1992 Chevrolet Camaro
+1990–1992 Pontiac Firebird
+1990-1992 Oldsmobile Cutlass Ciera S, Iraq version
+
+
+==== L32 ====
+The power rating of the 3.4 L (3,350 cc) L32 ("S-code") used in the Camaro and Firebird was 160 hp (119 kW) at 4,600 rpm and 200 lb⋅ft (271 N⋅m) torque at 3600 rpm and has 92 mm × 84 mm (3.62 in × 3.31 in) bore and stroke  . The F-body cars used the Generation I architecture, with iron heads, and without splayed valves.
+Applications:
+
+1993–1994 Chevrolet Camaro (California models)
+1993–1995 Chevrolet Camaro
+1993–1994 Pontiac Firebird (California models)
+1993–1995 Pontiac Firebird
+
+
+== Generation II ==
+The second generation, still 2.8 litres (2,837 cc), was introduced in 1987. It used aluminum heads with splayed valves and an aluminum front cover. It was produced exclusively for transverse, front-wheel drive use. The next year, Chevrolet introduced a full-production long-stroke 3.1 L; 191.3 cu in (3,135 cc) version in the Pontiac 6000 STE AWD, with a 89 mm (3.5 in) bore and 84 mm (3.31 in) stroke compared to the 2.8 which shared the same bore, however with a 76 mm (2.99 in) in stroke. It was produced simultaneously with the 2.8 L (2,837 cc) in various compact and midsized vehicles until 1990, when the 2.8 L (2,837 cc) was dropped. MPFI was used on both, and a full-production turbo version was available on the 3.1 L (3,135 cc). An even higher displacement DOHC 3.4 L (3,350 cc) LQ1 was also developed, and eventually, the new GM High Value engine family followed. Production of OHV Generation II engines ended in 1994 after the introduction of the Generation III in 1993.
+The 2.8 L (2,837 cc) 60° V6 was used in these vehicles:
+
+1987–1989 Buick Century
+1988–1989 Buick Regal
+1987–1989 Chevrolet Beretta
+1987–1989 Chevrolet Cavalier Z24
+1990–1994 Mexican Chevrolet Cavalier
+1987–1989 Chevrolet Celebrity
+1987–1989 Chevrolet Corsica
+1987–1989 Oldsmobile Cutlass Ciera
+1988–1989 Oldsmobile Cutlass Supreme
+1987–1989 Pontiac 6000
+1988–1989 Pontiac Grand Prix
+
+
+=== LH0 ===
+The LH0 ("T-code") was introduced in 1988 on the Pontiac 6000 STE AWD, featuring more advanced multi-port fuel injection. It was produced until 1994 (1996 for the Mexican market) and was exported in some models. This engine produced 135 hp (101 kW) and 180 lb⋅ft (244 N⋅m) of torque from 1988–1989, then upgraded to 140 hp (104 kW) at 4800 rpm and 185 lb⋅ft (251 N⋅m) of torque at 3600 rpm.
+Applications:
+
+1989–1993 Buick Regal
+1990–1993 Chevrolet Beretta
+1990–1994 Chevrolet Cavalier
+1990 Chevrolet Celebrity
+1990–1993 Chevrolet Corsica
+1990–1994 Chevrolet Lumina
+1989–1993 Oldsmobile Cutlass Supreme
+1988–1991 Pontiac 6000 (STE AWD 1988-89, all models 1990-91)
+1989–1993 Pontiac Grand Prix
+1991–1994 Pontiac Sunbird
+1990–1996 Chevrolet Cutlass (Mexico)
+1990–1996 Chevrolet Century (Mexico)
+
+
+=== L64 ===
+The L64 ("W-code") was introduced in 1991 as flexible-fuel version of the 3.1 L (3,135 cc). The two versions were one that could run M85 and one that could run E85.
+Uses:
+
+1991–1993 Chevrolet Lumina VFV
+1992–1993 Chevrolet Lumina E85 VFV
+
+
+=== LG5 ===
+The LG5 ("V-code") was a special 3.1 L (3,135 cc) turbocharged engine produced with McLaren for the 1989 and 1990 model years. It featured the same multiport fuel injection intake manifolds and throttle body as the LH0, and produced 205 hp (153 kW) at 5200 rpm and 225 lb⋅ft (305 N⋅m) of torque at 2100 rpm.
+Around 3,700 engines were produced each year. This engine had a block with more nickel content and hardened internals.
+Applications:
+
+1989–1990 Pontiac Grand Prix Turbo
+1990 Pontiac Grand Prix Turbo STE
+
+
+=== LQ1 ===
+
+The LQ1 (also called the Twin Dual Cam or TDC) was a 3.4 L (3,350 cc) DOHC V6 engine ("X-code") based on the aluminum-headed second generation of GM's 60° engine line, sharing a similar block with its pushrod cousins, the 3.1 L LH0 V6 and the then recently retired 2.8 L (2,837 cc) LB6 V6. The engine was built only for front-wheel drive applications, and was featured exclusively in the first generation of GM's W-body platform.
+It was built from 1991 to 1997. From 1991 to 1993, it used tuned multiport fuel injection, made 200–210 hp (149–157 kW) at 5200 rpm and 215 lb⋅ft (292 N⋅m) of torque at 4000 rpm. From 1994 to 1997, it used sequential port fuel injection, making 210 hp (157 kW) at 5200 rpm and 215 lb⋅ft (292 N⋅m) of torque at 4000 rpm. In 1996, the heads were redesigned for better flow, as well as now making the engine an interference design and adapting the engine for federally mandated OBDII emissions. Output for the 1996-1997 LQ1 is 215 hp (160 kW) and 220 lb⋅ft (298 N⋅m). It had four valves per cylinder. The 3.4 L (3,350 cc) engine substituted the standard camshaft for a chain driven intermediate shaft, which drives four overhead cams via a cogged belt. Adapting the 60°pushrod block for the LQ1's overhead cams significantly increased packaged engine height.
+Bore was increased to 92 mm (3.6 in), and the 3.1 L (3,135 cc) engine's 84 mm (3.31 in) stroke was retained. Only a few interchangeable parts are use between this DOHC engine and other members of the 60° family, primarily the connecting rods and crankshaft.
+The heads and intake manifolds were redesigned for the 1996 model year, incorporating a larger throttle body and plenum area, slightly longer intake runners, cloverleaf combustion chambers, and larger "pill"-shaped exhaust ports. Camshafts and cam timing were also revised for the new, higher-rpm powerband.
+Optional from 1991 to 1993 was a Getrag 284 five-speed manual transaxle, which was also exclusive to the GM W platform and was available only with the LQ1. The electronically controlled Hydramatic 4T60-E four-speed automatic transaxle was the alternative, used during the entire production run with the exception of the 1997 Monte Carlo Z34 and 1997 Lumina LTZ, which received the 4T65-E.
+Applications:
+
+1991–1997 Chevrolet Lumina
+1995–1997 Chevrolet Monte Carlo
+1991–1996 Oldsmobile Cutlass Supreme
+1991–1996 Pontiac Grand Prix
+
+
+== Generation III ==
+The third generation of the 60° engine was introduced in the 1993 Oldsmobile Cutlass Supreme. Like its predecessors, it continued to use an overhead valve configuration with two valves per cylinder, a cast-iron cylinder block, aluminum cylinder heads, and an aluminum intake manifold. However, the heads and intake manifold were redesigned for better air flow, the cylinder block was stiffened, and the flat-tappets of the generation I and II engines were replaced with roller tappets. This generation also came standard with sequential multiport fuel injection and structural oil pan.
+
+
+=== 3.1 L/3100 ===
+
+
+==== L82 ====
+The L82 ("M-code") was an updated, SFI replacement for the MPFI LH0, produced from 1993 through 1999. It featured a structural oil pan, a stiffer redesigned engine block, sequential fuel injection, and revised aluminum heads. Output for the L82 was up 20 hp (15 kW), over the previous Gen II LH0, to 160 hp (119 kW) at 5200 rpm and 185 lb⋅ft (251 N⋅m) at 4000 rpm. Compression ratio for the L82 was 9.5:1 and the bore measured 89 mm (3.5 in), while the stroke was 84 mm (3.31 in) giving it a displacement of 3.1 L; 191.3 cu in (3,135 cc). 
+Applications:
+
+1994–1999 Buick Century
+1994–1996 Buick Regal
+1994–1998 Buick Skylark
+1994–1996 Chevrolet Beretta
+1994–1996 Chevrolet Corsica
+1995–1999 Chevrolet Lumina
+1997–1999 Chevrolet Malibu
+1995–1999 Chevrolet Monte Carlo
+1994–1998 Oldsmobile Achieva
+1997–1999 Oldsmobile Cutlass GLS
+1994–1996 Oldsmobile Cutlass Ciera
+1993–1997 Oldsmobile Cutlass Supreme (1993 received both LH0 and L82 3.1 L (3,135 cc) motors)
+1994–1998 Pontiac Grand Am
+1994–1999 Pontiac Grand Prix
+
+
+==== LG8 ====
+
+The LG8 ("J-code") was an updated version of the engine that displaced 3.1 L (3,135 cc). It still had an iron block and two-valve pushrod aluminum heads and full sequential port fuel injection. The LG8 also featured a new intake manifold and numerous changes to improve parts-sharing with the larger-displacement LA1 3400. Emissions were improved with secondary air injection and it earned LEV status. The engine featured a 89 mm (3.5 in) bore and a 84 mm (3.31 in) stroke and a 9.6:1 compression ratio. It produced 170–175 hp (127–130 kW) and 190–195 lb⋅ft (258–264 N⋅m). The LG8 was built in Ramos Arizpe, Coahuila, Mexico and Tonawanda, New York.
+Applications:
+
+2000–2005 Buick Century
+1999–2003 Chevrolet Malibu
+2000–2001 Chevrolet Lumina
+2000–2003 Pontiac Grand Prix SE
+
+
+=== 3.4/3400 ===
+
+
+==== LA1 ====
+The LA1 or 3400 ("E-code") was a larger-bore version of the L82. It was first used on the 1996 U-platform minivans. It displaces 3,350 cc (3.4 L; 204.4 cu in) and has 92 mm × 84 mm (3.62 in × 3.31 in) bore and stroke with a 9.5:1 compression ratio. Emissions are controlled via a catalytic converter and exhaust gas recirculation; however, the Pontiac Aztek and Buick Rendezvous do not use the latter. Fuel shut-off is at 6000 rpm. Starting around 2000, most vehicles are equipped with GM's Engine Oil Life Monitor. This engine was assembled at both Tonawanda engine and the Mexican Ramos Arizpe engine plant.
+Applications:
+
+2002–2005 Buick Rendezvous
+2000–2005 Chevrolet Impala
+2000–2005 Chevrolet Monte Carlo
+1996 Chevrolet Lumina Minivan
+1997–2005 Chevrolet Venture
+1999–2004 Oldsmobile Alero
+1996–2004 Oldsmobile Silhouette
+2001–2005 Pontiac Aztek
+1999–2005 Pontiac Grand Am
+1999–2005 Pontiac Montana
+1996–1998 Pontiac Trans Sport
+
+
+== Production in China by SAIC-GM ==
+GM partnered with SAIC Motor to form SAIC-GM in 1997. This partnership manufactured variants of the 60° V6 engine in China, primarily for use in Chinese market GM products. Chinese-built LNJ engines were used in the US for the 2005-2009 Chevrolet Equinox and Pontiac Torrent.
+
+
+=== LB8 ===
+
+The LB8 is General Motors' base V6 in China. It is a derivative of the LG8 with the same 89 mm (3.5 in) bore and a shorter 66.7 mm (2.6 in) stroke for 2.5 L (2,490 cc). It remains an iron block with pushrods and an aluminum two-valve head. Power is 145 hp (108 kW) and 155 lb⋅ft (210 N⋅m).
+Applications:
+
+Buick GL/GLX (China)
+Buick GL8 (China)
+Buick Regal (China)
+
+
+=== LW9 ===
+The LW9 is a larger version of the LB8 with an 80 mm (3.1 in) stroke for 3.0 L (2,986 cc). Power is 170 hp (127 kW) and torque is 185 lb⋅ft (251 N⋅m).
+Applications:
+
+Buick GL/GLX (China)
+Buick GL8 (China)
+
+
+=== LNJ ===
+An updated version of the Generation III 3400 engine. It includes a new block, intake manifold, oil pan, engine cover, and fuel system, as well as electronic throttle control. It was built in China and shipped to Canada for installation in the Chevrolet Equinox and Pontiac Torrent. The LNJ makes 185 hp (138 kW) and 210 lb⋅ft (285 N⋅m).Applications:
+
+2005-2009 Chevrolet Equinox
+2006-2009 Pontiac Torrent
+
+
+== See also ==
+GM High Value engine - the new generation of the GM 60° V6, including the "3900" and variable valve timing-enhanced engines
+Chevrolet 90° V6 engine
+GM engines
+List of GM bellhousing patterns#GM metric pattern
+
+
+== References ==
+
+Road and Track Magazine, April 1989. (1989-1990 Turbo Grand Prix performance figures)
+1995 Corsica/Beretta Service Manual, 1994, General Motors Corporation (Gen III/L82 Engine's usage in Corsica/Beretta)
+
+
+== External links ==
+60degreev6.com

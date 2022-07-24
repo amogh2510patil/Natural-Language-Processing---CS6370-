@@ -1,0 +1,273 @@
+The Chrysler Hemi engines, known by the trademark Hemi, are a series of American I6 and V8 gasoline engines built by Chrysler with overhead valve hemispherical combustion chambers. Three different types of Hemi engines have been built by Chrysler for automobiles: the first (known as the Chrysler FirePower engine) from 1951 to 1958, the second from 1964 to 1971, and the third beginning in 2003. Although Chrysler is most identified with the use of "Hemi" as a marketing term, many other auto manufacturers have incorporated similar designs. The engine block and cylinder heads were cast and manufactured at Indianapolis Foundry.
+During the 1970s and 1980s, Chrysler also used the Hemi name for their Australian-made Hemi-6 Engine and applied it to the 4-cylinder Mitsubishi 2.6 L engine installed in various North American market vehicles.
+
+
+== Concept ==
+
+A hemispherical cylinder head ("hemi-head") gives an efficient combustion chamber with an excellent surface-to-volume ratio, with minimal heat loss to the head, and allows for two large valves. However, a hemi-head allows no more than two valves per cylinder, and these large valves are necessarily heavier than in a multi-valve engine. The intake and exhaust valves lie on opposite sides of the chamber and necessitate a "cross-flow" head design. Since the combustion chamber is a partial hemisphere, a flat-topped piston would yield too low a compression ratio unless a very long stroke is used, so to attain the desired compression ratio the piston crown is domed to protrude into the head at top dead center. The result is a combustion chamber in the shape of the space between where the domed piston stops and the dome shape in the head receiving it.
+The hemi-head design places the spark plug at or near the center of the chamber to promote a strong flame front. However, if the hemi-head hemisphere is of equal diameter to the piston, there is minimal squish for proper turbulence to mix fuel and air thoroughly. Thus, hemi-heads, because of their lack of squish, are more sensitive to fuel octane rating; a given compression ratio will require a higher octane rating to avoid pre-detonation in a hemi engine than in some conventional engine designs such as the wedge and bathtub.
+The hemi head always has intake and exhaust valve stems that point in different directions, requiring a large, wide cylinder head and complex rocker arm geometry in both cam-in-block and single overhead cam engines (dual overhead cam engines may not have rocker arms). This adds to the overall width of the engine, limiting the vehicles in which it can be installed.
+Significant challenges in the commercialization of engine designs using hemispherical chambers revolved around the valve actuation, specifically how to make it effective, efficient, and reliable at an acceptable cost. This complexity was referenced early in Chrysler's development of their 1950s hemi engine: the head was referred to in company advertising as the Double Rocker Shaft head.
+
+
+=== World War II ===
+Chrysler developed their first experimental hemi engine for the Republic P-47 Thunderbolt fighter aircraft. The XIV-2220 engine was an inverted V16 rated at 2,500 hp (1,860 kW). The P-47 was already in production with a Pratt & Whitney radial engine when the XIV-2220 flew successfully in trials in 1945 as a possible upgrade, but the war was winding down and it did not go into production. However, the exercise gave Chrysler engineers valuable research and development experience with two-valve hemi combustion chamber dynamics and parameters.
+In addition to the aircraft engine, Chrysler and Continental worked together to develop the air-cooled AV-1790-5B V12 Hemi engine used in the M47 Patton tank.
+
+
+== First generation: FirePower ==
+Chrysler applied their military experience with the hemispherical combustion chamber to their first overhead-valve V8 engine, released under the name FirePower, not "Hemi," in 1950 for the 1951 model year. The first version of the FirePower engine had a displacement of 331 cu in (5.4 L) and produced 180 bhp (134.2 kW). Eventually, three of the four Chrysler divisions had their own version of the FirePower engine, with different displacements and designations, and having almost no parts in common. This lack of commonality was due in part to the three engine versions using different bore pitches (the center-to-center distance between adjacent cylinders). Chrysler and Imperial called their versions the FirePower. DeSoto called theirs the FireDome. Dodge had a smaller version, known as the Red Ram. Only Plymouth did not have a version, but retained the Dodge poly-head engines. There was no Plymouth hemi engine until the 1964 426.
+Briggs Cunningham used the Chrysler version in some of his race cars for international motorsports. A Chrysler-powered Cunningham C-5R won its class in 1953. Cunningham switched away from these designs in 1959 when Chrysler temporarily abandoned the hemispherical concept in favor of the wedge-head B engine until 1964. Carl Kiekhaefer also used the Chrysler engines in NASCAR cars owned by him from 1955 and 1956, winning the Grand National Series championship both years.
+Collectively, the 1951–1958 Hemi engines are now commonly referred to as first-generation Hemi engines, and the group can be identified by the rear-mounted distributor and the spark plugs in a row down the center of wide valve covers.
+
+
+=== 1951 Plymouth Hemi V6 ===
+There were plans in 1951 for a Plymouth Dual Overhead Cam Hemi V6 displacing 235 cubic inches (3.9 L) designed by Chrysler's Powerplant Research and Engine Design division. It was meant to be a powerful, fuel-efficient alternative to Ford's V8 and to replace Plymouth's venerable flathead 6.
+The plans were scrapped due to build costs and because of the then unusual design.
+
+
+=== Chrysler and Imperial ===
+All Chrysler FirePower engines are oversquare; i.e. their bore is larger than their stroke.
+
+
+==== 331 ====
+This first FirePower engine, used from 1951 to 1955, has a bore of 3.8125 in and a stroke of 3.625 in for a piston displacement of 331 cu in (5.4 L), and a deck height of 10.32" ("low deck"). The bore pitch, shared by all Chrysler FirePower engines, was 4.5625", the largest of any 1st generation hemi engines. Most used a two-barrel carburetor and produced 180 bhp (134 kW), with the famous exception of the 1955 Chrysler C-300 equipped with dual Carter WCFB four-barrel carburetors and rated at 300 hp (220 kW).The 331 engine was used in the following applications:
+
+1951–1955 Chrysler New Yorker
+1951–1954 Chrysler Imperial and 1955 Imperial
+1951 Chrysler Saratoga
+1952 Chrysler Saratoga Club Coupe
+1952 Chrysler Imperial Parade Phaeton
+1955 Chrysler C-300
+1956 Facel Vega FVS
+The Chrysler air raid siren. At 138 decibels, it is the loudest siren ever made.
+
+
+==== 354 ====
+The 354 cu in (5,801 cc), released in 1956, had a bore of 3.9375 in and stroke of 3.625 in, and the same 10.32" low deck height. The 300B engine was rated at 340 bhp (254 kW), while the New Yorker and Imperial 354 engine configuration produced 280 bhp (209 kW). For the 300B an optional 355 hp (265 kW; 360 PS) version was available, making it the first American V8 to be rated at one horsepower per cubic inch. Note that was before 1972, horsepower was SAE gross. After 1972, horsepower is SAE net.
+The 354 was also modified. The hemi was optimized for heavy-duty truck service. These were available with one or two four-barrel carburetors, and were offered in Dodge's heaviest-duty models as the 'Power Giant V-8' from 1957 through 1959; they were the largest of four hemi truck engines offered by Dodge in the 1950s. The 354 was also offered in certain models with polyspheric heads rather than hemi heads. The combustion chambers on these had similarities to both hemi and wedge heads, but were closer in weight to wedge heads. Thus, both 354 poly and 354 hemi V8 engines were variously available in 1957.
+The 354 engine was used in the following applications:
+
+1956 Chrysler New Yorker
+1956 Chrysler 300B
+1956 Imperial Custom & Crown
+1957 Dodge D-501
+1957–1959 Dodge C Series Pickup
+
+
+==== 392 ====
+The 392 raised-deck engine released in 1957 had a 4.00 in (101.6 mm) bore and 3.906 in (99.21 mm) stroke. The actual displacement is 392.67 cu in (6,435 cc). The deck height, at 10.87 in (276.1 mm), was 1⁄2 in (13 mm) taller than that of the previous blocks. Because its deck was taller, the heads were cast with wider intake ports so that earlier manifolds could be used with the new heads on the new taller block. For 1958, Chrysler offered the 392 in two configurations: 325 bhp (242 kW) with 9.25:1 compression and 345 bhp (257 kW) with 10:1 compression, both with a single four-barrel carburetor. A dual four-barrel version of the 392 available in the 1957-58 Chrysler 300C & 300D cars was rated at 375 bhp (280 kW); the 300D, and some marine and industrial engines, used a (now rare) adjustable rocker. An extremely rare option available on the 1958 300D was Bendix "Electrojector" fuel injection, with which the 392 was rated at 390 bhp (291 kW). Due to reliability problems with the primitive onboard computer which controlled the injection system, however, 15 of the 16 300D cars built with the fuel injection option were recalled and retrofitted with carburetors.The 392 engine was used in the following applications:
+
+1957–1958 Chrysler New Yorker
+1957–1958 Imperial Custom, Crown, and LeBaron
+1957 Chrysler 300C
+1958 Chrysler 300D
+1958 Facel Vega Excellence (EX)In the late 1950s and early 1960s, drag racers found the 392 to be a formidable engine and continued to run them competitively into the 1970s. Usual color of the block was silver.
+
+
+=== DeSoto ===
+
+DeSoto's Hemi engines were called FireDome and served as the naming convention for the DeSoto Firedome sedan.
+
+
+==== 276 ====
+In 1952, DeSoto introduced its version of the FirePower with a bore of 3.625 in (92.08 mm) and stroke of 3.344 in (84.94 mm), for a displacement of 276.1 cu in (4.5 L). The bore pitch, shared by all DeSoto FirePower engines, was 4.3125 in (109.54 mm). Power output was 160 bhp (119 kW). It was a hot seller, with 50,000 vehicles using the engine until it was replaced in 1954.
+
+
+==== 291 ====
+An increase in displacement to 290.8 cu in (4.8 L) was made for 1955 by increasing the bore to 3.72 in (94.5 mm).
+
+
+==== 330 ====
+The DeSoto engine was enlarged for 1956 to 329.9 cu in (5.4 L). Bore was the same as the 291 at 3.72 in (94.5 mm), but stroke was increased to 3.80 in (96.5 mm) and a taller (raised-deck) block was used.
+
+
+==== 341 ====
+Displacement was increased again for 1956 (DeSoto Adventurer only) and 1957 (Firedome and Fireflite models) to 341.1 cu in (5.6 L). Bore was now 3.78 in (96.0 mm) with stroke remaining at 3.80 in (96.5 mm). The DeSoto Adventurer produced 320 bhp (239 kW) using dual Carter WCFB four-barrel carburetors.
+The 1956 DeSoto Adventurer was the premiere named high-performance version—the DeSoto equivalent of the Chrysler 300—using dual Carter WCFB four-barrel carburetors.
+The Adventurer engine for 1956 used a displacement of 341 CID (3.78" bore by 3.80" stroke) and had a compression ratio of 9.5:1, using a special hydraulic camshaft profile.
+
+
+==== 345 ====
+The largest DeSoto engine for 1957 was the DeSoto Adventurer offering 344.6 cu in (5.6 L) with square bore and stroke dimensions of 3.80 inches. The DeSoto Adventurer used dual Carter WCFB four-barrel carburetors for a rating of 345 bhp (257 kW), producing one horsepower per cubic inch (the first American car to do so as standard equipment) utilizing a similar intake manifold to the 1956 341 Adventurer and a similar camshaft. The compression ratio remained at 9.5:1.
+
+
+=== Dodge ===
+Dodge's Hemi was introduced in 1953 as the Red Ram. Dodge did not have a V8 engine until one was developed specifically for the line in 1953 based on the 1951 Chrysler hemi design, but downsized for these smaller cars. They have the smallest bore center distance of any hemi engine at 4.1875 in (106.4 mm). They do not share any major dimensions or components with the larger Chrysler and DeSoto hemi engines, or the Plymouth A engines. From 1955 to 1958 (see 1956 D500 Dodge D-500 cars and packages: early performance cars) lower-performance versions of the Dodge hemi were introduced by substituting less complex poly (single rocker shaft) heads and valve train parts, including one variant only built as a poly (259"). These were used in low-line 1955-58 DeSotos and Dodges, and 1955-56 high-line Plymouths.
+Dodge Trucks marketed their version of the Hemi under the name PowerDome.
+
+
+==== 241 ====
+Dodge introduced the 241.3 cu in (4.0 L) engine in 1953. Bore was 3.4375 in (87.3 mm) and stroke was 3.25 in (82.6 mm). With a low compression ratio of 7.0:1 (in 1953 and for the 1954 Meadowbrook), the 241 produced 140 bhp (104 kW). For 1954, the more senior Dodges received 150 bhp (112 kW) thanks to a higher 7.5:1 compression ratio. This engine is not the same as the Plymouth 241, which had polyspheric, not hemi heads. The 241 only lasted two years, being replaced by the 270 for 1955.
+
+
+==== 270 ====
+The D553 1955/1956 Dodge Red Ram Hemi 270 displaced 270 cu in (4.4 L) and was used in premium 1955 and 1956 Dodge vehicles. Bore was 3.625 in (92.1 mm) and stroke was 3.25 in (82.6 mm). It was not the same as the 270 poly-head. In the Dodge Coronet, running 7.6:1 compression ratio, the 270 produced 183 bhp (136 kW). In higher trims like the Dodge Royal, the "Super Red Ram" ran the same compression ratio but with a four-barrel carburetor produced 193 bhp (144 kW).
+
+
+==== 315 ====
+For 1956, Dodge increased the displacement to 315 cu in (5.2 L) with a longer 3.80 in (96.5 mm) stroke and a taller raised-deck block and now with a polyspheric heads—no longer a Hemi. But the optional high-performance D-500 version of this engine had a four-barrel carburetor and a larger valved Dodge hemispherical combustion chambered head. Also, a "race only" package called the D-500-1 or DASH 1 was available with a special aluminum dual four-barrel intake that sported a pair of Carter WCFB carburetors similar to the ones on the Chrysler 300B and DeSoto Adventurer. This engine used the same cylinder heads as the base D-500 model.
+The D-501 in 57 was the Chrysler 354 engine, not a Dodge-based engine.
+
+
+==== 325 ====
+Dodge released a 325 cu in (5.3 L) engine for 1957. The "Super Red Ram" engine used a 3+11⁄16 in (93.7 mm; 3.69 in) bore and 3.80 in (96.5 mm) stroke.
+The base engine offering was now a polyspheric chambered head referenced as 'KDS', and a higher performance 325 was offered with hemi heads as the 'KD-500'. Again there was a low volume offering of a 'KD-500-1' with dual four-barrel carburetors. All engines now, however, had hydraulic camshafts even though the hemi headed offerings sported "dimples" in the valve covers for mechanical adjuster clearance.
+
+
+== Second generation: 426 ==
+
+The hemispherical head design was revived in 1964. These were the first engines officially designated Hemi, a name Chrysler had trademarked. Chrysler Hemi engines of this generation displaced 426 cu in (7.0 L). The 426 Hemi was nicknamed the "elephant engine" at the time, a reference to its high power, heavy weight and large physical dimensions. Its 10.72 in (272.3 mm) deck height and 4.80 in (121.9 mm) bore spacing made it the biggest engine in racing at the time.
+The 426 Hemi of the 1960s was an engine produced for use in NASCAR, as raced in a Plymouth Belvedere in 1964. It was not initially available to the general buying public. The 426 Hemi was not allowed to compete in NASCAR's 1965 season due to its unavailability in production vehicles sold to the general public and because of complaints by Ford regarding its power. However several special production versions of the Dodge Dart, the Plymouth Fury, and later, in 1965, the Dodge Coronet, were produced with aluminum fenders and bumpers for drag racing and made available to the general public.
+Chrysler introduced the "Street" Hemi in 1966 for its intermediate range of cars and sold the required number of Hemi engines to the public to homologate its use for stock car racing in NASCAR events in 1966. The "Street Hemi" was similar to the race Hemi but with an inline 2X4-bbl induction system (with automatic choke), lower compression (10.25:1 from 12.5:1) and lower-lift camshaft, with iron exhaust manifolds instead of lighter steel long tube headers.There were many differences between the Hemi and the Wedge-head big-block, including main cross-bolted bearing caps and a different head bolt pattern.  Although all manufacturers were familiar with multi-valve engines and hemispherical combustion chambers, adding more valves per cylinder and designing the complex valvetrain they require were expensive ways of improving the high–revolutions per minute (rpm) breathing of production vehicles. By canting the angle of the NASCAR-mandated two valves per cylinder, significantly larger valves could be used. The Chrysler 426 Hemi and all Chrysler RBs had oversquare bore and strokes. Specifically, the 426 Hemi and 426 Wedge had a bore x stroke of 4+1⁄4 in × 3+3⁄4 in (108.0 mm × 95.3 mm).
+The 426 Hemi, in "street Hemi" form, was produced for consumer automobiles from 1965 through 1971. Hemi-powered Dodge and Plymouth cars produced in the model years of 1965 through 1971 have become collector's items. For example, a 1971 Plymouth Barracuda Convertible equipped with the 426 Hemi engine sold at auction for US$3.5 million in 2014.The street Hemi version was rated at 425 bhp (431 PS; 317 kW) at 5000 rpm SAE gross and 490 lb⋅ft (664 N⋅m) at 4000 rpm of torque equipped with a pair of four-barrel Carter AFB carburetors. In actual dynamometer testing, it produced 433.5 hp (323 kW; 440 PS) and 472 lb⋅ft (640 N⋅m) of torque in purely stock form. Chrysler's sales literature published both the gross 425 hp (317 kW; 431 PS) and net 350 hp (261 kW; 355 PS) ratings for 1971.
+The street version of the 2G Hemi engine was used (optionally, in all but the last case) in the following vehicles:
+
+1966–1970 Dodge Coronet/Plymouth Belvedere
+1966–1971 Plymouth Satellite
+1966–1971 Dodge Charger
+1966-1971 Jensen FF
+1966-1971 Jensen Interceptor
+1967–1971 Plymouth GTX
+1968 Dodge Dart Super Stock
+1968 Plymouth Barracuda
+1968–1971 Dodge Super Bee
+1968–1971 Plymouth Road Runner
+1969 Dodge Charger R/T
+1969 Dodge Charger Daytona
+1970 Plymouth Superbird
+1970–1971 Plymouth Hemi 'Cuda
+1970–1971 Dodge Challenger
+1970 Monteverdi Hai 450To avoid confusion with earlier (1951–58) and current Hemi engines, the 426 is sometimes called the "2G" or "Gen 2" Hemi.
+
+
+=== In racing ===
+There were many differences between the racing Hemis and the street Hemi, including but not limited to compression ratio, camshaft, intake manifold, exhaust manifold. Some 1960s NASCAR and NHRA Hemi engines featured magnesium cross-ram intake manifolds and magnesium oil pans in an attempt to reduce the massive weight of the overall engine, along with chain-driven internal dry sump oil systems. Today, aftermarket blocks, heads, intakes, rods, and pistons are usually made of aluminum.
+The 426 Hemi also was used in NHRA and AHRA drag racing. Its large casting allowed the engine to be overbored and stroked to displacements unattainable in the other engines of the day. Top-fuel racing organizers limited the bore spacing of engines until very recently, when under pressure from Ford and other manufacturers, the bore spacing allowed was increased to 4.90 in (124.5 mm)—this allows other engines such as the Ford 385 series to begin to compete. The engines based on the old Chrysler design predominate Top Fuel and Funny Car classes due to plentiful parts, a large amount of research and development, as well as decades of experience with the problems of the engine's design. In drag racing today, it is usually equipped with a large Roots type supercharger and short individual exhaust pipes, and fueled with nitromethane. Yet, this variant is used in Top Fuel, Funny Car, and Pro Modified classes.
+
+
+== Third generation: 2003-present ==
+
+The current-production "HEMI" engine heads are flatter and more complex than the 1950s–'70s Hemi V8 chamber. The combustion chambers are no longer truly hemispherical. It uses a coil-on-plug distributor-less ignition system and two spark plugs per cylinder to shorten flame travel leading to more consistent combustion and reduced emissions. Like most of Chrysler's past-model Hemi-head engines, the 5.7 version is rated at approximately one horsepower per cubic inch (the current engines are SAE net, whereas the old Hemi engines were rated SAE gross). For the 2009 model year power was increased to 357-395 horsepower (266-291 kW) and 389-410 lb·ft (527-556 N·m)  depending on application. It also achieved 4% better fuel economy. Variable valve timing (VVT) was also introduced.
+A new variable displacement technology called Multi-Displacement System (MDS) is used in some versions which can shut off two cylinders on each bank under light load to improve fuel economy.
+
+
+=== 5.7 ===
+
+The 5.7 L HEMI was released for model year 2003 on the Dodge Ram pickup trucks to complement the Magnum 5.9 engine. As of 2004 it was the only available gasoline engine in the Ram Heavy Duty. Chrysler later made the 5.7 L Hemi available in all models of the 2004 Dodge Ram, Dodge Durango, the 2005 Chrysler 300C, Dodge Magnum R/T, Jeep Grand Cherokee, the 2006 Dodge Charger R/T, Jeep Commander, the 2007 Chrysler Aspen, the 2009 Dodge Challenger R/T, and the 2022 Jeep Wagoneer. For manual transmission applications (Challenger and 3/4- and 1-ton Ram pickups), cylinder deactivation is not included.
+The 5.7 L (345 cu in) Hemi in the Ram delivered 345 hp (257.3 kW) and 375 lb⋅ft (508 N⋅m), but 340 hp (253.5 kW) and 390 lb⋅ft (529 N⋅m) for the 300C and Magnum R/T, which is exactly 100 hp (74.6 kW) more than the old 5.9 engine. It is a 90-degree V8, 2-valve pushrod design like the past Magnum series engines, displacing 5,654 cc (345 cu in), with a bore of 3.917 in (99.49 mm) and a stroke of 3.578 in (90.88 mm).The 5.7 L Hemi is made at Chrysler's Saltillo Engine plant in Ramos Arizpe, Mexico.
+The Hemi was on the Ward's 10 Best Engines list for 2003 through 2007, and again in 2009.
+This engine is used in the following vehicles:
+
+2003–present Ram Pickup
+2004–2009, 2011–Present Dodge Durango
+2005–2008 Dodge Magnum R/T
+2005–present Chrysler 300C, 300S V8 (2010, 2012–Present)
+2005–present Jeep Grand Cherokee
+2006–present Dodge Charger R/T
+2006–2010 Jeep Commander
+2007–2009 Chrysler Aspen
+2009–present Dodge Challenger R/T
+2022–present Jeep Wagoneer
+
+
+=== 2009 5.7 revisions ===
+Chrysler made various revisions to the 5.7 L for the 2009 model year. The first for all applications is what Chrysler calls Variable Camshaft Timing or VCT. VCT (which is essentially variable valve timing) uses an oil control valve that controls oil flow to a unique camshaft sprocket that contains a phasing device, which depending on the operation of the oil control valve either advances or retards camshaft timing.
+Cylinder heads have been revised to increase flow. Though the intake manifold has also been changed on all applications, it is however model specific. Dodge Ram, non-Hybrid Electric Vehicle (HEV) Chrysler Aspens, and non-HEV Dodge Durango utilize an active intake manifold with a short runner valve to optimize torque and horsepower. At lower engine rpm the valve is closed, resulting in improved low-end torque from the longer runners. At higher engine rpm the valve is opened, diverting the incoming air into the center of the manifold. The shorter runners result in improved horsepower. Passenger cars, Jeep vehicles, as well as HEV Chrysler Aspen and HEV Dodge Durango do not use this manifold; instead, these vehicles utilize a passive intake manifold, which does not have a short runner valve.
+Six-speed manual transmission and all Heavy Duty truck applications will differ by not having the Multi-Displacement System (MDS). The new version of the 5.7 L has five different camshaft profiles. All will have VCT.
+
+Active intake with MDS
+Active intake without MDS
+Passive intake with MDS
+Passive intake without MDS
+HEV Application (modified version of passive intake with MDS)Power Numbers
+300C/300S V8: 363 hp (271 kW), 394 lb⋅ft (534 N⋅m)
+Charger R/T: 370 hp (276 kW), 395 lb⋅ft (536 N⋅m)
+Challenger R/T Automatic: 372 hp (277 kW), 400 lb⋅ft (542 N⋅m)
+Challenger R/T 6 Speed Manual: 375 hp (280 kW), 410 lb⋅ft (556 N⋅m)
+2009-2012 Ram 1500 Truck: 390 hp (291 kW), 407 lb⋅ft (552 N⋅m)
+2013+ Ram 1500 Truck: 395 hp (295 kW), 410 lb⋅ft (556 N⋅m)
+Ram 2500/3500 Truck: 383 hp (286 kW), 400 lb⋅ft (542 N⋅m)
+Jeep Grand Cherokee and Jeep Commander: 360 hp (268 kW), 390 lb⋅ft (529 N⋅m)
+2011+ Dodge Durango: 360 hp (268 kW), 390 lb⋅ft (529 N⋅m)
+2009 Chrysler Aspen and Dodge Durango non-HEV: 376 hp (280 kW), 401 lb⋅ft (544 N⋅m)
+2009 Chrysler Aspen and Dodge Durango HEV: 399 hp (298 kW), 390 lb⋅ft (529 N⋅m)
+2022 Jeep Wagoneer: 392 hp (292 kW), 404 lb⋅ft (548 N⋅m)
+
+
+=== 6.1 ===
+
+The Hemi is also available in a 6,059 cc (6.1 L; 369.7 cu in) version. The engine's bore x stroke is 103 mm × 90.9 mm (4.055 in × 3.579 in) and many other changes were made to allow it to produce 425 bhp (317 kW; 431 PS) at 6,200 rpm and 420 lb⋅ft (569 N⋅m) of torque at 4,800 rpm. The engine block is different from the 5.7, with revised coolant channels and oil jets to cool the pistons. A forged crankshaft, lighter pistons and strengthened connecting rods aid durability. A cast aluminium intake manifold is tuned for high-rpm power and does not include variable-length technology. Chrysler's Multi-Displacement System is not used on the 6.1.
+Applications:
+
+2005–2010 Chrysler 300C SRT-8
+2006–2008 Dodge Magnum SRT-8
+2006–2010 Dodge Charger SRT-8
+2006–2010 Jeep Grand Cherokee SRT-8
+2008–2010 Dodge Challenger SRT-8
+
+
+=== 6.2 Hellcat ===
+For 2015, Chrysler introduced an all-new high performance supercharged variant of the Hemi engine, called the Hellcat (named after the Grumman F6F Hellcat). It features the same 4.09 in (103.9 mm) bore as the 6.4 L Hemi and the same 3.578 in (90.9 mm) stroke as the 5.7 L, giving it a total displacement of 6,166 cc (6.2 L; 376.3 cu in). The supercharger is a 2,380 cc (145 cu in) twin-screw IHI unit with integrated charge coolers, capable of producing 11.6 psi (80 kPa; 0.80 bar) of boost. This engine is rated at 707 bhp (717 PS; 527 kW) at 6,000 rpm and 650 lb⋅ft (881 N⋅m) at 4,000 rpm of torque and has a compression ratio of 9.5:1. This engine was the most powerful engine produced by Chrysler as well as the most powerful production engine ever in a muscle car until the Dodge Demon was introduced. This engine is not equipped with Chrysler's Multi-Displacement System. In 2017, Mopar announced that it would sell it as a crate engine under the name Hellcrate. A Redeye version with 797 hp (808 PS; 594 kW) debuted in the Dodge Challenger in 2019, followed by the Dodge Charger in 2021.
+Applications:
+
+2015–Present Dodge Challenger SRT Hellcat
+2015–Present Dodge Charger SRT Hellcat
+2018–present Jeep Grand Cherokee Trackhawk
+2021 Dodge Durango SRT Hellcat
+2017 Ram 1500 Rebel TRX Concept
+2021–Present Ram 1500 TRX
+
+
+=== 6.2 Demon ===
+The Demon version of the Hemi V8 features a number of improvements over the Hellcat variant. It is fitted with a larger, 2.7 L twin-screw supercharger, as well as reinforced reciprocating components, a new camshaft, and several other valvetrain upgrades. With these improvements, the Challenger SRT Demon is rated at 808 horsepower on 91-octane pump gasoline, and 840 horsepower when running on 100-octane unleaded racing gasoline. Cooling is aided by a functional Air-Grabber hood scoop, as well as a unique charge cooling system that makes use of the air-conditioning coolant to lower the intake charge air temperature. High-speed launches are assisted by a factory line-lock system, which allows the car to perform a burnout to warm the rear tires, the first transmission brake to be installed in a production car, and the Torque Reserve Launch System.
+Applications:
+
+2018 Dodge Challenger SRT Demon
+
+
+=== 6.4 ===
+
+Chrysler displayed a larger and more powerful 392-cubic-inch (6.4 L) HEMI in 2005 with a conservative factory-rated output of 525 hp (391 kW; 532 PS) and 510 lb⋅ft (691 N⋅m) torque. It is equipped with high-strength forged aluminum alloy pistons. This engine has been available since 2007, as a crate engine under the name 392 HEMI.The production version of the 392 HEMI was launched in the 2011 Dodge Challenger SRT8 with variable camshaft timing as well as MDS in cars with automatic transmissions. The new 392 HEMI, codenamed "Apache," is based on the third-generation 5.7 L HEMI, codenamed "Eagle," and shares few parts with the 392 crate engine.
+Special-Edition Chargers and Challengers equipped with this engine, and the engines themselves, will bear "392 HEMI" badging in commemorative reference to the first-generation engine of the same displacement. In other applications, the engine is badged as "6.4L HEMI".
+Output is 470 hp (350 kW) and 470 lb⋅ft (637 N⋅m);For the 2015 model year, horsepower was increased to 485 hp (362 kW) and torque to 475 lb⋅ft (644 N⋅m) in the Charger and Challenger SRT 392 (2015-2018) and R/T Scat Pack (2015–present) models; the Grand Cherokee SRT only saw a 5 bhp increase. Export models of the Chrysler 300 SRT retained the 470 hp (350 kW) and 470 lb⋅ft (637 N⋅m) output.Applications:
+
+Chrysler 300 SRT
+Dodge Challenger SRT 392
+Dodge Charger SRT 392
+Dodge Durango SRT
+Jeep Grand Cherokee SRT
+Jeep Grand Wagoneer
+Jeep Wrangler Unlimited Rubicon 392
+
+
+==== HD Truck and Cab Chassis version ====
+Starting in model year 2014, the Ram 2500 and 3500 trucks, and Ram 3500, 4500, and 5500 Cab Chassis offered a revised version of the 6.4 L, being re-tuned for better fuel economy and a power band more suitable for hauling and towing than the all-out power of the SRT Version. In 2016 it replaced the 5.7 L as the standard gas engine in the Cab Chassis models.
+Power Numbers
+2500 and 3500 Pickup, 3500 SRW Cab Chassis with RFE transmission: 410 hp (306 kW), 429 lb⋅ft (582 N⋅m)
+3500 Mega Cab, 3500 DRW Cab Chassis with RFE transmission, 3500 SRW/DRW with Aisin Transmission: 370 hp (276 kW), 429 lb⋅ft (582 N⋅m)
+4500 and 5500 Cab Chassis: 366 hp (273 kW), 429 lb⋅ft (582 N⋅m)
+
+
+=== Mopar 426 HEMI (2012–present) ===
+
+At the 2012 North American International Auto Show in Detroit, Dodge debuted a Mopar Customized Dodge Charger "Redline" that featured a modern 426-cubic-inch (7.0 L) HEMI V8 engine rated at 590 hp (440 kW; 598 PS).
+
+
+=== Marketing ===
+From February to April 2005, DaimlerChrysler hosted a "What Can You HEMI?" contest promoting alternative uses of the HEMI engines. The top five finalists include HEMI Snowblower, HEMI-Go-Round carousel, HEMI on Ice ice resurfacer, HEMI-Shredder, HEMI Big Wheel, i.e. the child's tricycle of the 1970s. The winner was the HEMI Big Wheel, which had a 5.7 L Hemi in the back that was installed backwards, thus reverse became the only forward gear. Plate steel was the predominant material, while a rolled tube of steel had to be utilized for the front tire as there were no such tires 4-foot (122 cm) in diameter that were as narrow as needed for this project.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+How a hemi engine works
+A Body Hemi engine swaps
+New Hemi technical article at AutoSpeed
+The Original HEMI
+Mopar HEMI Gen II page
+Mopar HEMI Gen III page
